@@ -1,10 +1,10 @@
-title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
+title: NLp Arxiv Daily
+description: Automatically Update NlP Papers Daily using Github Actions
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/M13c/nlp-arxiv-daily
+  another_url: https://github.com/M13c/nlp-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
@@ -13,7 +13,7 @@ remote_theme: jekyll/minima@v2.5.1
 skin: dark
 social_links:
   twitter: AlphaRealcat
-  github: vincentqyw
+  github: M13c
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
