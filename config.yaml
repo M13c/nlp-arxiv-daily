@@ -22,18 +22,56 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    # "Visual Localization":
-    #     filters: ["Visual Localization","Camera Localization",
-    #               "Camera Re-localisation","Loop Closure Detection",
-    #               "visual place recognition","image retrieval"]
-    # "Keypoint Detection":
-    #     filters: ["Keypoint Detection", "Feature Descriptor"]
-    # "Image Matching":
-    #     filters: ["Image Matching", "Keypoint Matching", 
-    #               "Line Segment Detection", "Local Feature Matching"]
-    # "NeRF":
-    #     filters: ["NeRF"]
+    "Semantic Understanding": 
+        filters: ["Semantics", "Word Sense Disambiguation", "Sentence Representation"]
+
+    "Text Classification":
+        filters: ["Text Categorization", "Sentiment Analysis", "Topic Modeling", "Text Classification"]
+
+    "Machine Translation": 
+        filters: ["Translation", "Neural Machine Translation", "Multilingual Models"]
+
+    "Question Answering": 
+        filters: ["QA Systems", "Knowledge Bases", "Factoid Questions", "Reading comprehension", "Logic reasoning", "Multimodal QA", "Knowledge base QA"]
+
+    "Dialogue Systems":
+        filters: ["Chatbots", "Conversational Agents", "Conversational modeling","Dialogue System", "Interactive System", "Multi-modal dialogue system"]
+
+    "Text Generation":
+        filters: ["Text Synthesis", "Storytelling", "News Article Generation", "Text Generation"]
+
+    "Large Language Models":
+        filters: ["Pre-training", "Prompt", "Scaling", "Sparse models", "Fine-tuning"]
+    
+    "Information Retrieval":
+        filters: ["Information Retrieval", "IR Systems", "Document Ranking", "Query Expansion"]
+
+    "Sentiment Analysis": 
+        filters: ["Emotion Detection", "Opinion Mining", "Affective Computing"]
+
+    "Knowledge Graphs and Reasoning":
+        filters: ["Knowledge Graph", "Knowledge Representation", "Graph Neural Networks", "Reasoning over Knowledge"]
+
+    "Text Summarization": 
+        filters: ["Summarization", "Extractive Summarization", "Abstractive Summarization"]
+
+    "speech recognition":
+        filters: ["speech recognition"]
+
+    "Parsing": 
+        filters: ["Syntactic Parsing", "Dependency Parsing", "Constituency Parsing"]
+
+    "Information Extraction": 
+        filters: ["Named Entity Recognition", "relation extraction", "Event extraction", "NER", "Entity Detection", "Entity Linking"]
+
+    "Document Classification":
+        filters: ["Document Classification", "Document Categorization", "Multi-label Classification", "Hierarchical Classification"]
+
+    "Cross-lingual Processing":  
+        filters: ["Multilingual NLP", "Language Adaptation", "Zero-shot Learning"]
+
+    "Ethics and Bias":  
+        filters: ["Bias Mitigation","Data ethics", "Fairness in NLP", "Explainable AI"]
+
+    "Language Resources and Tools":
+        filters: ["Corpus Linguistics", "NLP Toolkits", "Data Annotation"]

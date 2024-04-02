@@ -282,7 +282,7 @@ def json_to_md(filename,md_filename,
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+",encoding='utf-8') as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
