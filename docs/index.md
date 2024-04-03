@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -59,7 +59,7 @@ layout: default
 |**2024-03-29**|**On Large Language Models' Hallucination with Regard to Known Facts**|Che Jiang et.al.|[2403.20009](http://arxiv.org/abs/2403.20009)|null|
 |**2024-03-28**|**LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces**|Xiaomin Ouyang et.al.|[2403.19857](http://arxiv.org/abs/2403.19857)|null|
 |**2024-03-29**|**LLMs as Academic Reading Companions: Extending HCI Through Synthetic Personae**|Celia Chen et.al.|[2403.19506](http://arxiv.org/abs/2403.19506)|null|
-|**2024-03-27**|**Deep Learning for Traffic Flow Prediction using Cellular Automata-based Model and CNN-LSTM architecture**|Zhaohui Yang et.al.|[2403.18710](http://arxiv.org/abs/2403.18710)|null|
+|**2024-04-01**|**Energy-Guided Data Sampling for Traffic Prediction with Mini Training Datasets**|Zhaohui Yang et.al.|[2403.18710](http://arxiv.org/abs/2403.18710)|null|
 |**2024-03-27**|**TriviaHG: A Dataset for Automatic Hint Generation from Factoid Questions**|Jamshid Mozafari et.al.|[2403.18426](http://arxiv.org/abs/2403.18426)|**[link](https://github.com/datascienceuibk/triviahg)**|
 |**2024-03-27**|**Common Sense Enhanced Knowledge-based Recommendation with Large Language Model**|Shenghao Yang et.al.|[2403.18325](http://arxiv.org/abs/2403.18325)|**[link](https://github.com/ysh-1998/csrec)**|
 |**2024-03-27**|**Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**|Zhixin Guo et.al.|[2403.18306](http://arxiv.org/abs/2403.18306)|null|
