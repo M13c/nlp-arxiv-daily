@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -88,7 +88,7 @@ layout: default
 |**2024-04-03**|**KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking**|Jiawei Zhang et.al.|[2404.02935](http://arxiv.org/abs/2404.02935)|**[link](https://github.com/javyduck/knowhalu)**|
 |**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838](http://arxiv.org/abs/2404.02838)|null|
 |**2024-04-03**|**An Interpretable Power System Transient Stability Assessment Method with Expert Guiding Neural-Regression-Tree**|Hanxuan Wang et.al.|[2404.02555](http://arxiv.org/abs/2404.02555)|null|
-|**2024-04-03**|**Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT**|Amirhossein Abaskohi et.al.|[2404.02403](http://arxiv.org/abs/2404.02403)|null|
+|**2024-04-03**|**Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT**|Amirhossein Abaskohi et.al.|[2404.02403](http://arxiv.org/abs/2404.02403)|**[link](https://github.com/ipouyall/benchmarking_chatgpt_for_persian)**|
 |**2024-04-02**|**Advancing LLM Reasoning Generalists with Preference Trees**|Lifan Yuan et.al.|[2404.02078](http://arxiv.org/abs/2404.02078)|**[link](https://github.com/openbmb/eurus)**|
 |**2024-04-02**|**SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation**|Shasha Guo et.al.|[2404.01923](http://arxiv.org/abs/2404.01923)|**[link](https://github.com/ruckbreasoning/sgsh)**|
 |**2024-04-03**|**Towards Generalizable and Faithful Logic Reasoning over Natural Language via Resolution Refutation**|Zhouhao Sun et.al.|[2404.01677](http://arxiv.org/abs/2404.01677)|null|
@@ -142,7 +142,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-03**|**KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking**|Jiawei Zhang et.al.|[2404.02935](http://arxiv.org/abs/2404.02935)|**[link](https://github.com/javyduck/knowhalu)**|
 |**2024-04-03**|**Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM**|Zhe Liu et.al.|[2404.02706](http://arxiv.org/abs/2404.02706)|null|
-|**2024-04-03**|**Prompting for Numerical Sequences: A Case Study on Market Comment Generation**|Masayuki Kawarada et.al.|[2404.02466](http://arxiv.org/abs/2404.02466)|null|
+|**2024-04-03**|**Prompting for Numerical Sequences: A Case Study on Market Comment Generation**|Masayuki Kawarada et.al.|[2404.02466](http://arxiv.org/abs/2404.02466)|**[link](https://github.com/aistairc/market-reporter)**|
 |**2024-04-03**|**On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons**|Takeshi Kojima et.al.|[2404.02431](http://arxiv.org/abs/2404.02431)|**[link](https://github.com/kojima-takeshi188/lang_neuron)**|
 |**2024-04-02**|**On Stronger Computational Separations Between Multimodal and Unimodal Machine Learning**|Ari Karchmer et.al.|[2404.02254](http://arxiv.org/abs/2404.02254)|null|
 |**2024-04-02**|**Generative AI-Based Text Generation Methods Using Pre-Trained GPT-2 Model**|Rohit Pandey et.al.|[2404.01786](http://arxiv.org/abs/2404.01786)|null|
@@ -170,7 +170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424](http://arxiv.org/abs/2404.02424)|null|
+|**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424](http://arxiv.org/abs/2404.02424)|**[link](https://github.com/shwai-he/ressa)**|
 |**2024-03-29**|**Embracing Unknown Step by Step: Towards Reliable Sparse Training in Real World**|Bowen Lei et.al.|[2403.20047](http://arxiv.org/abs/2403.20047)|**[link](https://github.com/stevenboys/moon)**|
 |**2024-02-27**|**Enhancing Efficiency in Sparse Models with Sparser Selection**|Yuanhang Yang et.al.|[2403.18926](http://arxiv.org/abs/2403.18926)|null|
 |**2024-03-17**|**IGANN Sparse: Bridging Sparsity and Interpretability with Non-linear Insight**|Theodor Stoecker et.al.|[2403.11363](http://arxiv.org/abs/2403.11363)|**[link](https://github.com/mathiaskraus/igann)**|
@@ -188,7 +188,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
 |**2024-04-04**|**Analyzing Musical Characteristics of National Anthems in Relation to Global Indices**|S M Rakib Hasan et.al.|[2404.03606](http://arxiv.org/abs/2404.03606)|null|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
 |**2024-04-04**|**A Directional Diffusion Graph Transformer for Recommendation**|Zixuan Yi et.al.|[2404.03326](http://arxiv.org/abs/2404.03326)|null|
 |**2024-04-04**|**To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**|Zhongxiang Sun et.al.|[2404.03267](http://arxiv.org/abs/2404.03267)|**[link](https://github.com/jeryi-sun/nhp_oam)**|
@@ -247,7 +247,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
 |**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473](http://arxiv.org/abs/2404.03473)|null|
 |**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437](http://arxiv.org/abs/2404.03437)|null|
@@ -344,10 +344,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532](http://arxiv.org/abs/2404.03532)|**[link](https://github.com/thu-keg/sqc-score)**|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-02**|**READ: Improving Relation Extraction from an ADversarial Perspective**|Dawei Li et.al.|[2404.02931](http://arxiv.org/abs/2404.02931)|**[link](https://github.com/david-li0406/read)**|
 |**2024-04-02**|**Multi-BERT: Leveraging Adapters and Prompt Tuning for Low-Resource Multi-Domain Adaptation**|Parham Abed Azad et.al.|[2404.02335](http://arxiv.org/abs/2404.02335)|null|
-|**2024-04-04**|**EGTR: Extracting Graph from Transformer for Scene Graph Generation**|Jinbae Im et.al.|[2404.02072](http://arxiv.org/abs/2404.02072)|**[link](https://github.com/naver-ai/egtr)**|
+|**2024-04-05**|**EGTR: Extracting Graph from Transformer for Scene Graph Generation**|Jinbae Im et.al.|[2404.02072](http://arxiv.org/abs/2404.02072)|**[link](https://github.com/naver-ai/egtr)**|
 |**2024-04-02**|**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**|Hyunjong Ok et.al.|[2404.01914](http://arxiv.org/abs/2404.01914)|null|
 |**2024-04-02**|**Atom-Level Optical Chemical Structure Recognition with Limited Supervision**|Martijn Oldenhof et.al.|[2404.01743](http://arxiv.org/abs/2404.01743)|**[link](https://github.com/molden/atomlenz)**|
 |**2024-04-02**|**Entity Disambiguation via Fusion Entity Decoding**|Junxiong Wang et.al.|[2404.01626](http://arxiv.org/abs/2404.01626)|null|
