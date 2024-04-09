@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Simple Techniques for Enhancing Sentence Embeddings in Generative Language Models**|Bowen Zhang et.al.|[2404.03921](http://arxiv.org/abs/2404.03921)|null|
+|**2024-04-05**|**A Bi-consolidating Model for Joint Relational Triple Extraction**|Xiaocheng Luo et.al.|[2404.03881](http://arxiv.org/abs/2404.03881)|null|
 |**2024-04-03**|**PejorativITy: Disambiguating Pejorative Epithets to Improve Misogyny Detection in Italian Tweets**|Arianna Muti et.al.|[2404.02681](http://arxiv.org/abs/2404.02681)|null|
 |**2024-03-25**|**Efficient Information Extraction in Few-Shot Relation Classification through Contrastive Representation Learning**|Philipp Borchert et.al.|[2403.16543](http://arxiv.org/abs/2403.16543)|**[link](https://github.com/pnborchert/multirep)**|
 |**2024-03-24**|**A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation**|Miuru Abeysiriwardana et.al.|[2403.16129](http://arxiv.org/abs/2403.16129)|null|
@@ -58,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212](http://arxiv.org/abs/2404.04212)|null|
 |**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
 |**2024-04-03**|**CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models**|Zaid Sheikh et.al.|[2404.02408](http://arxiv.org/abs/2404.02408)|**[link](https://github.com/neulab/cmulab)**|
 |**2024-04-03**|**Low-resource neural machine translation with morphological modeling**|Antoine Nzeyimana et.al.|[2404.02392](http://arxiv.org/abs/2404.02392)|**[link](https://github.com/anzeyimana/kinmt_naacl2024)**|
@@ -82,6 +85,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**CantTalkAboutThis: Aligning Language Models to Stay on Topic in Dialogues**|Makesh Narsimhan Sreedhar et.al.|[2404.03820](http://arxiv.org/abs/2404.03820)|null|
 |**2024-04-04**|**Sailor: Open Language Models for South-East Asia**|Longxu Dou et.al.|[2404.03608](http://arxiv.org/abs/2404.03608)|**[link](https://github.com/sail-sg/sailor-llm)**|
 |**2024-04-04**|**Knowledge-Based Convolutional Neural Network for the Simulation and Prediction of Two-Phase Darcy Flows**|Zakaria Elabid et.al.|[2404.03240](http://arxiv.org/abs/2404.03240)|null|
 |**2024-04-04**|**The Death of Feature Engineering? BERT with Linguistic Features on SQuAD 2.0**|Jiawei Li et.al.|[2404.03184](http://arxiv.org/abs/2404.03184)|null|
@@ -114,6 +118,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Thermal Area Law in Long-Range Interacting Systems**|Donghoon Kim et.al.|[2404.04172](http://arxiv.org/abs/2404.04172)|null|
 |**2024-04-04**|**Integrating Large Language Models with Multimodal Virtual Reality Interfaces to Support Collaborative Human-Robot Construction Work**|Somin Park et.al.|[2404.03498](http://arxiv.org/abs/2404.03498)|null|
 |**2024-04-04**|**A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation**|Jifan Yu et.al.|[2404.03491](http://arxiv.org/abs/2404.03491)|null|
 |**2024-04-04**|**Biodegradable Interactive Materials**|Zhihan Zhang et.al.|[2404.03130](http://arxiv.org/abs/2404.03130)|null|
@@ -140,6 +145,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation**|Tianqi Zhong et.al.|[2404.04232](http://arxiv.org/abs/2404.04232)|**[link](https://github.com/tqzhong/cg4mctg)**|
+|**2024-04-05**|**Improving Factual Accuracy of Neural Table-to-Text Output by Addressing Input Problems in ToTTo**|Barkavi Sundararajan et.al.|[2404.04103](http://arxiv.org/abs/2404.04103)|**[link](https://github.com/barkavisj/totto_politics_human_annotations)**|
+|**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
 |**2024-04-03**|**KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking**|Jiawei Zhang et.al.|[2404.02935](http://arxiv.org/abs/2404.02935)|**[link](https://github.com/javyduck/knowhalu)**|
 |**2024-04-03**|**Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM**|Zhe Liu et.al.|[2404.02706](http://arxiv.org/abs/2404.02706)|null|
 |**2024-04-03**|**Prompting for Numerical Sequences: A Case Study on Market Comment Generation**|Masayuki Kawarada et.al.|[2404.02466](http://arxiv.org/abs/2404.02466)|**[link](https://github.com/aistairc/market-reporter)**|
@@ -170,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Nonparametric Modern Hopfield Models**|Jerry Yao-Chieh Hu et.al.|[2404.03900](http://arxiv.org/abs/2404.03900)|**[link](https://github.com/magics-lab/nonparametrichopfield)**|
 |**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424](http://arxiv.org/abs/2404.02424)|**[link](https://github.com/shwai-he/ressa)**|
 |**2024-03-29**|**Embracing Unknown Step by Step: Towards Reliable Sparse Training in Real World**|Bowen Lei et.al.|[2403.20047](http://arxiv.org/abs/2403.20047)|**[link](https://github.com/stevenboys/moon)**|
 |**2024-02-27**|**Enhancing Efficiency in Sparse Models with Sparser Selection**|Yuanhang Yang et.al.|[2403.18926](http://arxiv.org/abs/2403.18926)|null|
@@ -186,10 +195,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval**|João Coelho et.al.|[2404.04163](http://arxiv.org/abs/2404.04163)|null|
+|**2024-04-05**|**Large language models as oracles for instantiating ontologies with domain-specific knowledge**|Giovanni Ciatto et.al.|[2404.04108](http://arxiv.org/abs/2404.04108)|**[link](https://github.com/chistera4-expectation/knowledge-graphs)**|
+|**2024-04-05**|**A Comparison of Methods for Evaluating Generative IR**|Negar Arabzadeh et.al.|[2404.04044](http://arxiv.org/abs/2404.04044)|**[link](https://github.com/narabzad/genir-evaluation)**|
+|**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788](http://arxiv.org/abs/2404.03788)|**[link](https://github.com/smartmediaai/llm_recsys)**|
+|**2024-04-04**|**GenQREnsemble: Zero-Shot LLM Ensemble Prompting for Generative Query Reformulation**|Kaustubh Dhole et.al.|[2404.03746](http://arxiv.org/abs/2404.03746)|null|
+|**2024-04-04**|**Investigating the Robustness of Counterfactual Learning to Rank Models: A Reproducibility Study**|Zechun Niu et.al.|[2404.03707](http://arxiv.org/abs/2404.03707)|null|
 |**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
 |**2024-04-04**|**Analyzing Musical Characteristics of National Anthems in Relation to Global Indices**|S M Rakib Hasan et.al.|[2404.03606](http://arxiv.org/abs/2404.03606)|null|
 |**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
-|**2024-04-04**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
+|**2024-04-07**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
 |**2024-04-04**|**A Directional Diffusion Graph Transformer for Recommendation**|Zixuan Yi et.al.|[2404.03326](http://arxiv.org/abs/2404.03326)|null|
 |**2024-04-04**|**To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**|Zhongxiang Sun et.al.|[2404.03267](http://arxiv.org/abs/2404.03267)|**[link](https://github.com/jeryi-sun/nhp_oam)**|
 |**2024-04-04**|**Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers**|Yuan Wang et.al.|[2404.03192](http://arxiv.org/abs/2404.03192)|null|
@@ -246,6 +261,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893](http://arxiv.org/abs/2404.03893)|null|
+|**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|null|
+|**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777](http://arxiv.org/abs/2404.03777)|null|
 |**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
 |**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
@@ -342,6 +360,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003](http://arxiv.org/abs/2404.04003)|null|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532](http://arxiv.org/abs/2404.03532)|**[link](https://github.com/thu-keg/sqc-score)**|
 |**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
@@ -369,6 +388,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003](http://arxiv.org/abs/2404.04003)|null|
 |**2024-03-31**|**Statistical Analysis by Semiparametric Additive Regression and LSTM-FCN Based Hierarchical Classification for Computer Vision Quantification of Parkinsonian Bradykinesia**|Youngseo Cho et.al.|[2404.00670](http://arxiv.org/abs/2404.00670)|null|
 |**2024-03-28**|**Developing Healthcare Language Model Embedding Spaces**|Niall Taylor et.al.|[2403.19802](http://arxiv.org/abs/2403.19802)|null|
 |**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914](http://arxiv.org/abs/2403.17914)|null|
@@ -402,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892](http://arxiv.org/abs/2404.03892)|null|
 |**2024-04-04**|**Knowledge Distillation-Based Model Extraction Attack using Private Counterfactual Explanations**|Fatima Ezzeddine et.al.|[2404.03348](http://arxiv.org/abs/2404.03348)|null|
 |**2024-04-04**|**Would Deep Generative Models Amplify Bias in Future Models?**|Tianwei Chen et.al.|[2404.03242](http://arxiv.org/abs/2404.03242)|null|
 |**2024-04-03**|**Towards detecting unanticipated bias in Large Language Models**|Anna Kruspe et.al.|[2404.02650](http://arxiv.org/abs/2404.02650)|null|
@@ -429,6 +450,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Noisy Label Processing for Classification: A Survey**|Mengting Li et.al.|[2404.04159](http://arxiv.org/abs/2404.04159)|null|
+|**2024-04-04**|**Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**|Elham Amin Mansour et.al.|[2404.03799](http://arxiv.org/abs/2404.03799)|null|
 |**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527](http://arxiv.org/abs/2404.02527)|null|
 |**2024-04-02**|**LLMs in the Loop: Leveraging Large Language Model Annotations for Active Learning in Low-Resource Languages**|Nataliia Kholodna et.al.|[2404.02261](http://arxiv.org/abs/2404.02261)|null|
 |**2024-03-28**|**Segmentation tool for images of cracks**|Andrii Kompanets et.al.|[2403.19492](http://arxiv.org/abs/2403.19492)|**[link](https://github.com/akomp22/crack-segmentation-tool)**|
