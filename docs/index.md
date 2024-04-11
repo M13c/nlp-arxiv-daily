@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-07**|**A Two Dimensional Feature Engineering Method for Relation Extraction**|Hao Wang et.al.|[2404.04959](http://arxiv.org/abs/2404.04959)|**[link](https://github.com/wang-ck123/a-two-dimensional-feature-engineering-method-for-entity-relation-extraction)**|
+|**2024-04-07**|**A Two Dimensional Feature Engineering Method for Relation Extraction**|Hao Wang et.al.|[2404.04959](http://arxiv.org/abs/2404.04959)|null|
 |**2024-04-05**|**Simple Techniques for Enhancing Sentence Embeddings in Generative Language Models**|Bowen Zhang et.al.|[2404.03921](http://arxiv.org/abs/2404.03921)|**[link](https://github.com/zbwpro/pretcotandke)**|
 |**2024-04-05**|**A Bi-consolidating Model for Joint Relational Triple Extraction**|Xiaocheng Luo et.al.|[2404.03881](http://arxiv.org/abs/2404.03881)|null|
 |**2024-04-03**|**PejorativITy: Disambiguating Pejorative Epithets to Improve Misogyny Detection in Italian Tweets**|Arianna Muti et.al.|[2404.02681](http://arxiv.org/abs/2404.02681)|null|
@@ -28,12 +28,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Finding fake reviews in e-commerce platforms by using hybrid algorithms**|Mathivanan Periasamy et.al.|[2404.06339](http://arxiv.org/abs/2404.06339)|null|
+|**2024-04-09**|**VI-OOD: A Unified Representation Learning Framework for Textual Out-of-distribution Detection**|Li-Ming Zhan et.al.|[2404.06217](http://arxiv.org/abs/2404.06217)|**[link](https://github.com/liam0949/llm-ood)**|
+|**2024-04-09**|**All in One: An Empirical Study of GPT for Few-Shot Aspect-Based Sentiment Anlaysis**|Baoxing Jiang et.al.|[2404.06063](http://arxiv.org/abs/2404.06063)|null|
 |**2024-04-08**|**Multi-Task Learning for Features Extraction in Financial Annual Reports**|Syrielle Montariol et.al.|[2404.05281](http://arxiv.org/abs/2404.05281)|**[link](https://gitlab.com/smontariol/multi-task-esg)**|
 |**2024-04-08**|**Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods**|Roopkatha Dey et.al.|[2404.05159](http://arxiv.org/abs/2404.05159)|null|
 |**2024-04-08**|**Plug and Play with Prompts: A Prompt Tuning Approach for Controlling Text Generation**|Rohan Deepak Ajwani et.al.|[2404.05143](http://arxiv.org/abs/2404.05143)|null|
-|**2024-04-08**|**EcoVerse: An Annotated Twitter Dataset for Eco-Relevance Classification, Environmental Impact Analysis, and Stance Detection**|Francesca Grasso et.al.|[2404.05133](http://arxiv.org/abs/2404.05133)|null|
+|**2024-04-08**|**EcoVerse: An Annotated Twitter Dataset for Eco-Relevance Classification, Environmental Impact Analysis, and Stance Detection**|Francesca Grasso et.al.|[2404.05133](http://arxiv.org/abs/2404.05133)|**[link](https://github.com/giosira/ecoverse)**|
 |**2024-04-06**|**TCAN: Text-oriented Cross Attention Network for Multimodal Sentiment Analysis**|Ming Zhou et.al.|[2404.04545](http://arxiv.org/abs/2404.04545)|null|
-|**2024-04-05**|**Deciphering Political Entity Sentiment in News with Large Language Models: Zero-Shot and Few-Shot Strategies**|Alapan Kuila et.al.|[2404.04361](http://arxiv.org/abs/2404.04361)|null|
+|**2024-04-05**|**Deciphering Political Entity Sentiment in News with Large Language Models: Zero-Shot and Few-Shot Strategies**|Alapan Kuila et.al.|[2404.04361](http://arxiv.org/abs/2404.04361)|**[link](https://github.com/alapanju/entsent)**|
 |**2024-04-07**|**The Impact of Unstated Norms in Bias Analysis of Language Models**|Farnaz Kohankhaki et.al.|[2404.03471](http://arxiv.org/abs/2404.03471)|null|
 |**2024-04-04**|**Enhancing the Performance of Aspect-Based Sentiment Analysis Systems**|Chen Li et.al.|[2404.03259](http://arxiv.org/abs/2404.03259)|null|
 |**2024-04-03**|**Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales**|Lucas E. Resck et.al.|[2404.03098](http://arxiv.org/abs/2404.03098)|**[link](https://github.com/visual-ds/plausible-nlp-explanations)**|
@@ -69,7 +72,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-08**|**Language Models on a Diet: Cost-Efficient Development of Encoders for Closely-Related Languages via Additional Pretraining**|Nikola Ljubešić et.al.|[2404.05428](http://arxiv.org/abs/2404.05428)|**[link](https://github.com/clarinsi/benchich)**|
 |**2024-04-07**|**Lucky 52: How Many Languages Are Needed to Instruction Fine-Tune Large Language Models?**|Shaoxiong Ji et.al.|[2404.04850](http://arxiv.org/abs/2404.04850)|null|
-|**2024-04-07**|**F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation**|Junhong Wu et.al.|[2404.04846](http://arxiv.org/abs/2404.04846)|null|
+|**2024-04-07**|**F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation**|Junhong Wu et.al.|[2404.04846](http://arxiv.org/abs/2404.04846)|**[link](https://github.com/wjmacro/continualmt)**|
 |**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212](http://arxiv.org/abs/2404.04212)|null|
 |**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
 |**2024-04-03**|**CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models**|Zaid Sheikh et.al.|[2404.02408](http://arxiv.org/abs/2404.02408)|**[link](https://github.com/neulab/cmulab)**|
@@ -95,6 +98,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Statistical Modelling of Driving Scenarios in Road Traffic using Fleet Data of Production Vehicles**|Christian Reichenbächer et.al.|[2404.06288](http://arxiv.org/abs/2404.06288)|null|
+|**2024-04-09**|**LLMs' Reading Comprehension Is Affected by Parametric Knowledge and Struggles with Hypothetical Statements**|Victoria Basmov et.al.|[2404.06283](http://arxiv.org/abs/2404.06283)|null|
+|**2024-04-09**|**A Cyber Manufacturing IoT System for Adaptive Machine Learning Model Deployment by Interactive Causality Enabled Self-Labeling**|Yutian Ren et.al.|[2404.05976](http://arxiv.org/abs/2404.05976)|null|
+|**2024-04-08**|**The Hallucinations Leaderboard -- An Open Effort to Measure Hallucinations in Large Language Models**|Giwon Hong et.al.|[2404.05904](http://arxiv.org/abs/2404.05904)|null|
+|**2024-04-08**|**Use of a Structured Knowledge Base Enhances Metadata Curation by Large Language Models**|Sowmya S. Sundaram et.al.|[2404.05893](http://arxiv.org/abs/2404.05893)|**[link](https://github.com/musen-lab/biosamplegptcorrection)**|
 |**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
 |**2024-04-08**|**Interpreting Themes from Educational Stories**|Yigeng Zhang et.al.|[2404.05250](http://arxiv.org/abs/2404.05250)|**[link](https://github.com/ritual-uh/edustory)**|
 |**2024-04-07**|**Self-Evolving Wireless Communications: A Novel Intelligence Trend for 6G and Beyond**|Liangxin Qian et.al.|[2404.04844](http://arxiv.org/abs/2404.04844)|null|
@@ -136,8 +144,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488](http://arxiv.org/abs/2404.06488)|null|
+|**2024-04-09**|**nEMO: Dataset of Emotional Speech in Polish**|Iwona Christop et.al.|[2404.06292](http://arxiv.org/abs/2404.06292)|null|
+|**2024-04-10**|**Quantum computing topological invariants of two-dimensional quantum matter**|Marcel Niedermeier et.al.|[2404.06048](http://arxiv.org/abs/2404.06048)|null|
+|**2024-04-08**|**Human-Machine Interaction in Automated Vehicles: Reducing Voluntary Driver Intervention**|Xinzhi Zhong et.al.|[2404.05832](http://arxiv.org/abs/2404.05832)|null|
+|**2024-04-08**|**Phenomenon of self-oscillation in bubble dynamics: Bouncing acoustic bubbles**|Gabriel Regnault et.al.|[2404.05822](http://arxiv.org/abs/2404.05822)|null|
 |**2024-04-07**|**Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats**|Kunyao Lan et.al.|[2404.05012](http://arxiv.org/abs/2404.05012)|null|
-|**2024-04-04**|**Conversational Disease Diagnosis via External Planner-Controlled Large Language Models**|Zhoujian Sun et.al.|[2404.04292](http://arxiv.org/abs/2404.04292)|null|
+|**2024-04-04**|**Conversational Disease Diagnosis via External Planner-Controlled Large Language Models**|Zhoujian Sun et.al.|[2404.04292](http://arxiv.org/abs/2404.04292)|**[link](https://github.com/danielsun94/conversational_diagnosis)**|
 |**2024-04-05**|**Thermal Area Law in Long-Range Interacting Systems**|Donghoon Kim et.al.|[2404.04172](http://arxiv.org/abs/2404.04172)|null|
 |**2024-04-04**|**Integrating Large Language Models with Multimodal Virtual Reality Interfaces to Support Collaborative Human-Robot Construction Work**|Somin Park et.al.|[2404.03498](http://arxiv.org/abs/2404.03498)|null|
 |**2024-04-04**|**A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation**|Jifan Yu et.al.|[2404.03491](http://arxiv.org/abs/2404.03491)|null|
@@ -221,6 +234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Learning State-Invariant Representations of Objects from Image Collections with State, Pose, and Viewpoint Changes**|Rohan Sarkar et.al.|[2404.06470](http://arxiv.org/abs/2404.06470)|null|
+|**2024-04-09**|**RAR-b: Reasoning as Retrieval Benchmark**|Chenghao Xiao et.al.|[2404.06347](http://arxiv.org/abs/2404.06347)|null|
+|**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
+|**2024-04-09**|**Exploring Diverse Sounds: Identifying Outliers in a Music Corpus**|Le Cai et.al.|[2404.06103](http://arxiv.org/abs/2404.06103)|null|
+|**2024-04-09**|**End-to-end training of Multimodal Model and ranking Model**|Xiuqi Deng et.al.|[2404.06078](http://arxiv.org/abs/2404.06078)|null|
+|**2024-04-09**|**AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free Information Retrieval**|Kento Tatsuno et.al.|[2404.06004](http://arxiv.org/abs/2404.06004)|null|
+|**2024-04-09**|**Event-enhanced Retrieval in Real-time Search**|Yanan Zhang et.al.|[2404.05989](http://arxiv.org/abs/2404.05989)|**[link](https://github.com/open-event-hub/event-enhanced_retrieval)**|
+|**2024-04-09**|**Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation**|Alireza Salemi et.al.|[2404.05970](http://arxiv.org/abs/2404.05970)|**[link](https://github.com/lamp-benchmark/lamp)**|
+|**2024-04-09**|**Wasserstein Dependent Graph Attention Network for Collaborative Filtering with Uncertainty**|Haoxuan Li et.al.|[2404.05962](http://arxiv.org/abs/2404.05962)|null|
+|**2024-04-08**|**Use of a Structured Knowledge Base Enhances Metadata Curation by Large Language Models**|Sowmya S. Sundaram et.al.|[2404.05893](http://arxiv.org/abs/2404.05893)|**[link](https://github.com/musen-lab/biosamplegptcorrection)**|
 |**2024-04-08**|**MealRec $^+$ : A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness**|Ming Li et.al.|[2404.05386](http://arxiv.org/abs/2404.05386)|**[link](https://github.com/wut-idea/mealrecplus)**|
 |**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
 |**2024-04-07**|**HaVTR: Improving Video-Text Retrieval Through Augmentation Using Large Foundation Models**|Yimu Wang et.al.|[2404.05083](http://arxiv.org/abs/2404.05083)|null|
@@ -280,6 +303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
 |**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
 |**2024-04-02**|**Improved Text Emotion Prediction Using Combined Valence and Arousal Ordinal Classification**|Michael Mitsios et.al.|[2404.01805](http://arxiv.org/abs/2404.01805)|null|
 |**2024-03-31**|**The Emotional Impact of Game Duration: A Framework for Understanding Player Emotions in Extended Gameplay Sessions**|Anoop Kumar et.al.|[2404.00526](http://arxiv.org/abs/2404.00526)|null|
@@ -298,6 +322,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Quantum Graph Optimization Algorithm**|Yuhan Huang et.al.|[2404.06434](http://arxiv.org/abs/2404.06434)|null|
+|**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
+|**2024-04-09**|**Oracle-Net for nonlinear compressed sensing in Electrical Impedance Tomography reconstruction problems**|Damiana Lazzaro et.al.|[2404.06342](http://arxiv.org/abs/2404.06342)|null|
+|**2024-04-09**|**Message Passing Variational Autoregressive Network for Solving Intractable Ising Models**|Qunlong Ma et.al.|[2404.06225](http://arxiv.org/abs/2404.06225)|null|
+|**2024-04-09**|**Zero-Shot Relational Learning for Multimodal Knowledge Graphs**|Rui Cai et.al.|[2404.06220](http://arxiv.org/abs/2404.06220)|null|
+|**2024-04-09**|**Protection of Guizhou Miao Batik Culture Based on Knowledge Graph and Deep Learning**|Huafeng Quan et.al.|[2404.06168](http://arxiv.org/abs/2404.06168)|null|
+|**2024-04-09**|**scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding**|Ping Xu et.al.|[2404.06167](http://arxiv.org/abs/2404.06167)|**[link](https://github.com/xpgogogo/sccdcg)**|
+|**2024-04-09**|**Fair Graph Neural Network with Supervised Contrastive Regularization**|Mahdi Tavassoli Kejani et.al.|[2404.06090](http://arxiv.org/abs/2404.06090)|null|
+|**2024-04-09**|**Object Dynamics Modeling with Hierarchical Point Cloud-based Representations**|Chanho Kim et.al.|[2404.06044](http://arxiv.org/abs/2404.06044)|null|
+|**2024-04-09**|**Commute with Community: Enhancing Shared Travel through Social Networks**|Tian Siyuan et.al.|[2404.05987](http://arxiv.org/abs/2404.05987)|null|
 |**2024-04-08**|**Graph Neural Networks Automated Design and Deployment on Device-Edge Co-Inference Systems**|Ao Zhou et.al.|[2404.05605](http://arxiv.org/abs/2404.05605)|null|
 |**2024-04-08**|**Technical Report: The Graph Spectral Token -- Enhancing Graph Transformers with Spectral Information**|Zihan Pengmei et.al.|[2404.05604](http://arxiv.org/abs/2404.05604)|**[link](https://github.com/zpengmei/SubFormer-Spec)**|
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
@@ -372,7 +406,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659](http://arxiv.org/abs/2404.05659)|null|
+|**2024-04-10**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|
+|**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659](http://arxiv.org/abs/2404.05659)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-04-07**|**Safeguarding Voice Privacy: Harnessing Near-Ultrasonic Interference To Protect Against Unauthorized Audio Recording**|Forrest McKee et.al.|[2404.04769](http://arxiv.org/abs/2404.04769)|null|
 |**2024-04-04**|**Transducers with Pronunciation-aware Embeddings for Automatic Speech Recognition**|Hainan Xu et.al.|[2404.04295](http://arxiv.org/abs/2404.04295)|null|
 |**2024-04-03**|**Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala et.al.|[2404.03073](http://arxiv.org/abs/2404.03073)|null|
@@ -396,6 +431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**ÚFAL LatinPipe at EvaLatin 2024: Morphosyntactic Analysis of Latin**|Milan Straka et.al.|[2404.05839](http://arxiv.org/abs/2404.05839)|**[link](https://github.com/ufal/evalatin2024-latinpipe)**|
 |**2024-04-06**|**A Morphology-Based Investigation of Positional Encodings**|Poulami Ghosh et.al.|[2404.04530](http://arxiv.org/abs/2404.04530)|null|
 |**2024-04-03**|**Empirical Analysis for Unsupervised Universal Dependency Parse Tree Aggregation**|Adithya Kulkarni et.al.|[2403.19183](http://arxiv.org/abs/2403.19183)|null|
 |**2024-03-25**|**A Hybrid Approach To Aspect Based Sentiment Analysis Using Transfer Learning**|Gaurav Negi et.al.|[2403.17254](http://arxiv.org/abs/2403.17254)|null|
@@ -412,13 +448,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis**|Mikel Zubillaga et.al.|[2404.06392](http://arxiv.org/abs/2404.06392)|null|
+|**2024-04-09**|**ClinLinker: Medical Entity Linking of Clinical Concept Mentions in Spanish**|Fernando Gallego et.al.|[2404.06367](http://arxiv.org/abs/2404.06367)|null|
 |**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
 |**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
 |**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
 |**2024-04-08**|**Enhancing Software Related Information Extraction with Generative Language Models through Single-Choice Question Answering**|Wolfgang Otto et.al.|[2404.05587](http://arxiv.org/abs/2404.05587)|null|
 |**2024-04-08**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415](http://arxiv.org/abs/2404.05415)|null|
 |**2024-04-07**|**How much reliable is ChatGPT's prediction on Information Extraction under Input Perturbations?**|Ishani Mondal et.al.|[2404.05088](http://arxiv.org/abs/2404.05088)|null|
-|**2024-04-07**|**A Two Dimensional Feature Engineering Method for Relation Extraction**|Hao Wang et.al.|[2404.04959](http://arxiv.org/abs/2404.04959)|**[link](https://github.com/wang-ck123/a-two-dimensional-feature-engineering-method-for-entity-relation-extraction)**|
+|**2024-04-07**|**A Two Dimensional Feature Engineering Method for Relation Extraction**|Hao Wang et.al.|[2404.04959](http://arxiv.org/abs/2404.04959)|null|
 |**2024-04-07**|**DWE+: Dual-Way Matching Enhanced Framework for Multimodal Entity Linking**|Shezheng Song et.al.|[2404.04818](http://arxiv.org/abs/2404.04818)|**[link](https://github.com/season1blue/dwet)**|
 |**2024-04-06**|**A Morphology-Based Investigation of Positional Encodings**|Poulami Ghosh et.al.|[2404.04530](http://arxiv.org/abs/2404.04530)|null|
 |**2024-04-05**|**Towards Realistic Few-Shot Relation Extraction: A New Meta Dataset and Evaluation**|Fahmida Alam et.al.|[2404.04445](http://arxiv.org/abs/2404.04445)|null|
@@ -467,6 +505,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages**|Samuel Cahyawijaya et.al.|[2404.06138](http://arxiv.org/abs/2404.06138)|null|
+|**2024-04-08**|**SambaLingo: Teaching Large Language Models New Languages**|Zoltan Csaki et.al.|[2404.05829](http://arxiv.org/abs/2404.05829)|null|
 |**2024-04-07**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|null|
 |**2024-04-03**|**Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations**|Emilio Villa-Cueva et.al.|[2404.02452](http://arxiv.org/abs/2404.02452)|**[link](https://github.com/villacu/ic_xlt)**|
 |**2024-04-02**|**Ukrainian Texts Classification: Exploration of Cross-lingual Knowledge Transfer Approaches**|Daryna Dementieva et.al.|[2404.02043](http://arxiv.org/abs/2404.02043)|null|
@@ -485,6 +525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Differential Privacy for Anomaly Detection: Analyzing the Trade-off Between Privacy and Explainability**|Fatima Ezzeddine et.al.|[2404.06144](http://arxiv.org/abs/2404.06144)|null|
 |**2024-04-08**|**Allowing humans to interactively guide machines where to look does not always improve a human-AI team's classification accuracy**|Giang Nguyen et.al.|[2404.05238](http://arxiv.org/abs/2404.05238)|null|
 |**2024-04-06**|**Predictive Modeling for Breast Cancer Classification in the Context of Bangladeshi Patients: A Supervised Machine Learning Approach with Explainable AI**|Taminul Islam et.al.|[2404.04686](http://arxiv.org/abs/2404.04686)|null|
 |**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
