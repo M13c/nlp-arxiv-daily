@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.13
+## Updated on 2024.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -259,7 +259,7 @@ layout: default
 |**2024-04-11**|**Can Large Language Models Assess Serendipity in Recommender Systems?**|Yu Tokutake et.al.|[2404.07499](http://arxiv.org/abs/2404.07499)|null|
 |**2024-04-11**|**Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment**|XInyu Zhu et.al.|[2404.07494](http://arxiv.org/abs/2404.07494)|null|
 |**2024-04-11**|**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**|Yongqiang Ma et.al.|[2404.07108](http://arxiv.org/abs/2404.07108)|null|
-|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|**[link](https://github.com/petergriffinjin/graph-cot)**|
 |**2024-04-10**|**TransTARec: Time-Adaptive Translating Embedding Model for Next POI Recommendation**|Yiping Sun et.al.|[2404.07096](http://arxiv.org/abs/2404.07096)|null|
 |**2024-04-10**|**Quati: A Brazilian Portuguese Information Retrieval Dataset from Native Speakers**|Mirelle Bueno et.al.|[2404.06976](http://arxiv.org/abs/2404.06976)|null|
 |**2024-04-11**|**Set-Encoder: Permutation-Invariant Inter-Passage Attention for Listwise Passage Re-Ranking with Cross-Encoders**|Ferdinand Schlatt et.al.|[2404.06912](http://arxiv.org/abs/2404.06912)|**[link](https://github.com/webis-de/set-encoder)**|
