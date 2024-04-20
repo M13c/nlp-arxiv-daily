@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.19
+## Updated on 2024.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -29,6 +29,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
+|**2024-04-18**|**Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM**|Michelle S. Lam et.al.|[2404.12259](http://arxiv.org/abs/2404.12259)|**[link](https://github.com/michelle123lam/lloom)**|
+|**2024-04-18**|**HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis**|Zhuojia Wu et.al.|[2404.11938](http://arxiv.org/abs/2404.11938)|null|
 |**2024-04-17**|**Evaluating Span Extraction in Generative Paradigm: A Reflection on Aspect-Based Sentiment Analysis**|Soyoung Yang et.al.|[2404.11539](http://arxiv.org/abs/2404.11539)|null|
 |**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
 |**2024-04-17**|**A Novel ICD Coding Framework Based on Associated and Hierarchical Code Description Distillation**|Bin Zhang et.al.|[2404.11132](http://arxiv.org/abs/2404.11132)|null|
@@ -123,6 +127,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Augmenting emotion features in irony detection with Large language modeling**|Yucheng Lin et.al.|[2404.12291](http://arxiv.org/abs/2404.12291)|null|
+|**2024-04-18**|**emrQA-msquad: A Medical Dataset Structured with the SQuAD V2.0 Framework, Enriched with emrQA Medical Information**|Jimenez Eladio et.al.|[2404.12050](http://arxiv.org/abs/2404.12050)|null|
+|**2024-04-18**|**Progressive Multi-modal Conditional Prompt Tuning**|Xiaoyu Qiu et.al.|[2404.11864](http://arxiv.org/abs/2404.11864)|null|
+|**2024-04-18**|**AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence**|Minbeom Kim et.al.|[2404.11826](http://arxiv.org/abs/2404.11826)|null|
 |**2024-04-17**|**A Novel ICD Coding Framework Based on Associated and Hierarchical Code Description Distillation**|Bin Zhang et.al.|[2404.11132](http://arxiv.org/abs/2404.11132)|null|
 |**2024-04-16**|**Fewer Truncations Improve Language Modeling**|Hantian Ding et.al.|[2404.10830](http://arxiv.org/abs/2404.10830)|null|
 |**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704](http://arxiv.org/abs/2404.10704)|null|
@@ -188,6 +196,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Aligning Language Models to Explicitly Handle Ambiguity**|Hyuhng Joon Kim et.al.|[2404.11972](http://arxiv.org/abs/2404.11972)|null|
+|**2024-04-18**|**AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration**|Bo Pan et.al.|[2404.11943](http://arxiv.org/abs/2404.11943)|null|
+|**2024-04-18**|**Toward Short-Term Glucose Prediction Solely Based on CGM Time Series**|Ming Cheng et.al.|[2404.11924](http://arxiv.org/abs/2404.11924)|null|
 |**2024-04-17**|**Research on emotionally intelligent dialogue generation based on automatic dialogue system**|Jin Wang et.al.|[2404.11447](http://arxiv.org/abs/2404.11447)|null|
 |**2024-04-17**|**Polarization phenomenon in heavy-ion collisions**|Takafumi Niida et.al.|[2404.11042](http://arxiv.org/abs/2404.11042)|null|
 |**2024-04-16**|**A Systematic Survey of the Gemini Principles for Digital Twin Ontologies**|James Michael Tooth et.al.|[2404.10754](http://arxiv.org/abs/2404.10754)|null|
@@ -234,6 +245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Progressive Multi-modal Conditional Prompt Tuning**|Xiaoyu Qiu et.al.|[2404.11864](http://arxiv.org/abs/2404.11864)|null|
 |**2024-04-17**|**Related Work and Citation Text Generation: A Survey**|Xiangci Li et.al.|[2404.11588](http://arxiv.org/abs/2404.11588)|null|
 |**2024-04-17**|**Sampling-based Pseudo-Likelihood for Membership Inference Attacks**|Masahiro Kaneko et.al.|[2404.11262](http://arxiv.org/abs/2404.11262)|**[link](https://github.com/nlp-titech/samia)**|
 |**2024-04-17**|**A Survey on Retrieval-Augmented Text Generation for Large Language Models**|Yizheng Huang et.al.|[2404.10981](http://arxiv.org/abs/2404.10981)|null|
@@ -307,6 +319,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**iRAG: An Incremental Retrieval Augmented Generation System for Videos**|Md Adnan Arefeen et.al.|[2404.12309](http://arxiv.org/abs/2404.12309)|null|
+|**2024-04-18**|**De-DSI: Decentralised Differentiable Search Index**|Petru Neague et.al.|[2404.12237](http://arxiv.org/abs/2404.12237)|null|
+|**2024-04-18**|**Estimating the Hessian Matrix of Ranking Objectives for Stochastic Learning to Rank with Gradient Boosted Trees**|Jingwei Kang et.al.|[2404.12190](http://arxiv.org/abs/2404.12190)|null|
+|**2024-04-18**|**Shotit: compute-efficient image-to-video search engine for the cloud**|Leslie Wong et.al.|[2404.12169](http://arxiv.org/abs/2404.12169)|null|
+|**2024-04-18**|**How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Spectral Perspective**|Siyi Lin et.al.|[2404.12008](http://arxiv.org/abs/2404.12008)|null|
+|**2024-04-18**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation**|Shunpan Liang et.al.|[2404.11993](http://arxiv.org/abs/2404.11993)|null|
+|**2024-04-18**|**SIGformer: Sign-aware Graph Transformer for Recommendation**|Sirui Chen et.al.|[2404.11982](http://arxiv.org/abs/2404.11982)|null|
+|**2024-04-18**|**Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers**|Fang Guo et.al.|[2404.11960](http://arxiv.org/abs/2404.11960)|null|
 |**2024-04-17**|**Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation**|Zhiyong Cheng et.al.|[2404.11519](http://arxiv.org/abs/2404.11519)|**[link](https://github.com/jianhuadongcs/disen-cgcn)**|
 |**2024-04-17**|**Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**|Sunhao Dai et.al.|[2404.11457](http://arxiv.org/abs/2404.11457)|**[link](https://github.com/kid-22/llm-ir-bias-fairness-survey)**|
 |**2024-04-17**|**Deep Pattern Network for Click-Through Rate Prediction**|Hengyu Zhang et.al.|[2404.11456](http://arxiv.org/abs/2404.11456)|null|
@@ -430,6 +452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Meta-Auxiliary Learning for Micro-Expression Recognition**|Jingyao Wang et.al.|[2404.12024](http://arxiv.org/abs/2404.12024)|null|
 |**2024-04-15**|**Joint Contrastive Learning with Feature Alignment for Cross-Corpus EEG-based Emotion Recognition**|Qile Liu et.al.|[2404.09559](http://arxiv.org/abs/2404.09559)|null|
 |**2024-04-16**|**Extending Mean-Field Variational Inference via Entropic Regularization: Theory and Computation**|Bohan Wu et.al.|[2404.09113](http://arxiv.org/abs/2404.09113)|null|
 |**2024-04-13**|**Improving Personalisation in Valence and Arousal Prediction using Data Augmentation**|Munachiso Nwadike et.al.|[2404.09042](http://arxiv.org/abs/2404.09042)|null|
@@ -452,6 +475,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|null|
+|**2024-04-18**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation**|Shunpan Liang et.al.|[2404.11993](http://arxiv.org/abs/2404.11993)|null|
+|**2024-04-18**|**P-NAL: an Effective and Interpretable Entity Alignment Method**|Chuanhao Xu et.al.|[2404.11968](http://arxiv.org/abs/2404.11968)|null|
+|**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
+|**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809](http://arxiv.org/abs/2404.11809)|**[link](https://github.com/xincanfeng/dimension)**|
+|**2024-04-17**|**End-to-End Mesh Optimization of a Hybrid Deep Learning Black-Box PDE Solver**|Shaocong Ma et.al.|[2404.11766](http://arxiv.org/abs/2404.11766)|null|
+|**2024-04-17**|**Incremental Bootstrapping and Classification of Structured Scenes in a Fuzzy Ontology**|Luca Buoncompagni et.al.|[2404.11744](http://arxiv.org/abs/2404.11744)|**[link](https://github.com/buoncubi/fuzzy_sit)**|
 |**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
 |**2024-04-17**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374](http://arxiv.org/abs/2404.11374)|null|
 |**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|**[link](https://github.com/ml4bio/ribodiffusion)**|
@@ -621,6 +651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Constituents Correspond to Word Sequence Patterns among Sentences with Equivalent Predicate-Argument Structures: Unsupervised Constituency Parsing by Span Matching**|Junjie Chen et.al.|[2404.12059](http://arxiv.org/abs/2404.12059)|null|
 |**2024-03-30**|**Targeted aspect-based emotion analysis to detect opportunities and precaution in financial Twitter messages**|Silvia García-Méndez et.al.|[2404.08665](http://arxiv.org/abs/2404.08665)|null|
 |**2024-04-08**|**ÚFAL LatinPipe at EvaLatin 2024: Morphosyntactic Analysis of Latin**|Milan Straka et.al.|[2404.05839](http://arxiv.org/abs/2404.05839)|**[link](https://github.com/ufal/evalatin2024-latinpipe)**|
 |**2024-04-06**|**A Morphology-Based Investigation of Positional Encodings**|Poulami Ghosh et.al.|[2404.04530](http://arxiv.org/abs/2404.04530)|null|
@@ -639,6 +670,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News**|Mengna Zhu et.al.|[2404.12242](http://arxiv.org/abs/2404.12242)|**[link](https://github.com/mzzzhu/cmnee)**|
+|**2024-04-18**|**Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction**|Qian Li et.al.|[2404.12006](http://arxiv.org/abs/2404.12006)|null|
 |**2024-04-17**|**Unified Examination of Entity Linking in Absence of Candidate Sets**|Nicolas Ong et.al.|[2404.11061](http://arxiv.org/abs/2404.11061)|**[link](https://github.com/nicolasong/gerbil_connects)**|
 |**2024-04-16**|**A LayoutLMv3-Based Model for Enhanced Relation Extraction in Visually-Rich Documents**|Wiam Adnan et.al.|[2404.10848](http://arxiv.org/abs/2404.10848)|null|
 |**2024-04-15**|**Few-shot Name Entity Recognition on StackOverflow**|Xinwei Chen et.al.|[2404.09405](http://arxiv.org/abs/2404.09405)|null|
@@ -725,6 +758,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Utilizing Adversarial Examples for Bias Mitigation and Accuracy Enhancement**|Pushkar Shukla et.al.|[2404.11819](http://arxiv.org/abs/2404.11819)|null|
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
 |**2024-04-17**|**CAGE: Causality-Aware Shapley Value for Global Explanations**|Nils Ole Breuer et.al.|[2404.11208](http://arxiv.org/abs/2404.11208)|null|
 |**2024-04-17**|**Recommender Systems in Financial Trading: Using machine-based conviction analysis in an explainable AI investment framework**|Alicia Vidler et.al.|[2404.11080](http://arxiv.org/abs/2404.11080)|null|
