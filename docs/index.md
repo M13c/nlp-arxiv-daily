@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.24
+## Updated on 2024.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -29,6 +29,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977](http://arxiv.org/abs/2404.14977)|null|
+|**2024-04-23**|**Does It Make Sense to Explain a Black Box With Another Black Box?**|Julien Delaunay et.al.|[2404.14943](http://arxiv.org/abs/2404.14943)|null|
 |**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228](http://arxiv.org/abs/2404.14228)|null|
 |**2024-04-21**|**Embarrassingly Simple Unsupervised Aspect Based Sentiment Tuple Extraction**|Kevin Scaria et.al.|[2404.13751](http://arxiv.org/abs/2404.13751)|null|
 |**2024-04-21**|**PEACH: Pretrained-embedding Explanation Across Contextual and Hierarchical Structure**|Feiqi Cao et.al.|[2404.13645](http://arxiv.org/abs/2404.13645)|**[link](https://github.com/adlnlp/peach)**|
@@ -100,9 +102,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation**|Jingxuan Wei et.al.|[2404.14827](http://arxiv.org/abs/2404.14827)|null|
 |**2024-04-22**|**From LLM to NMT: Advancing Low-Resource Machine Translation with Claude**|Maxim Enis et.al.|[2404.13813](http://arxiv.org/abs/2404.13813)|null|
 |**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|null|
-|**2024-04-18**|**mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?**|Tianze Hua et.al.|[2404.12444](http://arxiv.org/abs/2404.12444)|null|
+|**2024-04-18**|**mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?**|Tianze Hua et.al.|[2404.12444](http://arxiv.org/abs/2404.12444)|**[link](https://github.com/ethahtz/multilingual_othello)**|
 |**2024-04-17**|**Neuron Specialization: Leveraging intrinsic task modularity for multilingual machine translation**|Shaomu Tan et.al.|[2404.11201](http://arxiv.org/abs/2404.11201)|null|
 |**2024-04-14**|**Compass: Large Multilingual Language Model for South-east Asia**|Sophia Maria et.al.|[2404.09220](http://arxiv.org/abs/2404.09220)|null|
 |**2024-04-12**|**Investigating Neural Machine Translation for Low-Resource Languages: Using Bavarian as a Case Study**|Wan-Hua Her et.al.|[2404.08259](http://arxiv.org/abs/2404.08259)|**[link](https://github.com/whher/nmt-de-bar)**|
@@ -139,6 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**|Weiyan Shi et.al.|[2404.15238](http://arxiv.org/abs/2404.15238)|**[link](https://github.com/salt-nlp/culturebank)**|
 |**2024-04-22**|**Microservices a Definition Analyzed by ßMACH**|Marcus Hilbrich et.al.|[2404.14251](http://arxiv.org/abs/2404.14251)|null|
 |**2024-04-22**|**The effect of frames on engagement with quantum technology**|Aletta L. Meinsma et.al.|[2404.14104](http://arxiv.org/abs/2404.14104)|null|
 |**2024-04-22**|**Modelling Technique for GDPR-compliance: Toward a Comprehensive Solution**|Naila Azam et.al.|[2404.13979](http://arxiv.org/abs/2404.13979)|null|
@@ -218,6 +222,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**The Power of the Noisy Channel: Unsupervised End-to-End Task-Oriented Dialogue with LLMs**|Brendan King et.al.|[2404.15219](http://arxiv.org/abs/2404.15219)|**[link](https://github.com/jlab-nlp/nc_latent_tod)**|
+|**2024-04-23**|**Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks**|Amir Saeidi et.al.|[2404.14723](http://arxiv.org/abs/2404.14723)|null|
 |**2024-04-22**|**Navier-Stokes equations for nearly integrable quantum gases**|Maciej Łebek et.al.|[2404.14292](http://arxiv.org/abs/2404.14292)|null|
 |**2024-04-21**|**SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model**|Xingbo Wang et.al.|[2404.13765](http://arxiv.org/abs/2404.13765)|null|
 |**2024-04-19**|**Rethinking the Evaluation of Dialogue Systems: Effects of User Feedback on Crowdworkers and LLMs**|Clemencia Siro et.al.|[2404.12994](http://arxiv.org/abs/2404.12994)|**[link](https://github.com/clemenciah/llmcrowddialogueeval)**|
@@ -354,6 +360,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**A Short Review for Ontology Learning from Text: Stride from Shallow Learning, Deep Learning to Large Language Models Trend**|Rick Du et.al.|[2404.14991](http://arxiv.org/abs/2404.14991)|null|
+|**2024-04-23**|**A Reproducibility Study of PLAID**|Sean MacAvaney et.al.|[2404.14989](http://arxiv.org/abs/2404.14989)|null|
+|**2024-04-23**|**Manipulating Recommender Systems: A Survey of Poisoning Attacks and Countermeasures**|Thanh Toan Nguyen et.al.|[2404.14942](http://arxiv.org/abs/2404.14942)|**[link](https://github.com/tamlhp/awesome-recsys-poisoning)**|
+|**2024-04-23**|**Multi-Sample Dynamic Time Warping for Few-Shot Keyword Spotting**|Kevin Wilkinghoff et.al.|[2404.14903](http://arxiv.org/abs/2404.14903)|null|
+|**2024-04-23**|**Cross-Domain Causal Preference Learning for Out-of-Distribution Recommendation**|Zhuhang Li et.al.|[2404.14856](http://arxiv.org/abs/2404.14856)|**[link](https://github.com/rexhaha/cdcor)**|
+|**2024-04-23**|**From Matching to Generation: A Survey on Generative Information Retrieval**|Xiaoxi Li et.al.|[2404.14851](http://arxiv.org/abs/2404.14851)|**[link](https://github.com/ruc-nlpir/genir-survey)**|
+|**2024-04-23**|**Towards Universal Dense Blocking for Entity Resolution**|Tianshu Wang et.al.|[2404.14831](http://arxiv.org/abs/2404.14831)|null|
+|**2024-04-23**|**Contrastive Quantization based Semantic Code for Generative Recommendation**|Mengqun Jin et.al.|[2404.14774](http://arxiv.org/abs/2404.14774)|null|
+|**2024-04-23**|**Retrieval Augmented Generation for Domain-specific Question Answering**|Sanat Sharma et.al.|[2404.14760](http://arxiv.org/abs/2404.14760)|null|
 |**2024-04-22**|**Turbo-CF: Matrix Decomposition-Free Graph Filtering for Fast Recommendation**|Jin-Duk Park et.al.|[2404.14243](http://arxiv.org/abs/2404.14243)|null|
 |**2024-04-22**|**Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity**|Yu Hou et.al.|[2404.14240](http://arxiv.org/abs/2404.14240)|null|
 |**2024-04-22**|**SHE-Net: Syntax-Hierarchy-Enhanced Text-Video Retrieval**|Xuzheng Yu et.al.|[2404.14066](http://arxiv.org/abs/2404.14066)|null|
@@ -528,6 +544,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**PHLP: Sole Persistent Homology for Link Prediction -- Interpretable Feature Extraction**|Junwon You et.al.|[2404.15225](http://arxiv.org/abs/2404.15225)|null|
+|**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065](http://arxiv.org/abs/2404.15065)|null|
+|**2024-04-23**|**Integrating Heterogeneous Gene Expression Data through Knowledge Graphs for Improving Diabetes Prediction**|Rita T. Sousa et.al.|[2404.14970](http://arxiv.org/abs/2404.14970)|**[link](https://github.com/ritatsousa/expressionkg)**|
+|**2024-04-23**|**Digital Twin of Industrial Networked Control System based on Value of Information**|Van-Phuc Bui et.al.|[2404.14960](http://arxiv.org/abs/2404.14960)|null|
+|**2024-04-23**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks**|Zhe Zhao et.al.|[2404.14941](http://arxiv.org/abs/2404.14941)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
+|**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822](http://arxiv.org/abs/2404.14822)|null|
+|**2024-04-23**|**A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications**|Wenbo Shang et.al.|[2404.14809](http://arxiv.org/abs/2404.14809)|null|
+|**2024-04-23**|**Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering**|Yao Xu et.al.|[2404.14741](http://arxiv.org/abs/2404.14741)|**[link](https://github.com/yaooxu/gog)**|
+|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|null|
 |**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228](http://arxiv.org/abs/2404.14228)|null|
 |**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
 |**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982](http://arxiv.org/abs/2404.13982)|null|
@@ -688,6 +714,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Artificial Neural Networks to Recognize Speakers Division from Continuous Bengali Speech**|Hasmot Ali et.al.|[2404.15168](http://arxiv.org/abs/2404.15168)|null|
+|**2024-04-23**|**Rethinking Processing Distortions: Disentangling the Impact of Speech Enhancement Errors on Speech Recognition Performance**|Tsubasa Ochiai et.al.|[2404.14860](http://arxiv.org/abs/2404.14860)|null|
+|**2024-04-22**|**Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants**|Nina Tran et.al.|[2404.14605](http://arxiv.org/abs/2404.14605)|null|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
 |**2024-04-20**|**Semantically Corrected Amharic Automatic Speech Recognition**|Samuael Adnew et.al.|[2404.13362](http://arxiv.org/abs/2404.13362)|**[link](https://github.com/samuael/postprocessed_geez_asr)**|
 |**2024-04-19**|**Learn2Talk: 3D Talking Face Learns from 2D Talking Face**|Yixiang Zhuang et.al.|[2404.12888](http://arxiv.org/abs/2404.12888)|null|
@@ -843,6 +872,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166](http://arxiv.org/abs/2404.15166)|null|
+|**2024-04-22**|**Exploring Algorithmic Explainability: Generating Explainable AI Insights for Personalized Clinical Decision Support Focused on Cannabis Intoxication in Young Adults**|Tongze Zhang et.al.|[2404.14563](http://arxiv.org/abs/2404.14563)|null|
 |**2024-04-21**|**Explainable Interfaces for Rapid Gaze-Based Interactions in Mixed Reality**|Mengjie Yu et.al.|[2404.13777](http://arxiv.org/abs/2404.13777)|null|
 |**2024-04-21**|**Interval Abstractions for Robust Counterfactual Explanations**|Junqi Jiang et.al.|[2404.13736](http://arxiv.org/abs/2404.13736)|**[link](https://github.com/junqi-jiang/interval-abstractions)**|
 |**2024-04-21**|**On the Value of Labeled Data and Symbolic Methods for Hidden Neuron Activation Analysis**|Abhilekha Dalal et.al.|[2404.13567](http://arxiv.org/abs/2404.13567)|null|
