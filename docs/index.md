@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.28
+## Updated on 2024.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -29,7 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627](http://arxiv.org/abs/2404.16627)|null|
+|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627](http://arxiv.org/abs/2404.16627)|**[link](https://github.com/tian14267/ls_mbert)**|
 |**2024-04-25**|**Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities**|Mingcheng Li et.al.|[2404.16456](http://arxiv.org/abs/2404.16456)|null|
 |**2024-04-23**|**Social Media and Artificial Intelligence for Sustainable Cities and Societies: A Water Quality Analysis Use-case**|Muhammad Asif Auyb et.al.|[2404.14977](http://arxiv.org/abs/2404.14977)|null|
 |**2024-04-23**|**Does It Make Sense to Explain a Black Box With Another Black Box?**|Julien Delaunay et.al.|[2404.14943](http://arxiv.org/abs/2404.14943)|null|
@@ -375,15 +375,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811](http://arxiv.org/abs/2404.16811)|**[link](https://github.com/microsoft/FILM)**|
+|**2024-04-26**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811](http://arxiv.org/abs/2404.16811)|**[link](https://github.com/microsoft/FILM)**|
 |**2024-04-25**|**MMGRec: Multimodal Generative Recommendation with Transformer Model**|Han Liu et.al.|[2404.16555](http://arxiv.org/abs/2404.16555)|null|
 |**2024-04-25**|**RE-RecSys: An End-to-End system for recommending properties in Real-Estate domain**|Venkatesh C et.al.|[2404.16553](http://arxiv.org/abs/2404.16553)|null|
 |**2024-04-25**|**OmniSearchSage: Multi-Task Multi-Entity Embeddings for Pinterest Search**|Prabhat Agarwal et.al.|[2404.16260](http://arxiv.org/abs/2404.16260)|**[link](https://github.com/pinterest/atg-research)**|
-|**2024-04-24**|**URL: Universal Referential Knowledge Linking via Task-instructed Representation Compression**|Zhuoqun Li et.al.|[2404.16248](http://arxiv.org/abs/2404.16248)|null|
+|**2024-04-24**|**URL: Universal Referential Knowledge Linking via Task-instructed Representation Compression**|Zhuoqun Li et.al.|[2404.16248](http://arxiv.org/abs/2404.16248)|**[link](https://github.com/li-z-q/url)**|
 |**2024-04-24**|**Advancing Recommender Systems by mitigating Shilling attacks**|Aditya Chichani et.al.|[2404.16177](http://arxiv.org/abs/2404.16177)|null|
 |**2024-04-24**|**From Local to Global: A Graph RAG Approach to Query-Focused Summarization**|Darren Edge et.al.|[2404.16130](http://arxiv.org/abs/2404.16130)|null|
-|**2024-04-24**|**Mixed Supervised Graph Contrastive Learning for Recommendation**|Weizhi Zhang et.al.|[2404.15954](http://arxiv.org/abs/2404.15954)|null|
-|**2024-04-24**|**Telco-RAG: Navigating the Challenges of Retrieval-Augmented Language Models for Telecommunications**|Andrei-Laurentiu Bornea et.al.|[2404.15939](http://arxiv.org/abs/2404.15939)|null|
+|**2024-04-25**|**Mixed Supervised Graph Contrastive Learning for Recommendation**|Weizhi Zhang et.al.|[2404.15954](http://arxiv.org/abs/2404.15954)|null|
+|**2024-04-26**|**Telco-RAG: Navigating the Challenges of Retrieval-Augmented Language Models for Telecommunications**|Andrei-Laurentiu Bornea et.al.|[2404.15939](http://arxiv.org/abs/2404.15939)|null|
 |**2024-04-24**|**A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry**|Yining Huang et.al.|[2404.15777](http://arxiv.org/abs/2404.15777)|null|
 |**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|**[link](https://github.com/HenryPengZou/ImplicitAVE)**|
 |**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574](http://arxiv.org/abs/2404.15574)|null|
@@ -575,7 +575,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-25**|**History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting**|Julia Gastinger et.al.|[2404.16726](http://arxiv.org/abs/2404.16726)|**[link](https://github.com/nec-research/recurrency_baseline_tkg)**|
 |**2024-04-25**|**ReliK: A Reliability Measure for Knowledge Graph Embeddings**|Maximilian K. Egger et.al.|[2404.16572](http://arxiv.org/abs/2404.16572)|null|
-|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|null|
+|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|**[link](https://github.com/aimat-lab/megan_global_explanations)**|
 |**2024-04-25**|**Lost in Recursion: Mining Rich Event Semantics in Knowledge Graphs**|Florian Plötzky et.al.|[2404.16405](http://arxiv.org/abs/2404.16405)|**[link](https://github.com/fploetzky/websci2024)**|
 |**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366](http://arxiv.org/abs/2404.16366)|null|
 |**2024-04-24**|**Knowledge Graph Completion using Structural and Textual Embeddings**|Sakher Khalil Alqaaidi et.al.|[2404.16206](http://arxiv.org/abs/2404.16206)|**[link](https://github.com/sa5r/kgrp)**|
@@ -758,7 +758,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-25**|**Automatic Speech Recognition System-Independent Word Error Rate Estimatio**|Chanho Park et.al.|[2404.16743](http://arxiv.org/abs/2404.16743)|null|
+|**2024-04-26**|**Automatic Speech Recognition System-Independent Word Error Rate Estimation**|Chanho Park et.al.|[2404.16743](http://arxiv.org/abs/2404.16743)|null|
 |**2024-04-25**|**Developing Acoustic Models for Automatic Speech Recognition in Swedish**|Giampiero Salvi et.al.|[2404.16547](http://arxiv.org/abs/2404.16547)|null|
 |**2024-04-25**|**U2++ MoE: Scaling 4.7x parameters with minimal impact on RTF**|Xingchen Song et.al.|[2404.16407](http://arxiv.org/abs/2404.16407)|null|
 |**2024-04-24**|**Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**|Badri Narayana Patro et.al.|[2404.16112](http://arxiv.org/abs/2404.16112)|**[link](https://github.com/badripatro/mamba360)**|
@@ -822,7 +822,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627](http://arxiv.org/abs/2404.16627)|null|
+|**2024-04-25**|**Incorporating Lexical and Syntactic Knowledge for Unsupervised Cross-Lingual Transfer**|Jianyu Zheng et.al.|[2404.16627](http://arxiv.org/abs/2404.16627)|**[link](https://github.com/tian14267/ls_mbert)**|
 |**2024-04-25**|**Building a Japanese Document-Level Relation Extraction Dataset Assisted by Cross-Lingual Transfer**|Youmi Ma et.al.|[2404.16506](http://arxiv.org/abs/2404.16506)|null|
 |**2024-04-24**|**Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges**|Badri Narayana Patro et.al.|[2404.16112](http://arxiv.org/abs/2404.16112)|**[link](https://github.com/badripatro/mamba360)**|
 |**2024-04-22**|**EnzChemRED, a rich enzyme chemistry relation extraction dataset**|Po-Ting Lai et.al.|[2404.14209](http://arxiv.org/abs/2404.14209)|null|
@@ -929,7 +929,7 @@ layout: default
 |**2024-04-25**|**SIDEs: Separating Idealization from Deceptive Explanations in xAI**|Emily Sullivan et.al.|[2404.16534](http://arxiv.org/abs/2404.16534)|null|
 |**2024-04-24**|**MiMICRI: Towards Domain-centered Counterfactual Explanations of Cardiovascular Image Classification Models**|Grace Guo et.al.|[2404.16174](http://arxiv.org/abs/2404.16174)|null|
 |**2024-04-23**|**Explaining AI Decisions: Towards Achieving Human-Centered Explainability in Smart Home Environments**|Md Shajalal et.al.|[2404.16074](http://arxiv.org/abs/2404.16074)|null|
-|**2024-04-24**|**Explainable AI models for predicting liquefaction-induced lateral spreading**|Cheng-Hsi Hsiao et.al.|[2404.15959](http://arxiv.org/abs/2404.15959)|null|
+|**2024-04-24**|**Explainable AI models for predicting liquefaction-induced lateral spreading**|Cheng-Hsi Hsiao et.al.|[2404.15959](http://arxiv.org/abs/2404.15959)|**[link](https://github.com/geoelements/xai-lateral-spreading)**|
 |**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166](http://arxiv.org/abs/2404.15166)|null|
 |**2024-04-22**|**Exploring Algorithmic Explainability: Generating Explainable AI Insights for Personalized Clinical Decision Support Focused on Cannabis Intoxication in Young Adults**|Tongze Zhang et.al.|[2404.14563](http://arxiv.org/abs/2404.14563)|null|
 |**2024-04-21**|**Explainable Interfaces for Rapid Gaze-Based Interactions in Mixed Reality**|Mengjie Yu et.al.|[2404.13777](http://arxiv.org/abs/2404.13777)|null|
