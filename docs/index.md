@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.10
+## Updated on 2024.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -31,6 +31,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Revitalising Stagecraft: NLP-Driven Sentiment Analysis for Traditional Theater Revival**|Saikat Samanta et.al.|[2405.05813](http://arxiv.org/abs/2405.05813)|null|
+|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795](http://arxiv.org/abs/2405.05795)|null|
+|**2024-05-09**|**Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**|Xuanwen Ding et.al.|[2405.05496](http://arxiv.org/abs/2405.05496)|null|
+|**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
+|**2024-05-08**|**QuaLLM: An LLM-based Framework to Extract Quantitative Insights from Online Forums**|Varun Nagaraj Rao et.al.|[2405.05345](http://arxiv.org/abs/2405.05345)|null|
 |**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|null|
 |**2024-05-07**|**Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue**|Nhat Tran et.al.|[2405.04713](http://arxiv.org/abs/2405.04713)|**[link](https://github.com/nhattlm95/tm_kg_dialogue)**|
 |**2024-05-07**|**Enhancing Organizational Performance: Harnessing AI and NLP for User Feedback Analysis in Product Development**|Tian Tian et.al.|[2405.04692](http://arxiv.org/abs/2405.04692)|null|
@@ -141,6 +146,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
+|**2024-05-08**|**Automated Program Repair: Emerging trends pose and expose problems for benchmarks**|Joseph Renzullo et.al.|[2405.05455](http://arxiv.org/abs/2405.05455)|null|
 |**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
 |**2024-05-02**|**Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation**|Hao Wang et.al.|[2405.01280](http://arxiv.org/abs/2405.01280)|null|
 |**2024-04-30**|**Transferring Troubles: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**|Xuanli He et.al.|[2404.19597](http://arxiv.org/abs/2404.19597)|null|
@@ -191,6 +198,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**End-to-End Generative Semantic Communication Powered by Shared Semantic Knowledge Base**|Shuling Li et.al.|[2405.05738](http://arxiv.org/abs/2405.05738)|null|
+|**2024-05-09**|**Redefining Information Retrieval of Structured Database via Large Language Models**|Mingzhu Wang et.al.|[2405.05508](http://arxiv.org/abs/2405.05508)|null|
+|**2024-05-08**|**Molecular dynamics characterization of the interfacial structure and forces of the methane-ethane sII gas hydrate interface**|Samuel Mathews et.al.|[2405.05454](http://arxiv.org/abs/2405.05454)|null|
 |**2024-05-08**|**Logical Negation Augmenting and Debiasing for Prompt-based Methods**|Yitian Li et.al.|[2405.04872](http://arxiv.org/abs/2405.04872)|null|
 |**2024-05-08**|**Enhancing Geometric Ontology Embeddings for $\mathcal{EL}^{++}$ with Negative Sampling and Deductive Closure Filtering**|Olga Mashkova et.al.|[2405.04868](http://arxiv.org/abs/2405.04868)|**[link](https://github.com/bio-ontology-research-group/geometric_embeddings)**|
 |**2024-05-07**|**Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue**|Nhat Tran et.al.|[2405.04713](http://arxiv.org/abs/2405.04713)|**[link](https://github.com/nhattlm95/tm_kg_dialogue)**|
@@ -311,6 +321,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM**|Xikang Yang et.al.|[2405.05610](http://arxiv.org/abs/2405.05610)|null|
+|**2024-05-09**|**Intelligent EC Rearview Mirror: Enhancing Driver Safety with Dynamic Glare Mitigation via Cloud Edge Collaboration**|Junyi Yang et.al.|[2405.05579](http://arxiv.org/abs/2405.05579)|null|
+|**2024-05-08**|**Studying Self-Care with Generative AI Tools: Lessons for Design**|Tara Capel et.al.|[2405.05458](http://arxiv.org/abs/2405.05458)|null|
+|**2024-05-08**|**The Power of Absence: Thinking with Archival Theory in Algorithmic Design**|Jihan Sherman et.al.|[2405.05420](http://arxiv.org/abs/2405.05420)|null|
 |**2024-05-08**|**Disorder-resilient transport through dopant arrays in silicon**|Michał Gawełczyk et.al.|[2405.05217](http://arxiv.org/abs/2405.05217)|null|
 |**2024-05-08**|**Air Gap: Protecting Privacy-Conscious Conversational Agents**|Eugene Bagdasaryan et.al.|[2405.05175](http://arxiv.org/abs/2405.05175)|null|
 |**2024-05-07**|**Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue**|Nhat Tran et.al.|[2405.04713](http://arxiv.org/abs/2405.04713)|**[link](https://github.com/nhattlm95/tm_kg_dialogue)**|
@@ -498,6 +512,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Optimal Baseline Corrections for Off-Policy Contextual Bandits**|Shashank Gupta et.al.|[2405.05736](http://arxiv.org/abs/2405.05736)|null|
+|**2024-05-09**|**Computational lexical analysis of Flamenco genres**|Pablo Rosillo-Rodes et.al.|[2405.05723](http://arxiv.org/abs/2405.05723)|null|
+|**2024-05-09**|**Optimizing E-commerce Search: Toward a Generalizable and Rank-Consistent Pre-Ranking Model**|Enqiang Xu et.al.|[2405.05606](http://arxiv.org/abs/2405.05606)|null|
+|**2024-05-09**|**Can We Use Large Language Models to Fill Relevance Judgment Holes?**|Zahra Abbasiantaeb et.al.|[2405.05600](http://arxiv.org/abs/2405.05600)|null|
+|**2024-05-09**|**LayerPlexRank: Exploring Node Centrality and Layer Influence through Algebraic Connectivity in Multiplex Networks**|Hao Ren et.al.|[2405.05576](http://arxiv.org/abs/2405.05576)|**[link](https://github.com/ninn-kou/LayerPlexRank)**|
+|**2024-05-09**|**Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives**|Emrul Hasan et.al.|[2405.05562](http://arxiv.org/abs/2405.05562)|null|
+|**2024-05-09**|**Redefining Information Retrieval of Structured Database via Large Language Models**|Mingzhu Wang et.al.|[2405.05508](http://arxiv.org/abs/2405.05508)|null|
+|**2024-05-08**|**Information Extraction from Historical Well Records Using A Large Language Model**|Zhiwei Ma et.al.|[2405.05438](http://arxiv.org/abs/2405.05438)|null|
+|**2024-05-08**|**Arctic-Embed: Scalable, Efficient, and Accurate Text Embedding Models**|Luke Merrick et.al.|[2405.05374](http://arxiv.org/abs/2405.05374)|null|
 |**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-05-08**|**Graded Relevance Scoring of Written Essays with Dense Retrieval**|Salam Albatarni et.al.|[2405.05200](http://arxiv.org/abs/2405.05200)|null|
 |**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
@@ -784,6 +807,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability Viewpoint**|Jun Li et.al.|[2405.05802](http://arxiv.org/abs/2405.05802)|null|
+|**2024-05-09**|**Link Stealing Attacks Against Inductive Graph Neural Networks**|Yixin Wu et.al.|[2405.05784](http://arxiv.org/abs/2405.05784)|**[link](https://github.com/yxoh/link_steal_pets2024)**|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616](http://arxiv.org/abs/2405.05616)|null|
 |**2024-05-08**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training**|Renjie Liu et.al.|[2405.05231](http://arxiv.org/abs/2405.05231)|null|
 |**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
@@ -1055,6 +1081,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**The RoyalFlush Automatic Speech Diarization and Recognition System for In-Car Multi-Channel Automatic Speech Recognition Challenge**|Jingguang Tian et.al.|[2405.05498](http://arxiv.org/abs/2405.05498)|null|
 |**2024-05-07**|**Open Implementation and Study of BEST-RQ for Speech Processing**|Ryan Whetten et.al.|[2405.04296](http://arxiv.org/abs/2405.04296)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2024-05-06**|**Whispy: Adapting STT Whisper Models to Real-Time Environments**|Antonio Bevilacqua et.al.|[2405.03484](http://arxiv.org/abs/2405.03484)|null|
 |**2024-05-06**|**MMGER: Multi-modal and Multi-granularity Generative Error Correction with LLM for Joint Accent and Speech Recognition**|Bingshen Mu et.al.|[2405.03152](http://arxiv.org/abs/2405.03152)|null|
@@ -1137,6 +1164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
 |**2024-05-08**|**P-ICL: Point In-Context Learning for Named Entity Recognition with Large Language Models**|Guochao Jiang et.al.|[2405.04960](http://arxiv.org/abs/2405.04960)|null|
 |**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
 |**2024-05-06**|**Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction**|Giuseppe Costantino et.al.|[2405.03320](http://arxiv.org/abs/2405.03320)|null|
@@ -1277,6 +1305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Robust and Explainable Fine-Grained Visual Classification with Transfer Learning: A Dual-Carriageway Framework**|Zheming Zuo et.al.|[2405.05853](http://arxiv.org/abs/2405.05853)|null|
+|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766](http://arxiv.org/abs/2405.05766)|null|
+|**2024-05-08**|**Relevant Irrelevance: Generating Alterfactual Explanations for Image Classifiers**|Silvan Mertes et.al.|[2405.05295](http://arxiv.org/abs/2405.05295)|null|
 |**2024-05-08**|**Overcoming Anchoring Bias: The Potential of AI and XAI-based Decision Support**|Felix Haag et.al.|[2405.04972](http://arxiv.org/abs/2405.04972)|null|
 |**2024-05-07**|**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**|Mukaffi Bin Moin et.al.|[2405.04610](http://arxiv.org/abs/2405.04610)|**[link](https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification)**|
 |**2024-05-07**|**Large Language Models Cannot Explain Themselves**|Advait Sarkar et.al.|[2405.04382](http://arxiv.org/abs/2405.04382)|null|
@@ -1360,6 +1391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Detecting Statements in Text: A Domain-Agnostic Few-Shot Solution**|Sandrine Chausson et.al.|[2405.05705](http://arxiv.org/abs/2405.05705)|**[link](https://github.com/s-l-chausson/easyclaimsdetection)**|
 |**2024-05-08**|**EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning**|Jingfeng Yao et.al.|[2405.05237](http://arxiv.org/abs/2405.05237)|**[link](https://github.com/hustvl/eva-x)**|
 |**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007](http://arxiv.org/abs/2405.04007)|null|
 |**2024-05-02**|**Active Learning Enabled Low-cost Cell Image Segmentation Using Bounding Box Annotation**|Yu Zhu et.al.|[2405.01701](http://arxiv.org/abs/2405.01701)|null|
