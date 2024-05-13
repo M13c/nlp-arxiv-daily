@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -36,7 +36,7 @@ layout: default
 |**2024-05-09**|**Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**|Xuanwen Ding et.al.|[2405.05496](http://arxiv.org/abs/2405.05496)|null|
 |**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
 |**2024-05-08**|**QuaLLM: An LLM-based Framework to Extract Quantitative Insights from Online Forums**|Varun Nagaraj Rao et.al.|[2405.05345](http://arxiv.org/abs/2405.05345)|null|
-|**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|null|
+|**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|**[link](https://github.com/cisnlp/xampler)**|
 |**2024-05-07**|**Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue**|Nhat Tran et.al.|[2405.04713](http://arxiv.org/abs/2405.04713)|**[link](https://github.com/nhattlm95/tm_kg_dialogue)**|
 |**2024-05-07**|**Enhancing Organizational Performance: Harnessing AI and NLP for User Feedback Analysis in Product Development**|Tian Tian et.al.|[2405.04692](http://arxiv.org/abs/2405.04692)|null|
 |**2024-05-07**|**Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums**|Felipe Moreno-Vera et.al.|[2405.04561](http://arxiv.org/abs/2405.04561)|**[link](https://github.com/fmorenovr/nlptoolkit)**|
@@ -148,7 +148,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
 |**2024-05-08**|**Automated Program Repair: Emerging trends pose and expose problems for benchmarks**|Joseph Renzullo et.al.|[2405.05455](http://arxiv.org/abs/2405.05455)|null|
-|**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
+|**2024-05-10**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
 |**2024-05-02**|**Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation**|Hao Wang et.al.|[2405.01280](http://arxiv.org/abs/2405.01280)|null|
 |**2024-04-30**|**Transferring Troubles: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**|Xuanli He et.al.|[2404.19597](http://arxiv.org/abs/2404.19597)|null|
 |**2024-04-30**|**Modeling Orthographic Variation in Occitan's Dialects**|Zachary William Hopton et.al.|[2404.19315](http://arxiv.org/abs/2404.19315)|null|
@@ -321,7 +321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-09**|**Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM**|Xikang Yang et.al.|[2405.05610](http://arxiv.org/abs/2405.05610)|null|
+|**2024-05-09**|**Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM**|Xikang Yang et.al.|[2405.05610](http://arxiv.org/abs/2405.05610)|**[link](https://github.com/yancykahn/coa)**|
 |**2024-05-09**|**Intelligent EC Rearview Mirror: Enhancing Driver Safety with Dynamic Glare Mitigation via Cloud Edge Collaboration**|Junyi Yang et.al.|[2405.05579](http://arxiv.org/abs/2405.05579)|null|
 |**2024-05-08**|**Studying Self-Care with Generative AI Tools: Lessons for Design**|Tara Capel et.al.|[2405.05458](http://arxiv.org/abs/2405.05458)|null|
 |**2024-05-08**|**The Power of Absence: Thinking with Archival Theory in Algorithmic Design**|Jihan Sherman et.al.|[2405.05420](http://arxiv.org/abs/2405.05420)|null|
@@ -414,7 +414,7 @@ layout: default
 |**2024-05-02**|**Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit's Showerthoughts**|Tolga Buz et.al.|[2405.01660](http://arxiv.org/abs/2405.01660)|null|
 |**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490](http://arxiv.org/abs/2405.01490)|null|
 |**2024-05-02**|**Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning**|Théo Moutakanni et.al.|[2405.01469](http://arxiv.org/abs/2405.01469)|null|
-|**2024-05-02**|**On the Evaluation of Machine-Generated Reports**|James Mayfield et.al.|[2405.00982](http://arxiv.org/abs/2405.00982)|null|
+|**2024-05-10**|**On the Evaluation of Machine-Generated Reports**|James Mayfield et.al.|[2405.00982](http://arxiv.org/abs/2405.00982)|null|
 |**2024-05-01**|**DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling**|Shikhar Tuli et.al.|[2405.00888](http://arxiv.org/abs/2405.00888)|null|
 |**2024-05-01**|**Integrating A.I. in Higher Education: Protocol for a Pilot Study with 'SAMCares: An Adaptive Learning Hub'**|Syed Hasib Akhter Faruqui et.al.|[2405.00330](http://arxiv.org/abs/2405.00330)|null|
 |**2024-04-30**|**DOCCI: Descriptions of Connected and Contrasting Images**|Yasumasa Onoe et.al.|[2404.19753](http://arxiv.org/abs/2404.19753)|null|
@@ -1166,7 +1166,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
 |**2024-05-08**|**P-ICL: Point In-Context Learning for Named Entity Recognition with Large Language Models**|Guochao Jiang et.al.|[2405.04960](http://arxiv.org/abs/2405.04960)|null|
-|**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
+|**2024-05-10**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
 |**2024-05-06**|**Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction**|Giuseppe Costantino et.al.|[2405.03320](http://arxiv.org/abs/2405.03320)|null|
 |**2024-05-05**|**A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs)**|Lingyao Li et.al.|[2405.03066](http://arxiv.org/abs/2405.03066)|null|
 |**2024-05-05**|**Exploring prompts to elicit memorization in masked language model-based named entity recognition**|Yuxi Xia et.al.|[2405.03004](http://arxiv.org/abs/2405.03004)|null|
@@ -1393,7 +1393,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-09**|**Detecting Statements in Text: A Domain-Agnostic Few-Shot Solution**|Sandrine Chausson et.al.|[2405.05705](http://arxiv.org/abs/2405.05705)|**[link](https://github.com/s-l-chausson/easyclaimsdetection)**|
 |**2024-05-08**|**EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning**|Jingfeng Yao et.al.|[2405.05237](http://arxiv.org/abs/2405.05237)|**[link](https://github.com/hustvl/eva-x)**|
-|**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007](http://arxiv.org/abs/2405.04007)|null|
+|**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007](http://arxiv.org/abs/2405.04007)|**[link](https://github.com/ailab-cvc/seed-x)**|
 |**2024-05-02**|**Active Learning Enabled Low-cost Cell Image Segmentation Using Bounding Box Annotation**|Yu Zhu et.al.|[2405.01701](http://arxiv.org/abs/2405.01701)|null|
 |**2024-05-02**|**The Effectiveness of LLMs as Annotators: A Comparative Overview and Empirical Analysis of Direct Representation**|Maja Pavlovic et.al.|[2405.01299](http://arxiv.org/abs/2405.01299)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
