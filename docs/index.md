@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.17
+## Updated on 2024.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -33,6 +33,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**SynthesizRR: Generating Diverse Datasets with Retrieval Augmentation**|Abhishek Divekar et.al.|[2405.10040](http://arxiv.org/abs/2405.10040)|null|
+|**2024-05-16**|**Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3)**|Tong Zhan et.al.|[2405.09770](http://arxiv.org/abs/2405.09770)|null|
 |**2024-05-15**|**Bridging the gap in online hate speech detection: a comparative analysis of BERT and traditional models for homophobic content identification on X/Twitter**|Josh McGiff et.al.|[2405.09221](http://arxiv.org/abs/2405.09221)|null|
 |**2024-05-14**|**Impact of Stickers on Multimodal Chat Sentiment Analysis and Intent Recognition: A New Task, Dataset and Baseline**|Yuanchen Shi et.al.|[2405.08427](http://arxiv.org/abs/2405.08427)|null|
 |**2024-05-13**|**Can LLMs Help Predict Elections? (Counter)Evidence from the World's Largest Democracy**|Pratik Gujral et.al.|[2405.07828](http://arxiv.org/abs/2405.07828)|null|
@@ -214,6 +216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**FinTextQA: A Dataset for Long-form Financial Question Answering**|Jian Chen et.al.|[2405.09980](http://arxiv.org/abs/2405.09980)|null|
+|**2024-05-15**|**STAR: A Benchmark for Situated Reasoning in Real-World Videos**|Bo Wu et.al.|[2405.09711](http://arxiv.org/abs/2405.09711)|null|
 |**2024-05-15**|**HumanRankEval: Automatic Evaluation of LMs as Conversational Assistants**|Milan Gritta et.al.|[2405.09186](http://arxiv.org/abs/2405.09186)|null|
 |**2024-05-14**|**Distance-Restricted Explanations: Theoretical Underpinnings & Efficient Implementation**|Yacine Izza et.al.|[2405.08297](http://arxiv.org/abs/2405.08297)|null|
 |**2024-05-13**|**KET-QA: A Dataset for Knowledge Enhanced Table Question Answering**|Mengkang Hu et.al.|[2405.08099](http://arxiv.org/abs/2405.08099)|null|
@@ -342,6 +346,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Speaker Verification in Agent-Generated Conversations**|Yizhe Yang et.al.|[2405.10150](http://arxiv.org/abs/2405.10150)|null|
+|**2024-05-16**|**Many Hands Make Light Work: Task-Oriented Dialogue System with Module-Based Mixture-of-Experts**|Ruolin Su et.al.|[2405.09744](http://arxiv.org/abs/2405.09744)|null|
 |**2024-05-14**|**Effective Field Theory Framework: Construction Strategies and Soft Collinear Effective Theory (SCET)**|Waqas Riaz et.al.|[2405.08752](http://arxiv.org/abs/2405.08752)|null|
 |**2024-05-14**|**Kawaii Computing: Scoping Out the Japanese Notion of Cute in User Experiences with Interactive Systems**|Yijia Wang et.al.|[2405.08244](http://arxiv.org/abs/2405.08244)|null|
 |**2024-05-14**|**No Joke: An Embodied Conversational Agent Greeting Older Adults with Humour or a Smile Unrelated to Initial Acceptance**|Ge "Rikaku" Li et.al.|[2405.08242](http://arxiv.org/abs/2405.08242)|null|
@@ -438,6 +444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Leveraging Large Language Models for Automated Web-Form-Test Generation: An Empirical Study**|Tao Li et.al.|[2405.09965](http://arxiv.org/abs/2405.09965)|null|
+|**2024-05-16**|**Chameleon: Mixed-Modal Early-Fusion Foundation Models**|Chameleon Team et.al.|[2405.09818](http://arxiv.org/abs/2405.09818)|null|
 |**2024-05-14**|**Challenges and Opportunities in Text Generation Explainability**|Kenza Amara et.al.|[2405.08468](http://arxiv.org/abs/2405.08468)|null|
 |**2024-05-13**|**Reproducing the Metric-Based Evaluation of a Set of Controllable Text Generation Techniques**|Michela Lorandi et.al.|[2405.07875](http://arxiv.org/abs/2405.07875)|null|
 |**2024-05-11**|**Retrieval Enhanced Zero-Shot Video Captioning**|Yunchuan Ma et.al.|[2405.07046](http://arxiv.org/abs/2405.07046)|null|
@@ -552,6 +560,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
+|**2024-05-16**|**Co-Matching: Towards Human-Machine Collaborative Legal Case Matching**|Chen Huang et.al.|[2405.10248](http://arxiv.org/abs/2405.10248)|null|
+|**2024-05-16**|**iDRAMA-Scored-2024: A Dataset of the Scored Social Media Platform from 2020 to 2023**|Jay Patel et.al.|[2405.10233](http://arxiv.org/abs/2405.10233)|**[link](https://github.com/idramalab/iDRAMA-scored-2024)**|
+|**2024-05-16**|**Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation**|Kun Lin et.al.|[2405.10232](http://arxiv.org/abs/2405.10232)|**[link](https://github.com/nicolelin13/dynamiccalibrationumap)**|
+|**2024-05-16**|**$Δ\text{-}{\rm OPE}$ : Off-Policy Estimation with Pairs of Policies**|Olivier Jeunen et.al.|[2405.10024](http://arxiv.org/abs/2405.10024)|null|
+|**2024-05-15**|**Modeling User Preferences via Brain-Computer Interfacing**|Luis A. Leiva et.al.|[2405.09691](http://arxiv.org/abs/2405.09691)|null|
 |**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
 |**2024-05-15**|**Words Blending Boxes. Obfuscating Queries in Information Retrieval using Differential Privacy**|Francesco Luigi De Faveri et.al.|[2405.09306](http://arxiv.org/abs/2405.09306)|null|
@@ -876,6 +890,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
+|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218](http://arxiv.org/abs/2405.10218)|null|
+|**2024-05-16**|**Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level**|Chenlong Zhao et.al.|[2405.10202](http://arxiv.org/abs/2405.10202)|**[link](https://github.com/molichenxi/haesum)**|
+|**2024-05-16**|**Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning**|Wansong Liu et.al.|[2405.09779](http://arxiv.org/abs/2405.09779)|null|
+|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
+|**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522](http://arxiv.org/abs/2405.09522)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477](http://arxiv.org/abs/2405.09477)|null|
 |**2024-05-15**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444](http://arxiv.org/abs/2405.09444)|null|
@@ -1161,6 +1181,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level**|Chenlong Zhao et.al.|[2405.10202](http://arxiv.org/abs/2405.10202)|**[link](https://github.com/molichenxi/haesum)**|
+|**2024-05-16**|**Unsupervised Extractive Dialogue Summarization in Hyperdimensional Space**|Seongmin Park et.al.|[2405.09765](http://arxiv.org/abs/2405.09765)|**[link](https://github.com/seongminp/hyperseg)**|
 |**2024-05-10**|**ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data**|Piyush Kumar Garg et.al.|[2405.06541](http://arxiv.org/abs/2405.06541)|null|
 |**2024-05-10**|**Aspect-oriented Consumer Health Answer Summarization**|Rochana Chaturvedi et.al.|[2405.06295](http://arxiv.org/abs/2405.06295)|null|
 |**2024-05-08**|**Improving Long Text Understanding with Knowledge Distilled from Summarization Model**|Yan Liu et.al.|[2405.04955](http://arxiv.org/abs/2405.04955)|null|
@@ -1188,6 +1210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models**|Yuchen Hu et.al.|[2405.10025](http://arxiv.org/abs/2405.10025)|null|
+|**2024-05-15**|**No More Mumbles: Enhancing Robot Intelligibility through Speech Adaptation**|Qiaoqiao Ren et.al.|[2405.09708](http://arxiv.org/abs/2405.09708)|**[link](https://github.com/qiaoqiao2323/robot-speech-intelligibility)**|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470](http://arxiv.org/abs/2405.09470)|null|
 |**2024-05-14**|**Investigating the 'Autoencoder Behavior' in Speech Self-Supervised Models: a focus on HuBERT's Pretraining**|Valentin Vielzeuf et.al.|[2405.08402](http://arxiv.org/abs/2405.08402)|null|
 |**2024-05-14**|**SpeechVerse: A Large-scale Generalizable Audio Language Model**|Nilaksh Das et.al.|[2405.08295](http://arxiv.org/abs/2405.08295)|null|
@@ -1379,6 +1403,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Zero-Shot Hierarchical Classification on the Common Procurement Vocabulary Taxonomy**|Federico Moiraghi et.al.|[2405.09983](http://arxiv.org/abs/2405.09983)|null|
 |**2024-05-11**|**Length-Aware Multi-Kernel Transformer for Long Document Classification**|Guangzeng Han et.al.|[2405.07052](http://arxiv.org/abs/2405.07052)|**[link](https://github.com/trust-nlp/LAMKIT)**|
 |**2024-05-08**|**Improving Long Text Understanding with Knowledge Distilled from Summarization Model**|Yan Liu et.al.|[2405.04955](http://arxiv.org/abs/2405.04955)|null|
 |**2024-05-06**|**CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification**|Sankalp Sinha et.al.|[2405.03660](http://arxiv.org/abs/2405.03660)|null|
@@ -1433,6 +1458,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Solving the enigma: Deriving optimal explanations of deep networks**|Michail Mamalakis et.al.|[2405.10008](http://arxiv.org/abs/2405.10008)|null|
+|**2024-05-16**|**Mitigating Text Toxicity with Counterfactual Generation**|Milan Bhan et.al.|[2405.09948](http://arxiv.org/abs/2405.09948)|null|
+|**2024-05-16**|**Stock Market Dynamics Through Deep Learning Context**|Amirhossein Aminimehr et.al.|[2405.09932](http://arxiv.org/abs/2405.09932)|null|
+|**2024-05-14**|**Error-margin Analysis for Hidden Neuron Activation Labels**|Abhilekha Dalal et.al.|[2405.09580](http://arxiv.org/abs/2405.09580)|null|
 |**2024-05-15**|**Large Language Model Bias Mitigation from the Perspective of Knowledge Editing**|Ruizhe Chen et.al.|[2405.09341](http://arxiv.org/abs/2405.09341)|null|
 |**2024-05-15**|**DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations**|Nima Fathi et.al.|[2405.09288](http://arxiv.org/abs/2405.09288)|**[link](https://github.com/nimafathi/decodex)**|
 |**2024-05-15**|**Advancing Explainable AI with Causal Analysis in Large-Scale Fuzzy Cognitive Maps**|Marios Tyrovolas et.al.|[2405.09190](http://arxiv.org/abs/2405.09190)|null|
