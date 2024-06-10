@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -35,14 +35,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-06**|**BEADs: Bias Evaluation Across Domains**|Shaina Raza et.al.|[2406.04220](http://arxiv.org/abs/2406.04220)|null|
+|**2024-06-07**|**BEADs: Bias Evaluation Across Domains**|Shaina Raza et.al.|[2406.04220](http://arxiv.org/abs/2406.04220)|null|
 |**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
 |**2024-06-06**|**Pointer-Guided Pre-Training: Infusing Large Language Models with Paragraph-Level Contextual Awareness**|Lars Hillebrand et.al.|[2406.04156](http://arxiv.org/abs/2406.04156)|**[link](https://github.com/LarsHill/pointer-guided-pre-training)**|
 |**2024-06-06**|**Exploring Topic Modelling of User Reviews as a Monitoring Mechanism for Emergent Issues Within Social VR Communities**|Angelo Singh et.al.|[2406.03994](http://arxiv.org/abs/2406.03994)|null|
 |**2024-06-06**|**LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification**|Chun Liu et.al.|[2406.03725](http://arxiv.org/abs/2406.03725)|**[link](https://github.com/chunliu-cs/llmembed-acl2024)**|
 |**2024-06-05**|**Investigating the Relationship Between User Specialization and Toxicity on Reddit: A Sentiment Analysis Approach**|Abi Oppenheim et.al.|[2406.03443](http://arxiv.org/abs/2406.03443)|null|
 |**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368](http://arxiv.org/abs/2406.03368)|null|
-|**2024-06-05**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|null|
+|**2024-06-07**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|null|
 |**2024-06-05**|**Evaluation of data inconsistency for multi-modal sentiment analysis**|Yufei Wang et.al.|[2406.03004](http://arxiv.org/abs/2406.03004)|null|
 |**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|**[link](https://github.com/HITSZ-HLT/Feedback-ICL)**|
 |**2024-06-05**|**S $^2$ GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis**|Bingfeng Chen et.al.|[2406.02902](http://arxiv.org/abs/2406.02902)|null|
@@ -230,7 +230,7 @@ layout: default
 |**2024-05-30**|**Extending the Massive Text Embedding Benchmark to French**|Mathieu Ciancone et.al.|[2405.20468](http://arxiv.org/abs/2405.20468)|null|
 |**2024-05-30**|**The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities**|David Stap et.al.|[2405.20089](http://arxiv.org/abs/2405.20089)|null|
 |**2024-05-29**|**Critical Learning Periods: Leveraging Early Training Dynamics for Efficient Data Pruning**|Everlyn Asiko Chimoto et.al.|[2405.19462](http://arxiv.org/abs/2405.19462)|null|
-|**2024-05-29**|**Integrating Multi-scale Contextualized Information for Byte-based Neural Machine Translation**|Langlin Huang et.al.|[2405.19290](http://arxiv.org/abs/2405.19290)|**[link](https://github.com/ictnlp/multiscale-contextualization)**|
+|**2024-06-07**|**Integrating Multi-scale Contextualized Information for Byte-based Neural Machine Translation**|Langlin Huang et.al.|[2405.19290](http://arxiv.org/abs/2405.19290)|**[link](https://github.com/ictnlp/multiscale-contextualization)**|
 |**2024-05-29**|**Understanding and Addressing the Under-Translation Problem from the Perspective of Decoding Objective**|Chenze Shao et.al.|[2405.18922](http://arxiv.org/abs/2405.18922)|null|
 |**2024-05-27**|**MindMerger: Efficient Boosting LLM Reasoning in non-English Languages**|Zixian Huang et.al.|[2405.17386](http://arxiv.org/abs/2405.17386)|**[link](https://github.com/cone-mt/mindmerger)**|
 |**2024-05-26**|**DarijaBanking: A New Resource for Overcoming Language Barriers in Banking Intent Detection for Moroccan Arabic Speakers**|Abderrahman Skiredj et.al.|[2405.16482](http://arxiv.org/abs/2405.16482)|**[link](https://github.com/abderrahmanskiredj/DarijaBanking)**|
@@ -645,7 +645,7 @@ layout: default
 |**2024-06-06**|**Uncovering Limitations of Large Language Models in Information Seeking from Tables**|Chaoxu Pang et.al.|[2406.04113](http://arxiv.org/abs/2406.04113)|**[link](https://github.com/coszero/TabIS)**|
 |**2024-06-06**|**End-to-End Trainable Soft Retriever for Low-resource Relation Extraction**|Kohei Makino et.al.|[2406.03790](http://arxiv.org/abs/2406.03790)|null|
 |**2024-06-06**|**Evaluating Durability: Benchmark Insights into Multimodal Watermarking**|Jielin Qiu et.al.|[2406.03728](http://arxiv.org/abs/2406.03728)|null|
-|**2024-06-05**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|null|
+|**2024-06-07**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|null|
 |**2024-06-05**|**Towards Detecting LLMs Hallucination via Markov Chain-based Multi-agent Debate Framework**|Xiaoxi Sun et.al.|[2406.03075](http://arxiv.org/abs/2406.03075)|null|
 |**2024-06-05**|**From Tarzan to Tolkien: Controlling the Language Proficiency Level of LLMs for Content Generation**|Ali Malik et.al.|[2406.03030](http://arxiv.org/abs/2406.03030)|null|
 |**2024-06-05**|**Efficient Minimum Bayes Risk Decoding using Low-Rank Matrix Completion Algorithms**|Firas Trabelsi et.al.|[2406.02832](http://arxiv.org/abs/2406.02832)|null|
@@ -831,7 +831,7 @@ layout: default
 |**2024-06-06**|**Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation**|Honglei Zhang et.al.|[2406.03933](http://arxiv.org/abs/2406.03933)|null|
 |**2024-06-06**|**Polyhedral Conic Classifier for CTR Prediction**|Beyza Turkmen et.al.|[2406.03892](http://arxiv.org/abs/2406.03892)|null|
 |**2024-06-06**|**Reducing the climate impact of data portals: a case study**|Noah Gießing et.al.|[2406.03858](http://arxiv.org/abs/2406.03858)|null|
-|**2024-06-06**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776](http://arxiv.org/abs/2406.03776)|null|
+|**2024-06-07**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776](http://arxiv.org/abs/2406.03776)|null|
 |**2024-06-06**|**Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**|Xin Wang et.al.|[2406.03721](http://arxiv.org/abs/2406.03721)|null|
 |**2024-06-05**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|null|
 |**2024-06-05**|**Save It for the "Hot" Day: An LLM-Empowered Visual Analytics System for Heat Risk Management**|Haobo Li et.al.|[2406.03317](http://arxiv.org/abs/2406.03317)|null|
@@ -1287,7 +1287,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
-|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
+|**2024-06-07**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267](http://arxiv.org/abs/2406.04267)|null|
 |**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043](http://arxiv.org/abs/2406.04043)|null|
@@ -1738,7 +1738,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Beyond Performance Plateaus: A Comprehensive Study on Scalability in Speech Enhancement**|Wangyou Zhang et.al.|[2406.04269](http://arxiv.org/abs/2406.04269)|null|
-|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240](http://arxiv.org/abs/2406.04240)|null|
+|**2024-06-07**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240](http://arxiv.org/abs/2406.04240)|null|
 |**2024-06-06**|**Helsinki Speech Challenge 2024**|Martin Ludvigsen et.al.|[2406.04123](http://arxiv.org/abs/2406.04123)|null|
 |**2024-06-06**|**BLSP-Emo: Towards Empathetic Large Speech-Language Models**|Chen Wang et.al.|[2406.03872](http://arxiv.org/abs/2406.03872)|**[link](https://github.com/cwang621/blsp-emo)**|
 |**2024-06-06**|**Improving Zero-Shot Chinese-English Code-Switching ASR with kNN-CTC and Gated Monolingual Datastores**|Jiaming Zhou et.al.|[2406.03814](http://arxiv.org/abs/2406.03814)|null|
