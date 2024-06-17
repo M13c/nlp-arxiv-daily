@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -902,7 +902,7 @@ layout: default
 |**2024-06-13**|**Can't Hide Behind the API: Stealing Black-Box Commercial Embedding Models**|Manveer Singh Tamber et.al.|[2406.09355](http://arxiv.org/abs/2406.09355)|null|
 |**2024-06-13**|**Master of Disaster: A Disaster-Related Event Monitoring System From News Streams**|Junbo Huang et.al.|[2406.09323](http://arxiv.org/abs/2406.09323)|null|
 |**2024-06-13**|**Khmer Semantic Search Engine: Digital Information Access and Document Retrieval**|Nimol Thuon et.al.|[2406.09320](http://arxiv.org/abs/2406.09320)|null|
-|**2024-06-13**|**On Softmax Direct Preference Optimization for Recommendation**|Yuxin Chen et.al.|[2406.09215](http://arxiv.org/abs/2406.09215)|**[link](https://github.com/chenyuxin1999/s-dpo)**|
+|**2024-06-14**|**On Softmax Direct Preference Optimization for Recommendation**|Yuxin Chen et.al.|[2406.09215](http://arxiv.org/abs/2406.09215)|**[link](https://github.com/chenyuxin1999/s-dpo)**|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
 |**2024-06-13**|**Contextual Distillation Model for Diversified Recommendation**|Fan Li et.al.|[2406.09021](http://arxiv.org/abs/2406.09021)|null|
 |**2024-06-13**|**Robust Information Retrieval**|Yu-An Liu et.al.|[2406.08891](http://arxiv.org/abs/2406.08891)|null|
@@ -2454,7 +2454,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-13**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296](http://arxiv.org/abs/2406.09296)|null|
+|**2024-06-14**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296](http://arxiv.org/abs/2406.09296)|null|
 |**2024-06-12**|**2nd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation**|Zhensong Xu et.al.|[2406.08192](http://arxiv.org/abs/2406.08192)|null|
 |**2024-06-12**|**Exploring Self-Supervised Multi-view Contrastive Learning for Speech Emotion Recognition with Limited Annotations**|Bulat Khaertdinov et.al.|[2406.07900](http://arxiv.org/abs/2406.07900)|null|
 |**2024-06-10**|**Situated Ground Truths: Enhancing Bias-Aware AI by Situating Data Labels with SituAnnotate**|Delfina Sol Martinez Pandiani et.al.|[2406.07583](http://arxiv.org/abs/2406.07583)|null|
