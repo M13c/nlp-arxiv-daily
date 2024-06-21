@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-14**|**Pcc-tuning: Breaking the Contrastive Learning Ceiling in Semantic Textual Similarity**|Bowen Zhang et.al.|[2406.09790](http://arxiv.org/abs/2406.09790)|**[link](https://github.com/ZBWpro/Pcc-tuning)**|
-|**2024-06-10**|**Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles**|Julia Kruk et.al.|[2406.06840](http://arxiv.org/abs/2406.06840)|null|
+|**2024-06-18**|**Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles**|Julia Kruk et.al.|[2406.06840](http://arxiv.org/abs/2406.06840)|null|
 |**2024-06-03**|**LexMatcher: Dictionary-centric Data Collection for LLM-based Machine Translation**|Yongjing Yin et.al.|[2406.01441](http://arxiv.org/abs/2406.01441)|null|
 |**2024-05-28**|**Improving Multi-lingual Alignment Through Soft Contrastive Learning**|Minsu Park et.al.|[2405.16155](http://arxiv.org/abs/2405.16155)|**[link](https://github.com/yai12xlinq-b/imascl)**|
 |**2024-05-13**|**DEPTH: Discourse Education through Pre-Training Hierarchically**|Zachary Bamberger et.al.|[2405.07788](http://arxiv.org/abs/2405.07788)|**[link](https://github.com/zbambergerNLP/depth)**|
@@ -339,7 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746](http://arxiv.org/abs/2406.12746)|null|
+|**2024-06-19**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746](http://arxiv.org/abs/2406.12746)|null|
 |**2024-06-17**|**Decoding the Narratives: Analyzing Personal Drug Experiences Shared on Reddit**|Layla Bouzoubaa et.al.|[2406.12117](http://arxiv.org/abs/2406.12117)|null|
 |**2024-06-17**|**InternalInspector $I^2$ : Robust Confidence Estimation in LLMs through Internal States**|Mohammad Beigi et.al.|[2406.12053](http://arxiv.org/abs/2406.12053)|null|
 |**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830](http://arxiv.org/abs/2406.11830)|**[link](https://github.com/belindal/erase)**|
@@ -758,7 +758,7 @@ layout: default
 |**2024-06-18**|**PDSS: A Privacy-Preserving Framework for Step-by-Step Distillation of Large Language Models**|Tao Fan et.al.|[2406.12403](http://arxiv.org/abs/2406.12403)|null|
 |**2024-06-17**|**LiLiuM: eBay's Large Language Models for e-commerce**|Christian Herold et.al.|[2406.12023](http://arxiv.org/abs/2406.12023)|null|
 |**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785](http://arxiv.org/abs/2406.11785)|null|
-|**2024-06-17**|**Extrinsic Evaluation of Cultural Competence in Large Language Models**|Shaily Bhatt et.al.|[2406.11565](http://arxiv.org/abs/2406.11565)|null|
+|**2024-06-19**|**Extrinsic Evaluation of Cultural Competence in Large Language Models**|Shaily Bhatt et.al.|[2406.11565](http://arxiv.org/abs/2406.11565)|null|
 |**2024-06-17**|**Fine-grained Controllable Text Generation through In-context Learning with Feedback**|Sarubi Thillainathan et.al.|[2406.11338](http://arxiv.org/abs/2406.11338)|null|
 |**2024-06-17**|**Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment**|Jie Li et.al.|[2406.11285](http://arxiv.org/abs/2406.11285)|null|
 |**2024-06-17**|**Incentivizing Quality Text Generation via Statistical Contracts**|Eden Saig et.al.|[2406.11118](http://arxiv.org/abs/2406.11118)|**[link](https://github.com/edensaig/llm-contracts)**|
@@ -2011,7 +2011,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-18**|**EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause**|Mia Huong Nguyen et.al.|[2406.12389](http://arxiv.org/abs/2406.12389)|null|
-|**2024-06-16**|**InstructCMP: Length Control in Sentence Compression through Instruction-based Large Language Models**|Juseon-Do et.al.|[2406.11097](http://arxiv.org/abs/2406.11097)|null|
+|**2024-06-18**|**InstructCMP: Length Control in Sentence Compression through Instruction-based Large Language Models**|Juseon-Do et.al.|[2406.11097](http://arxiv.org/abs/2406.11097)|null|
 |**2024-06-12**|**SumHiS: Extractive Summarization Exploiting Hidden Structure**|Tikhonov Pavel et.al.|[2406.08215](http://arxiv.org/abs/2406.08215)|null|
 |**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|null|
 |**2024-06-12**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494](http://arxiv.org/abs/2406.07494)|null|
@@ -2270,7 +2270,7 @@ layout: default
 |**2024-06-17**|**Fusion Makes Perfection: An Efficient Multi-Grained Matching Approach for Zero-Shot Relation Extraction**|Shilong Li et.al.|[2406.11429](http://arxiv.org/abs/2406.11429)|**[link](https://github.com/longls777/emma)**|
 |**2024-06-17**|**Beyond Boundaries: Learning a Universal Entity Taxonomy across Datasets and Languages for Open Named Entity Recognition**|Yuming Yang et.al.|[2406.11192](http://arxiv.org/abs/2406.11192)|**[link](https://github.com/umeannever/b2ner)**|
 |**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162](http://arxiv.org/abs/2406.11162)|**[link](https://github.com/victor812-hub/entity_datasets)**|
-|**2024-06-15**|**Augmenting Biomedical Named Entity Recognition with General-domain Resources**|Yu Yin et.al.|[2406.10671](http://arxiv.org/abs/2406.10671)|**[link](https://github.com/qingyu-qc/bioner_gerbera)**|
+|**2024-06-18**|**Augmenting Biomedical Named Entity Recognition with General-domain Resources**|Yu Yin et.al.|[2406.10671](http://arxiv.org/abs/2406.10671)|**[link](https://github.com/qingyu-qc/bioner_gerbera)**|
 |**2024-06-14**|**Enhancing In-Context Learning with Semantic Representations for Relation Extraction**|Peitao Han et.al.|[2406.10432](http://arxiv.org/abs/2406.10432)|null|
 |**2024-06-14**|**A Survey of Video Datasets for Grounded Event Understanding**|Kate Sanders et.al.|[2406.09646](http://arxiv.org/abs/2406.09646)|**[link](https://github.com/katesanders9/grounded-events)**|
 |**2024-06-13**|**Exploring Syntactic Patterns in Urdu: A Deep Dive into Dependency Analysis**|Nudrat Habib et.al.|[2406.09549](http://arxiv.org/abs/2406.09549)|null|
@@ -2485,7 +2485,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
+|**2024-06-19**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
 |**2024-06-18**|**Investigating the Role of Explainability and AI Literacy in User Compliance**|Niklas Kühl et.al.|[2406.12660](http://arxiv.org/abs/2406.12660)|null|
 |**2024-06-18**|**Does Context Help Mitigate Gender Bias in Neural Machine Translation?**|Harritxu Gete et.al.|[2406.12364](http://arxiv.org/abs/2406.12364)|null|
 |**2024-06-17**|**Can Many-Shot In-Context Learning Help Long-Context LLM Judges? See More, Judge Better!**|Mingyang Song et.al.|[2406.11629](http://arxiv.org/abs/2406.11629)|**[link](https://github.com/nick7nlp/SeeMoreJudgeBetter)**|
