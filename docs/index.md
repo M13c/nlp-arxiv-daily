@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -2056,7 +2056,7 @@ layout: default
 |**2024-06-18**|**EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause**|Mia Huong Nguyen et.al.|[2406.12389](http://arxiv.org/abs/2406.12389)|**[link](https://github.com/iammia0o/EMO-KNOW)**|
 |**2024-06-18**|**InstructCMP: Length Control in Sentence Compression through Instruction-based Large Language Models**|Juseon-Do et.al.|[2406.11097](http://arxiv.org/abs/2406.11097)|null|
 |**2024-06-12**|**SumHiS: Extractive Summarization Exploiting Hidden Structure**|Tikhonov Pavel et.al.|[2406.08215](http://arxiv.org/abs/2406.08215)|null|
-|**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|null|
+|**2024-06-18**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|null|
 |**2024-06-12**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494](http://arxiv.org/abs/2406.07494)|null|
 |**2024-06-08**|**CERET: Cost-Effective Extrinsic Refinement for Text Generation**|Jason Cai et.al.|[2406.05588](http://arxiv.org/abs/2406.05588)|**[link](https://github.com/amazon-science/ceret-llm-refine)**|
 |**2024-06-08**|**Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation**|Neeraj Varshney et.al.|[2406.05494](http://arxiv.org/abs/2406.05494)|null|
@@ -2095,7 +2095,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
+|**2024-06-21**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
 |**2024-06-20**|**Intelligent Interface: Enhancing Lecture Engagement with Didactic Activity Summaries**|Anna Wróblewska et.al.|[2406.14266](http://arxiv.org/abs/2406.14266)|null|
 |**2024-06-19**|**Joint vs Sequential Speaker-Role Detection and Automatic Speech Recognition for Air-traffic Control**|Alexander Blatt et.al.|[2406.13842](http://arxiv.org/abs/2406.13842)|null|
 |**2024-06-19**|**ManWav: The First Manchu ASR Model**|Jean Seo et.al.|[2406.13502](http://arxiv.org/abs/2406.13502)|null|
