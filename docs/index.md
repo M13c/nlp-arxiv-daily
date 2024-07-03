@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -12,7 +12,7 @@ layout: default
 |**2024-06-15**|**Hyperbolic sentence representations for solving Textual Entailment**|Igor Petrovski et.al.|[2406.15472](http://arxiv.org/abs/2406.15472)|null|
 |**2024-06-14**|**Pcc-tuning: Breaking the Contrastive Learning Ceiling in Semantic Textual Similarity**|Bowen Zhang et.al.|[2406.09790](http://arxiv.org/abs/2406.09790)|**[link](https://github.com/ZBWpro/Pcc-tuning)**|
 |**2024-06-18**|**Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles**|Julia Kruk et.al.|[2406.06840](http://arxiv.org/abs/2406.06840)|null|
-|**2024-06-03**|**LexMatcher: Dictionary-centric Data Collection for LLM-based Machine Translation**|Yongjing Yin et.al.|[2406.01441](http://arxiv.org/abs/2406.01441)|null|
+|**2024-07-02**|**LexMatcher: Dictionary-centric Data Collection for LLM-based Machine Translation**|Yongjing Yin et.al.|[2406.01441](http://arxiv.org/abs/2406.01441)|null|
 |**2024-05-28**|**Improving Multi-lingual Alignment Through Soft Contrastive Learning**|Minsu Park et.al.|[2405.16155](http://arxiv.org/abs/2405.16155)|**[link](https://github.com/yai12xlinq-b/imascl)**|
 |**2024-05-13**|**DEPTH: Discourse Education through Pre-Training Hierarchically**|Zachary Bamberger et.al.|[2405.07788](http://arxiv.org/abs/2405.07788)|**[link](https://github.com/zbambergerNLP/depth)**|
 |**2024-05-11**|**Do Pretrained Contextual Language Models Distinguish between Hebrew Homograph Analyses?**|Avi Shmidman et.al.|[2405.07099](http://arxiv.org/abs/2405.07099)|**[link](https://github.com/Dicta-Israel-Center-for-Text-Analysis/EACL_2023)**|
@@ -1664,7 +1664,7 @@ layout: default
 |**2024-05-28**|**Multi-modal Mood Reader: Pre-trained Model Empowers Cross-Subject Emotion Recognition**|Yihang Dong et.al.|[2405.19373](http://arxiv.org/abs/2405.19373)|null|
 |**2024-05-29**|**OUS: Scene-Guided Dynamic Facial Expression Recognition**|Xinji Mai et.al.|[2405.18769](http://arxiv.org/abs/2405.18769)|null|
 |**2024-05-28**|**Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion**|Xiaobao Wu et.al.|[2405.17957](http://arxiv.org/abs/2405.17957)|**[link](https://github.com/bobxwu/cfdtm)**|
-|**2024-05-27**|**TEII: Think, Explain, Interact and Iterate with Large Language Models to Solve Cross-lingual Emotion Detection**|Long Cheng et.al.|[2405.17129](http://arxiv.org/abs/2405.17129)|**[link](https://github.com/cl-victor1/exalt_2024_bcsz)**|
+|**2024-07-02**|**TEII: Think, Explain, Interact and Iterate with Large Language Models to Solve Cross-lingual Emotion Detection**|Long Cheng et.al.|[2405.17129](http://arxiv.org/abs/2405.17129)|**[link](https://github.com/cl-victor1/exalt_2024_bcsz)**|
 |**2024-05-19**|**Zero-Shot Stance Detection using Contextual Data Generation with LLMs**|Ghazaleh Mahmoudi et.al.|[2405.11637](http://arxiv.org/abs/2405.11637)|**[link](https://github.com/Babakbehkamkia/GPT-Stance-Detection)**|
 |**2024-05-19**|**DogFLW: Dog Facial Landmarks in the Wild Dataset**|George Martvel et.al.|[2405.11501](http://arxiv.org/abs/2405.11501)|null|
 |**2024-05-12**|**A Supervised Information Enhanced Multi-Granularity Contrastive Learning Framework for EEG Based Emotion Recognition**|Xiang Li et.al.|[2405.07260](http://arxiv.org/abs/2405.07260)|**[link](https://github.com/muzixiang/si-cleer)**|
@@ -2976,7 +2976,7 @@ layout: default
 |**2024-06-27**|**MissionGNN: Hierarchical Multimodal GNN-based Weakly Supervised Video Anomaly Recognition with Mission-Specific Knowledge Graph Generation**|Sanggeon Yun et.al.|[2406.18815](http://arxiv.org/abs/2406.18815)|null|
 |**2024-06-25**|**TSynD: Targeted Synthetic Data Generation for Enhanced Medical Image Classification**|Joshua Niemeijer et.al.|[2406.17473](http://arxiv.org/abs/2406.17473)|null|
 |**2024-06-20**|**Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases**|Salvatore Giorgi et.al.|[2406.14462](http://arxiv.org/abs/2406.14462)|null|
-|**2024-06-20**|**Let Guidelines Guide You: A Prescriptive Guideline-Centered Data Annotation Methodology**|Federico Ruggeri et.al.|[2406.14099](http://arxiv.org/abs/2406.14099)|null|
+|**2024-07-02**|**Let Guidelines Guide You: A Prescriptive Guideline-Centered Data Annotation Methodology**|Federico Ruggeri et.al.|[2406.14099](http://arxiv.org/abs/2406.14099)|null|
 |**2024-06-18**|**Using LLMs to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia**|Ankit Aich et.al.|[2406.12687](http://arxiv.org/abs/2406.12687)|null|
 |**2024-06-17**|**Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation**|Hamidreza Rouzegar et.al.|[2406.12114](http://arxiv.org/abs/2406.12114)|**[link](https://github.com/hrouzegar/enhancing-text-classification-through-llm-driven-active-learning-and-human-annotation)**|
 |**2024-06-17**|**Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification**|Zhipeng Deng et.al.|[2406.11310](http://arxiv.org/abs/2406.11310)|null|
