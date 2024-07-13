@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -38,6 +38,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
+|**2024-07-11**|**Unveiling the Potential of BERTopic for Multilingual Fake News Analysis -- Use Case: Covid-19**|Karla Schäfer et.al.|[2407.08417](http://arxiv.org/abs/2407.08417)|null|
+|**2024-07-11**|**Unveiling Disparities in Maternity Care: A Topic Modelling Approach to Analysing Maternity Incident Investigation Reports**|Georgina Cosma et.al.|[2407.08328](http://arxiv.org/abs/2407.08328)|null|
+|**2024-07-11**|**Beyond Text: Leveraging Multi-Task Learning and Cognitive Appraisal Theory for Post-Purchase Intention Analysis**|Gerard Christopher Yeo et.al.|[2407.08182](http://arxiv.org/abs/2407.08182)|null|
+|**2024-07-11**|**A Comprehensive Study of Disaster Support Mobile Apps**|Muhamad Syukron et.al.|[2407.08145](http://arxiv.org/abs/2407.08145)|null|
 |**2024-07-10**|**Multi-task Prompt Words Learning for Social Media Content Generation**|Haochen Xue et.al.|[2407.07771](http://arxiv.org/abs/2407.07771)|null|
 |**2024-07-10**|**The Language of Weather: Social Media Reactions to Weather Accounting for Climatic and Linguistic Baselines**|James C. Young et.al.|[2407.07683](http://arxiv.org/abs/2407.07683)|null|
 |**2024-07-09**|**Identification of emotions on Twitter during the 2022 electoral process in Colombia**|Juan Jose Iguaran Fernandez et.al.|[2407.07258](http://arxiv.org/abs/2407.07258)|null|
@@ -412,6 +417,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Hypergraph Multi-modal Large Language Model: Exploiting EEG and Eye-tracking Modalities to Evaluate Heterogeneous Responses for Video Understanding**|Minghui Wu et.al.|[2407.08150](http://arxiv.org/abs/2407.08150)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
 |**2024-07-10**|**Why should we ever automate moral decision making?**|Vincent Conitzer et.al.|[2407.07671](http://arxiv.org/abs/2407.07671)|null|
 |**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972](http://arxiv.org/abs/2407.06972)|null|
@@ -713,6 +719,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Floquet Schrieffer-Wolff transform based on Sylvester equations**|Xiao Wang et.al.|[2407.08405](http://arxiv.org/abs/2407.08405)|null|
+|**2024-07-10**|**Linear dynamical stability and the laws of thermodynamics**|Blaise Goutéraux et.al.|[2407.07939](http://arxiv.org/abs/2407.07939)|null|
 |**2024-07-09**|**Efficient and Accurate Memorable Conversation Model using DPO based on sLLM**|Youngkyung Seo et.al.|[2407.06537](http://arxiv.org/abs/2407.06537)|null|
 |**2024-07-08**|**SimPal: Towards a Meta-Conversational Framework to Understand Teacher's Instructional Goals for K-12 Physics**|Effat Farhana et.al.|[2407.06241](http://arxiv.org/abs/2407.06241)|null|
 |**2024-07-08**|**Freezing and Shielding under Global Quenches for Long-Range Interacting Many-Body Systems**|Daniel Arrufat-Vicente et.al.|[2407.06072](http://arxiv.org/abs/2407.06072)|null|
@@ -935,6 +943,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683](http://arxiv.org/abs/2407.08683)|**[link](https://github.com/tencentarc/seed-story)**|
+|**2024-07-11**|**The Career Interests of Large Language Models**|Meng Hua et.al.|[2407.08564](http://arxiv.org/abs/2407.08564)|null|
+|**2024-07-11**|**Enriching Information and Preserving Semantic Consistency in Expanding Curvilinear Object Segmentation Datasets**|Qin Lei et.al.|[2407.08209](http://arxiv.org/abs/2407.08209)|**[link](https://github.com/tanlei0/costg)**|
 |**2024-07-11**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614](http://arxiv.org/abs/2407.07614)|**[link](https://github.com/fusiming3/mars)**|
 |**2024-07-10**|**Probability of Differentiation Reveals Brittleness of Homogeneity Bias in Large Language Models**|Messi H. J. Lee et.al.|[2407.07329](http://arxiv.org/abs/2407.07329)|null|
 |**2024-07-09**|**ConvNLP: Image-based AI Text Detection**|Suriya Prakash Jambunathan et.al.|[2407.07225](http://arxiv.org/abs/2407.07225)|null|
@@ -1202,6 +1213,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
+|**2024-07-11**|**From Real to Cloned Singer Identification**|Dorian Desblancs et.al.|[2407.08647](http://arxiv.org/abs/2407.08647)|null|
+|**2024-07-11**|**Multi-Group Proportional Representation**|Alex Oesterling et.al.|[2407.08571](http://arxiv.org/abs/2407.08571)|null|
+|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-11**|**Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning**|Zijian Zhao et.al.|[2407.08306](http://arxiv.org/abs/2407.08306)|**[link](https://github.com/RS2002/Adversarial-MidiBERT)**|
+|**2024-07-11**|**Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems**|Laura Caspari et.al.|[2407.08275](http://arxiv.org/abs/2407.08275)|null|
+|**2024-07-11**|**DALL-M: Context-Aware Clinical Data Augmentation with LLMs**|Chihcheng Hsieh et.al.|[2407.08227](http://arxiv.org/abs/2407.08227)|null|
+|**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
+|**2024-07-10**|**FsPONER: Few-shot Prompt Optimization for Named Entity Recognition in Domain-specific Scenarios**|Yongjian Tang et.al.|[2407.08035](http://arxiv.org/abs/2407.08035)|null|
+|**2024-07-10**|**DS@GT eRisk 2024: Sentence Transformers for Social Media Risk Assessment**|David Guecha et.al.|[2407.08008](http://arxiv.org/abs/2407.08008)|**[link](https://github.com/dsgt-kaggle-clef/erisk-2024)**|
 |**2024-07-10**|**Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation**|Wentao Xiao et.al.|[2407.07871](http://arxiv.org/abs/2407.07871)|**[link](https://github.com/xwt1/icpads-mn-ru)**|
 |**2024-07-10**|**Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR**|Nandan Thakur et.al.|[2407.07790](http://arxiv.org/abs/2407.07790)|**[link](https://github.com/castorini/touche-error-analysis)**|
 |**2024-07-10**|**Evaluating the method reproducibility of deep learning models in the biodiversity domain**|Waqas Ahmed et.al.|[2407.07550](http://arxiv.org/abs/2407.07550)|null|
@@ -1874,6 +1895,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents**|Haoyi Xiong et.al.|[2407.08516](http://arxiv.org/abs/2407.08516)|null|
+|**2024-07-11**|**CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks (Technical Report)**|Xiang Yin et.al.|[2407.08497](http://arxiv.org/abs/2407.08497)|null|
+|**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479](http://arxiv.org/abs/2407.08479)|null|
+|**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313](http://arxiv.org/abs/2407.08313)|null|
+|**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236](http://arxiv.org/abs/2407.08236)|null|
+|**2024-07-10**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064](http://arxiv.org/abs/2407.08064)|null|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
 |**2024-07-10**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials: A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736](http://arxiv.org/abs/2407.07736)|null|
 |**2024-07-10**|**Deep-Graph-Sprints: Accelerated Representation Learning in Continuous-Time Dynamic Graphs**|Ahmad Naser Eddin et.al.|[2407.07712](http://arxiv.org/abs/2407.07712)|null|
@@ -2535,6 +2562,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks**|Lucca Emmanuel Pineli Simões et.al.|[2407.08658](http://arxiv.org/abs/2407.08658)|null|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
 |**2024-07-10**|**HebDB: a Weakly Supervised Dataset for Hebrew Speech Processing**|Arnon Turetzky et.al.|[2407.07566](http://arxiv.org/abs/2407.07566)|null|
 |**2024-07-09**|**Tailored Design of Audio-Visual Speech Recognition Models using Branchformers**|David Gimeno-Gómez et.al.|[2407.06606](http://arxiv.org/abs/2407.06606)|**[link](https://github.com/david-gimeno/tailored-avsr)**|
 |**2024-07-08**|**Homogeneous Speaker Features for On-the-Fly Dysarthric and Elderly Speaker Adaptation**|Mengzhe Geng et.al.|[2407.06310](http://arxiv.org/abs/2407.06310)|null|
@@ -2803,6 +2832,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**FsPONER: Few-shot Prompt Optimization for Named Entity Recognition in Domain-specific Scenarios**|Yongjian Tang et.al.|[2407.08035](http://arxiv.org/abs/2407.08035)|null|
 |**2024-07-09**|**VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction**|Thanh-Dat Nguyen et.al.|[2407.06826](http://arxiv.org/abs/2407.06826)|null|
 |**2024-07-09**|**Consistent Document-Level Relation Extraction via Counterfactuals**|Ali Modarressi et.al.|[2407.06699](http://arxiv.org/abs/2407.06699)|null|
 |**2024-07-08**|**Hybrid X-Linker: Automated Data Generation and Extreme Multi-label Ranking for Biomedical Entity Linking**|Pedro Ruas et.al.|[2407.06292](http://arxiv.org/abs/2407.06292)|null|
@@ -3024,6 +3054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Mitigating Catastrophic Forgetting in Language Transfer via Model Merging**|Anton Alexandrov et.al.|[2407.08699](http://arxiv.org/abs/2407.08699)|null|
 |**2024-07-09**|**Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities**|Shaltiel Shmidman et.al.|[2407.07080](http://arxiv.org/abs/2407.07080)|null|
 |**2024-07-09**|**Spanish TrOCR: Leveraging Transfer Learning for Language Adaptation**|Filipe Lauar et.al.|[2407.06950](http://arxiv.org/abs/2407.06950)|null|
 |**2024-07-01**|**M2QA: Multi-domain Multilingual Question Answering**|Leon Engländer et.al.|[2407.01091](http://arxiv.org/abs/2407.01091)|**[link](https://github.com/ukplab/m2qa)**|
@@ -3069,6 +3100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**XAI-Guided Enhancement of Vegetation Indices for Crop Mapping**|Hiba Najjar et.al.|[2407.08298](http://arxiv.org/abs/2407.08298)|null|
 |**2024-07-10**|**CHILLI: A data context-aware perturbation method for XAI**|Saif Anwar et.al.|[2407.07521](http://arxiv.org/abs/2407.07521)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[2407.07009](http://arxiv.org/abs/2407.07009)|null|
 |**2024-07-10**|**TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification**|Md Abrar Jahin et.al.|[2407.06658](http://arxiv.org/abs/2407.06658)|null|
