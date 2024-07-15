@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -728,7 +728,7 @@ layout: default
 |**2024-07-08**|**LLM-Based Open-Domain Integrated Task and Knowledge Assistants with Programmable Policies**|Harshit Joshi et.al.|[2407.05674](http://arxiv.org/abs/2407.05674)|null|
 |**2024-07-06**|**ProACT: An Augmented Reality Testbed for Intelligent Prosthetic Arms**|Shivani Guptasarma et.al.|[2407.05025](http://arxiv.org/abs/2407.05025)|null|
 |**2024-07-04**|**Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models**|Yuyan Chen et.al.|[2407.04121](http://arxiv.org/abs/2407.04121)|null|
-|**2024-07-04**|**Stephanie: Step-by-Step Dialogues for Mimicking Human Interactions in Social Conversations**|Hao Yang et.al.|[2407.04093](http://arxiv.org/abs/2407.04093)|null|
+|**2024-07-12**|**Stephanie: Step-by-Step Dialogues for Mimicking Human Interactions in Social Conversations**|Hao Yang et.al.|[2407.04093](http://arxiv.org/abs/2407.04093)|null|
 |**2024-07-04**|**Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge**|Young-Jun Lee et.al.|[2407.03958](http://arxiv.org/abs/2407.03958)|null|
 |**2024-07-04**|**Planning with Large Language Models for Conversational Agents**|Zhigen Li et.al.|[2407.03884](http://arxiv.org/abs/2407.03884)|null|
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|**[link](https://github.com/MiuLab/VisualDialog)**|
@@ -1216,7 +1216,7 @@ layout: default
 |**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
 |**2024-07-11**|**From Real to Cloned Singer Identification**|Dorian Desblancs et.al.|[2407.08647](http://arxiv.org/abs/2407.08647)|null|
 |**2024-07-11**|**Multi-Group Proportional Representation**|Alex Oesterling et.al.|[2407.08571](http://arxiv.org/abs/2407.08571)|null|
-|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-12**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
 |**2024-07-11**|**Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning**|Zijian Zhao et.al.|[2407.08306](http://arxiv.org/abs/2407.08306)|**[link](https://github.com/RS2002/Adversarial-MidiBERT)**|
 |**2024-07-11**|**Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems**|Laura Caspari et.al.|[2407.08275](http://arxiv.org/abs/2407.08275)|**[link](https://github.com/casparil/embedding-model-similarity)**|
 |**2024-07-11**|**DALL-M: Context-Aware Clinical Data Augmentation with LLMs**|Chihcheng Hsieh et.al.|[2407.08227](http://arxiv.org/abs/2407.08227)|**[link](https://github.com/chihchenghsieh/dall-m)**|
@@ -3108,7 +3108,7 @@ layout: default
 |**2024-07-09**|**Do Multilingual Large Language Models Mitigate Stereotype Bias?**|Shangrui Nie et.al.|[2407.05740](http://arxiv.org/abs/2407.05740)|null|
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440](http://arxiv.org/abs/2407.05440)|null|
 |**2024-07-05**|**From 'Showgirls' to 'Performers': Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs**|Marion Bartl et.al.|[2407.04434](http://arxiv.org/abs/2407.04434)|null|
-|**2024-07-05**|**NeuFair: Neural Network Fairness Repair with Dropout**|Vishnu Asutosh Dasu et.al.|[2407.04268](http://arxiv.org/abs/2407.04268)|null|
+|**2024-07-12**|**NeuFair: Neural Network Fairness Repair with Dropout**|Vishnu Asutosh Dasu et.al.|[2407.04268](http://arxiv.org/abs/2407.04268)|null|
 |**2024-07-04**|**From Data to Commonsense Reasoning: The Use of Large Language Models for Explainable AI**|Stefanie Krause et.al.|[2407.03778](http://arxiv.org/abs/2407.03778)|null|
 |**2024-07-03**|**Explainable AI classification for parton density theory**|Brandon Kriesten et.al.|[2407.03411](http://arxiv.org/abs/2407.03411)|null|
 |**2024-07-03**|**FairJob: A Real-World Dataset for Fairness in Online Systems**|Mariia Vladimirova et.al.|[2407.03059](http://arxiv.org/abs/2407.03059)|null|
