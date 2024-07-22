@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -998,7 +998,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**Combining Constraint Programming Reasoning with Large Language Model Predictions**|Florian Régin et.al.|[2407.13490](http://arxiv.org/abs/2407.13490)|null|
-|**2024-07-16**|**Do LLMs have Consistent Values?**|Naama Rozen et.al.|[2407.12878](http://arxiv.org/abs/2407.12878)|null|
+|**2024-07-19**|**Do LLMs have Consistent Values?**|Naama Rozen et.al.|[2407.12878](http://arxiv.org/abs/2407.12878)|null|
 |**2024-07-16**|**Private prediction for large-scale synthetic text generation**|Kareem Amin et.al.|[2407.12108](http://arxiv.org/abs/2407.12108)|null|
 |**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919](http://arxiv.org/abs/2407.11919)|null|
 |**2024-07-16**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502](http://arxiv.org/abs/2407.11502)|**[link](https://github.com/huggingface/diffusers)**|
@@ -1279,7 +1279,7 @@ layout: default
 |**2024-07-18**|**CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications**|Mirza Masfiqur Rahman et.al.|[2407.13742](http://arxiv.org/abs/2407.13742)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
 |**2024-07-18**|**The Language of Infographics: Toward Understanding Conceptual Metaphor Use in Scientific Storytelling**|Hana Pokojná et.al.|[2407.13416](http://arxiv.org/abs/2407.13416)|**[link](https://github.com/lauragarrison87/metaphortool)**|
-|**2024-07-18**|**DCNv3: Towards Next Generation Deep Cross Network for CTR Prediction**|Honghao Li et.al.|[2407.13349](http://arxiv.org/abs/2407.13349)|**[link](https://github.com/salmon1802/DCNv3)**|
+|**2024-07-19**|**DCNv3: Towards Next Generation Deep Cross Network for CTR Prediction**|Honghao Li et.al.|[2407.13349](http://arxiv.org/abs/2407.13349)|**[link](https://github.com/salmon1802/DCNv3)**|
 |**2024-07-18**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284](http://arxiv.org/abs/2407.13284)|null|
 |**2024-07-18**|**Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information**|Yurou Zhao et.al.|[2407.13274](http://arxiv.org/abs/2407.13274)|null|
 |**2024-07-18**|**Compressed models are NOT miniature versions of large models**|Rohit Raj Rai et.al.|[2407.13174](http://arxiv.org/abs/2407.13174)|null|
@@ -2015,7 +2015,7 @@ layout: default
 |**2024-07-18**|**How to quantify an examination? Evidence from physics examinations via complex networks**|Min Xia et.al.|[2407.13161](http://arxiv.org/abs/2407.13161)|null|
 |**2024-07-18**|**HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning**|Qiuyu Zhu et.al.|[2407.13158](http://arxiv.org/abs/2407.13158)|null|
 |**2024-07-18**|**Krait: A Backdoor Attack Against Graph Prompt Tuning**|Ying Song et.al.|[2407.13068](http://arxiv.org/abs/2407.13068)|null|
-|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
+|**2024-07-19**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
 |**2024-07-17**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671](http://arxiv.org/abs/2407.12671)|**[link](https://github.com/manoskary/graphmuse)**|
 |**2024-07-17**|**Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial Vehicles Surveillance in Day and Night Dual Visions**|Alam Noor et.al.|[2407.12647](http://arxiv.org/abs/2407.12647)|null|
 |**2024-07-17**|**A Brief Review of Quantum Machine Learning for Financial Services**|Mina Doosti et.al.|[2407.12618](http://arxiv.org/abs/2407.12618)|null|
@@ -3209,7 +3209,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-14**|**Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification**|Tengfei Liu et.al.|[2407.10105](http://arxiv.org/abs/2407.10105)|null|
-|**2024-07-14**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086](http://arxiv.org/abs/2407.10086)|null|
+|**2024-07-19**|**Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine**|Omid Rohanian et.al.|[2407.10086](http://arxiv.org/abs/2407.10086)|null|
 |**2024-07-12**|**TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models**|Hang Zou et.al.|[2407.09424](http://arxiv.org/abs/2407.09424)|null|
 |**2024-07-10**|**New Gravitational Wave Discoveries Enabled by Machine Learning**|Alexandra E. Koloniari et.al.|[2407.07820](http://arxiv.org/abs/2407.07820)|null|
 |**2024-06-17**|**DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models**|Renqiu Xia et.al.|[2406.11633](http://arxiv.org/abs/2406.11633)|**[link](https://github.com/UniModal4Reasoning/DocGenome)**|
