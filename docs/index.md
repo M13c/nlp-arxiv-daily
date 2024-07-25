@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -38,6 +38,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo et.al.|[2407.16615](http://arxiv.org/abs/2407.16615)|null|
+|**2024-07-23**|**Multi-Industry Simplex 2.0 : Temporally-Evolving Probabilistic Industry Classification**|Maksim Papenkov et.al.|[2407.16437](http://arxiv.org/abs/2407.16437)|null|
+|**2024-07-23**|**Video Popularity in Social Media: Impact of Emotions, Raw Features and Viewer Comments**|Malika Ziyada et.al.|[2407.16272](http://arxiv.org/abs/2407.16272)|null|
+|**2024-07-23**|**Predicting Stock Prices with FinBERT-LSTM: Integrating News Sentiment Analysis**|Wenjun Gu et.al.|[2407.16150](http://arxiv.org/abs/2407.16150)|null|
+|**2024-07-22**|**AIDE: Antithetical, Intent-based, and Diverse Example-Based Explanations**|Ikhtiyor Nematov et.al.|[2407.16010](http://arxiv.org/abs/2407.16010)|null|
 |**2024-07-22**|**Extracting Structured Insights from Financial News: An Augmented LLM Driven Approach**|Rian Dolphin et.al.|[2407.15788](http://arxiv.org/abs/2407.15788)|null|
 |**2024-07-22**|**Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval**|Daeun Lee et.al.|[2407.15459](http://arxiv.org/abs/2407.15459)|null|
 |**2024-07-22**|**ZZU-NLP at SIGHAN-2024 dimABSA Task: Aspect-Based Sentiment Analysis with Coarse-to-Fine In-context Learning**|Senbin Zhu et.al.|[2407.15341](http://arxiv.org/abs/2407.15341)|null|
@@ -444,6 +449,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
+|**2024-07-23**|**How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval**|Fengran Mo et.al.|[2407.16192](http://arxiv.org/abs/2407.16192)|null|
+|**2024-07-23**|**UniMEL: A Unified Framework for Multimodal Entity Linking with Large Language Models**|Liu Qi et.al.|[2407.16160](http://arxiv.org/abs/2407.16160)|null|
 |**2024-07-22**|**MoRSE: Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation**|Marco Simoni et.al.|[2407.15748](http://arxiv.org/abs/2407.15748)|null|
 |**2024-07-22**|**An Empirical Study of Retrieval Augmented Generation with Chain-of-Thought**|Yuetong Zhao et.al.|[2407.15569](http://arxiv.org/abs/2407.15569)|null|
 |**2024-07-22**|**Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval**|Daeun Lee et.al.|[2407.15459](http://arxiv.org/abs/2407.15459)|null|
@@ -789,6 +797,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**q-deformed evolutionary dynamics in simple matrix games**|Christopher R. Kitching et.al.|[2407.16380](http://arxiv.org/abs/2407.16380)|null|
+|**2024-07-22**|**Future of Home-living: Designing Smart Spaces for Modern Domestic Life**|Fatemeh Alizadeh et.al.|[2407.15956](http://arxiv.org/abs/2407.15956)|null|
 |**2024-07-22**|**Empowering Agile-Based Generative Software Development through Human-AI Teamwork**|Sai Zhang et.al.|[2407.15568](http://arxiv.org/abs/2407.15568)|null|
 |**2024-07-22**|**Intelligence Preschool Education System based on Multimodal Interaction Systems and AI**|Long Xu et.al.|[2407.15326](http://arxiv.org/abs/2407.15326)|null|
 |**2024-07-21**|**SynCPKL: Harnessing LLMs to Generate Synthetic Data for Commonsense Persona Knowledge Linking**|Kuan-Yen Lin et.al.|[2407.15281](http://arxiv.org/abs/2407.15281)|**[link](https://github.com/irislin1006/cpkl)**|
@@ -1031,6 +1041,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**FairFlow: An Automated Approach to Model-based Counterfactual Data Augmentation For NLP**|Ewoenam Kwaku Tokpo et.al.|[2407.16431](http://arxiv.org/abs/2407.16431)|null|
+|**2024-07-23**|**Harmonizing Visual Text Comprehension and Generation**|Zhen Zhao et.al.|[2407.16364](http://arxiv.org/abs/2407.16364)|null|
+|**2024-07-23**|**Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks**|Yao-Shun Chuang et.al.|[2407.16166](http://arxiv.org/abs/2407.16166)|null|
+|**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127](http://arxiv.org/abs/2407.16127)|**[link](https://github.com/nju-websoft/dift)**|
 |**2024-07-22**|**StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation**|Nauman Riaz et.al.|[2407.15608](http://arxiv.org/abs/2407.15608)|null|
 |**2024-07-22**|**Improving Minimum Bayes Risk Decoding with Multi-Prompt**|David Heineman et.al.|[2407.15343](http://arxiv.org/abs/2407.15343)|null|
 |**2024-07-21**|**Token-Picker: Accelerating Attention in Text Generation with Minimized Memory Transfer via Probability Estimation**|Junyoung Park et.al.|[2407.15131](http://arxiv.org/abs/2407.15131)|null|
@@ -1322,6 +1336,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**GenRec: A Flexible Data Generator for Recommendations**|Erica Coppolillo et.al.|[2407.16594](http://arxiv.org/abs/2407.16594)|null|
+|**2024-07-24**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564](http://arxiv.org/abs/2407.16564)|**[link](https://github.com/fundwotsai2001/ap-adapter)**|
+|**2024-07-23**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357](http://arxiv.org/abs/2407.16357)|null|
+|**2024-07-23**|**How to Leverage Personal Textual Knowledge for Personalized Conversational Information Retrieval**|Fengran Mo et.al.|[2407.16192](http://arxiv.org/abs/2407.16192)|null|
 |**2024-07-22**|**NV-Retriever: Improving text embedding models with effective hard-negative mining**|Gabriel de Souza P. Moreira et.al.|[2407.15831](http://arxiv.org/abs/2407.15831)|null|
 |**2024-07-22**|**MoRSE: Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation**|Marco Simoni et.al.|[2407.15748](http://arxiv.org/abs/2407.15748)|null|
 |**2024-07-22**|**Generating Sample-Based Musical Instruments Using Neural Audio Codec Language Models**|Shahan Nercessian et.al.|[2407.15641](http://arxiv.org/abs/2407.15641)|null|
@@ -2020,13 +2038,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-22**|**All rivers run into the sea: Unified Modality Brain-like Emotional Central Mechanism**|Xinji Mai et.al.|[2407.15590](http://arxiv.org/abs/2407.15590)|null|
-|**2024-07-20**|**Overview of AI-Debater 2023: The Challenges of Argument Generation Tasks**|Jiayu Lin et.al.|[2407.14829](http://arxiv.org/abs/2407.14829)|null|
+|**2024-07-24**|**Overview of AI-Debater 2023: The Challenges of Argument Generation Tasks**|Jiayu Lin et.al.|[2407.14829](http://arxiv.org/abs/2407.14829)|null|
 |**2024-07-17**|**MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristics**|Cong Cai et.al.|[2407.12274](http://arxiv.org/abs/2407.12274)|null|
 |**2024-07-13**|**Emotion Detection through Body Gesture and Face**|Haoyang Liu et.al.|[2407.09913](http://arxiv.org/abs/2407.09913)|null|
 |**2024-07-12**|**The Magic XRoom: A Flexible VR Platform for Controlled Emotion Elicitation and Recognition**|S. M. Hossein Mousavi et.al.|[2407.09110](http://arxiv.org/abs/2407.09110)|null|
 |**2024-07-09**|**Identification of emotions on Twitter during the 2022 electoral process in Colombia**|Juan Jose Iguaran Fernandez et.al.|[2407.07258](http://arxiv.org/abs/2407.07258)|null|
 |**2024-07-08**|**MERGE -- A Bimodal Dataset for Static Music Emotion Recognition**|Pedro Lima Louro et.al.|[2407.06060](http://arxiv.org/abs/2407.06060)|null|
-|**2024-07-10**|**Computational Power of Mobile Robots in Synchronous Environment: Discrete Version**|Avisek Sharma et.al.|[2407.05678](http://arxiv.org/abs/2407.05678)|null|
+|**2024-07-24**|**Computational Power of Mobile Robots in Synchronous Environment: Discrete Version**|Avisek Sharma et.al.|[2407.05678](http://arxiv.org/abs/2407.05678)|null|
 |**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560](http://arxiv.org/abs/2407.04560)|null|
 |**2024-07-04**|**Generative Technology for Human Emotion Recognition: A Scope Review**|Fei Ma et.al.|[2407.03640](http://arxiv.org/abs/2407.03640)|null|
 |**2024-07-03**|**HEMM: Holistic Evaluation of Multimodal Foundation Models**|Paul Pu Liang et.al.|[2407.03418](http://arxiv.org/abs/2407.03418)|**[link](https://github.com/pliang279/hemm)**|
@@ -2077,6 +2095,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Dynamic Subgraph Matching via Cost-Model-based Vertex Dominance Embeddings (Technical Report)**|Yutong Ye et.al.|[2407.16660](http://arxiv.org/abs/2407.16660)|null|
+|**2024-07-23**|**Enhancing GNNs Performance on Combinatorial Optimization by Recurrent Feature Update**|Daria Pugacheva et.al.|[2407.16468](http://arxiv.org/abs/2407.16468)|null|
+|**2024-07-23**|**Ranking protein-protein models with large language models and graph neural networks**|Xiaotong Xu et.al.|[2407.16375](http://arxiv.org/abs/2407.16375)|**[link](https://github.com/haddocking/deeprank-gnn-esm)**|
+|**2024-07-23**|**On The Expressive Power of Knowledge Graph Embedding Methods**|Jiexing Gao et.al.|[2407.16326](http://arxiv.org/abs/2407.16326)|null|
+|**2024-07-23**|**Progressively Modality Freezing for Multi-Modal Entity Alignment**|Yani Huang et.al.|[2407.16168](http://arxiv.org/abs/2407.16168)|null|
+|**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127](http://arxiv.org/abs/2407.16127)|**[link](https://github.com/nju-websoft/dift)**|
+|**2024-07-23**|**Transformer-based Graph Neural Networks for Battery Range Prediction in AIoT Battery-Swap Services**|Zhao Li et.al.|[2407.16115](http://arxiv.org/abs/2407.16115)|null|
+|**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-22**|**Explaining Decisions in ML Models: a Parameterized Complexity Analysis**|Sebastian Ordyniak et.al.|[2407.15780](http://arxiv.org/abs/2407.15780)|null|
 |**2024-07-22**|**Link Polarity Prediction from Sparse and Noisy Labels via Multiscale Social Balance**|Marco Minici et.al.|[2407.15643](http://arxiv.org/abs/2407.15643)|null|
 |**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588](http://arxiv.org/abs/2407.15588)|**[link](https://github.com/eralign/eralign)**|
@@ -2814,12 +2840,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537](http://arxiv.org/abs/2407.16537)|null|
+|**2024-07-23**|**The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization**|Samuele Cornell et.al.|[2407.16447](http://arxiv.org/abs/2407.16447)|null|
+|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|null|
 |**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835](http://arxiv.org/abs/2407.15835)|null|
 |**2024-07-22**|**Robustness of Speech Separation Models for Similar-pitch Speakers**|Bunlong Lay et.al.|[2407.15749](http://arxiv.org/abs/2407.15749)|null|
 |**2024-07-22**|**SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios**|Hazim Bukhari et.al.|[2407.15300](http://arxiv.org/abs/2407.15300)|null|
 |**2024-07-21**|**Trading Devil Final: Backdoor attack via Stock market and Bayesian Optimization**|Orson Mengara et.al.|[2407.14573](http://arxiv.org/abs/2407.14573)|null|
 |**2024-07-19**|**GE2E-AC: Generalized End-to-End Loss Training for Accent Classification**|Chihiro Watanabe et.al.|[2407.14021](http://arxiv.org/abs/2407.14021)|null|
-|**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li et.al.|[2407.13982](http://arxiv.org/abs/2407.13982)|**[link](https://github.com/LinguisticAnomalies/confounding-ASR)**|
+|**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li et.al.|[2407.13982](http://arxiv.org/abs/2407.13982)|null|
 |**2024-07-18**|**Robust ASR Error Correction with Conservative Data Filtering**|Takuma Udagawa et.al.|[2407.13300](http://arxiv.org/abs/2407.13300)|null|
 |**2024-07-18**|**Low-Resourced Speech Recognition for Iu Mien Language via Weakly-Supervised Phoneme-based Multilingual Pre-training**|Lukuan Dong et.al.|[2407.13292](http://arxiv.org/abs/2407.13292)|null|
 |**2024-07-18**|**How Private is Low-Frequency Speech Audio in the Wild? An Analysis of Verbal Intelligibility by Humans and Machines**|Ailin Liu et.al.|[2407.13266](http://arxiv.org/abs/2407.13266)|null|
@@ -3111,6 +3140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**UniMEL: A Unified Framework for Multimodal Entity Linking with Large Language Models**|Liu Qi et.al.|[2407.16160](http://arxiv.org/abs/2407.16160)|null|
 |**2024-07-22**|**Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval**|Daeun Lee et.al.|[2407.15459](http://arxiv.org/abs/2407.15459)|null|
 |**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|null|
 |**2024-07-22**|**UF-HOBI at "Discharge Me!": A Hybrid Solution for Discharge Summary Generation Through Prompt-based Tuning of GatorTronGPT Models**|Mengxian Lyu et.al.|[2407.15359](http://arxiv.org/abs/2407.15359)|null|
@@ -3394,6 +3424,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**BONES: a Benchmark fOr Neural Estimation of Shapley values**|Davide Napolitano et.al.|[2407.16482](http://arxiv.org/abs/2407.16482)|**[link](https://github.com/davidenapolitano/bones)**|
+|**2024-07-22**|**AI for Handball: predicting and explaining the 2024 Olympic Games tournament with Deep Learning and Large Language Models**|Florian Felice et.al.|[2407.15987](http://arxiv.org/abs/2407.15987)|null|
+|**2024-07-22**|**A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting**|Pierre-Daniel Arsenault et.al.|[2407.15909](http://arxiv.org/abs/2407.15909)|null|
 |**2024-07-22**|**Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**|Siddharth D Jaiswal et.al.|[2407.15810](http://arxiv.org/abs/2407.15810)|null|
 |**2024-07-22**|**Explaining Decisions in ML Models: a Parameterized Complexity Analysis**|Sebastian Ordyniak et.al.|[2407.15780](http://arxiv.org/abs/2407.15780)|null|
 |**2024-07-22**|**Dissecting Multiplication in Transformers: Insights into LLMs**|Luyu Qiu et.al.|[2407.15360](http://arxiv.org/abs/2407.15360)|null|
