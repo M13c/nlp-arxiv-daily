@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -349,7 +349,7 @@ layout: default
 |**2024-07-18**|**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**|Pengcheng Huang et.al.|[2407.13164](http://arxiv.org/abs/2407.13164)|null|
 |**2024-07-18**|**AlcLaM: Arabic Dialectal Language Model**|Murtadha Ahmed et.al.|[2407.13097](http://arxiv.org/abs/2407.13097)|**[link](https://github.com/amurtadha/alclam)**|
 |**2024-07-16**|**MASIVE: Open-Ended Affective State Identification in English and Spanish**|Nicholas Deas et.al.|[2407.12196](http://arxiv.org/abs/2407.12196)|null|
-|**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126](http://arxiv.org/abs/2407.12126)|null|
+|**2024-07-26**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126](http://arxiv.org/abs/2407.12126)|null|
 |**2024-07-11**|**Rule-Based, Neural and LLM Back-Translation: Comparative Insights from a Variant of Ladin**|Samuel Frontull et.al.|[2407.08819](http://arxiv.org/abs/2407.08819)|null|
 |**2024-07-09**|**Remastering Divide and Remaster: A Cinematic Audio Source Separation Dataset with Multilingual Support**|Karn N. Watcharasupat et.al.|[2407.07275](http://arxiv.org/abs/2407.07275)|**[link](https://github.com/kwatcharasupat/source-separation-landing)**|
 |**2024-07-09**|**Segment-Based Interactive Machine Translation for Pre-trained Models**|Angel Navarro et.al.|[2407.06990](http://arxiv.org/abs/2407.06990)|null|
@@ -453,7 +453,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-25**|**Audio Entailment: Assessing Deductive Reasoning for Audio Understanding**|Soham Deshmukh et.al.|[2407.18062](http://arxiv.org/abs/2407.18062)|null|
+|**2024-07-25**|**Audio Entailment: Assessing Deductive Reasoning for Audio Understanding**|Soham Deshmukh et.al.|[2407.18062](http://arxiv.org/abs/2407.18062)|**[link](https://github.com/microsoft/audioentailment)**|
 |**2024-07-25**|**Are Large Language Models Possible to Conduct Cognitive Behavioral Therapy?**|Hao Shen et.al.|[2407.17730](http://arxiv.org/abs/2407.17730)|null|
 |**2024-07-24**|**A process algebraic framework for multi-agent dynamic epistemic systems**|Alessandro Aldini et.al.|[2407.17537](http://arxiv.org/abs/2407.17537)|null|
 |**2024-07-24**|**Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion**|Guanyuan Yu et.al.|[2407.17190](http://arxiv.org/abs/2407.17190)|null|
@@ -812,7 +812,7 @@ layout: default
 |**2024-07-22**|**Container Morphisms for Composable Interactive Systems**|André Videla et.al.|[2407.16713](http://arxiv.org/abs/2407.16713)|null|
 |**2024-07-23**|**q-deformed evolutionary dynamics in simple matrix games**|Christopher R. Kitching et.al.|[2407.16380](http://arxiv.org/abs/2407.16380)|null|
 |**2024-07-22**|**Future of Home-living: Designing Smart Spaces for Modern Domestic Life**|Fatemeh Alizadeh et.al.|[2407.15956](http://arxiv.org/abs/2407.15956)|null|
-|**2024-07-22**|**Empowering Agile-Based Generative Software Development through Human-AI Teamwork**|Sai Zhang et.al.|[2407.15568](http://arxiv.org/abs/2407.15568)|null|
+|**2024-07-22**|**Empowering Agile-Based Generative Software Development through Human-AI Teamwork**|Sai Zhang et.al.|[2407.15568](http://arxiv.org/abs/2407.15568)|**[link](https://github.com/HarrisClover/AgileGen)**|
 |**2024-07-22**|**Intelligence Preschool Education System based on Multimodal Interaction Systems and AI**|Long Xu et.al.|[2407.15326](http://arxiv.org/abs/2407.15326)|null|
 |**2024-07-21**|**SynCPKL: Harnessing LLMs to Generate Synthetic Data for Commonsense Persona Knowledge Linking**|Kuan-Yen Lin et.al.|[2407.15281](http://arxiv.org/abs/2407.15281)|**[link](https://github.com/irislin1006/cpkl)**|
 |**2024-07-21**|**Proposal for Composite Quantum Electromagnetically Induced Transparency Heat Engine Coupled by a Nanomechanical Mirror**|Rejjak Laskar et.al.|[2407.15099](http://arxiv.org/abs/2407.15099)|null|
@@ -1358,7 +1358,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-25**|**I can listen but cannot read: An evaluation of two-tower multimodal systems for instrument recognition**|Yannis Vasilakis et.al.|[2407.18058](http://arxiv.org/abs/2407.18058)|null|
+|**2024-07-25**|**I can listen but cannot read: An evaluation of two-tower multimodal systems for instrument recognition**|Yannis Vasilakis et.al.|[2407.18058](http://arxiv.org/abs/2407.18058)|**[link](https://github.com/YannisBilly/i_can_listen_but_cannot_read)**|
 |**2024-07-25**|**Sample Enrichment via Temporary Operations on Subsequences for Sequential Recommendation**|Shu Chen et.al.|[2407.17802](http://arxiv.org/abs/2407.17802)|null|
 |**2024-07-25**|**Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing**|Aobo Xu et.al.|[2407.17722](http://arxiv.org/abs/2407.17722)|**[link](https://github.com/mylove-xab/kddcupfinal)**|
 |**2024-07-24**|**BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning**|Partha Chakraborty et.al.|[2407.17631](http://arxiv.org/abs/2407.17631)|null|
@@ -2136,8 +2136,8 @@ layout: default
 |**2024-07-25**|**RIDA: A Robust Attack Framework on Incomplete Graphs**|Jianke Yu et.al.|[2407.18170](http://arxiv.org/abs/2407.18170)|null|
 |**2024-07-25**|**ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model**|Linpeng Jin et.al.|[2407.18033](http://arxiv.org/abs/2407.18033)|null|
 |**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980](http://arxiv.org/abs/2407.17980)|null|
-|**2024-07-25**|**RDFGraphGen: A Synthetic RDF Graph Generator based on SHACL Constraints**|Marija Vecovska et.al.|[2407.17941](http://arxiv.org/abs/2407.17941)|null|
-|**2024-07-25**|**Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network**|Sukwon Yun et.al.|[2407.17857](http://arxiv.org/abs/2407.17857)|null|
+|**2024-07-25**|**RDFGraphGen: A Synthetic RDF Graph Generator based on SHACL Constraints**|Marija Vecovska et.al.|[2407.17941](http://arxiv.org/abs/2407.17941)|**[link](https://github.com/mveco/rdfgraphgen)**|
+|**2024-07-25**|**Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network**|Sukwon Yun et.al.|[2407.17857](http://arxiv.org/abs/2407.17857)|**[link](https://github.com/unites-lab/mew)**|
 |**2024-07-25**|**Beyond Entity Alignment: Towards Complete Knowledge Graph Alignment via Entity-Relation Synergy**|Xiaohan Fang et.al.|[2407.17745](http://arxiv.org/abs/2407.17745)|null|
 |**2024-07-25**|**Your Graph Recommender is Provably a Single-view Graph Contrastive Learning**|Wenjie Yang et.al.|[2407.17723](http://arxiv.org/abs/2407.17723)|null|
 |**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|**[link](https://github.com/erg0dic/gnn-sg)**|
@@ -2896,7 +2896,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach et.al.|[2407.17997](http://arxiv.org/abs/2407.17997)|null|
 |**2024-07-25**|**Improving Domain-Specific ASR with LLM-Generated Contextual Descriptions**|Jiwon Suh et.al.|[2407.17874](http://arxiv.org/abs/2407.17874)|null|
-|**2024-07-25**|**Scaling A Simple Approach to Zero-Shot Speech Recognition**|Jinming Zhao et.al.|[2407.17852](http://arxiv.org/abs/2407.17852)|null|
+|**2024-07-25**|**Scaling A Simple Approach to Zero-Shot Speech Recognition**|Jinming Zhao et.al.|[2407.17852](http://arxiv.org/abs/2407.17852)|**[link](https://github.com/facebookresearch/fairseq)**|
 |**2024-07-24**|**Coupling Speech Encoders with Downstream Text Models**|Ciprian Chelba et.al.|[2407.17605](http://arxiv.org/abs/2407.17605)|null|
 |**2024-07-24**|**A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives**|Jan Lehečka et.al.|[2407.17160](http://arxiv.org/abs/2407.17160)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537](http://arxiv.org/abs/2407.16537)|null|
@@ -3492,7 +3492,7 @@ layout: default
 |**2024-07-23**|**BONES: a Benchmark fOr Neural Estimation of Shapley values**|Davide Napolitano et.al.|[2407.16482](http://arxiv.org/abs/2407.16482)|**[link](https://github.com/davidenapolitano/bones)**|
 |**2024-07-22**|**AI for Handball: predicting and explaining the 2024 Olympic Games tournament with Deep Learning and Large Language Models**|Florian Felice et.al.|[2407.15987](http://arxiv.org/abs/2407.15987)|null|
 |**2024-07-22**|**A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting**|Pierre-Daniel Arsenault et.al.|[2407.15909](http://arxiv.org/abs/2407.15909)|null|
-|**2024-07-22**|**Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**|Siddharth D Jaiswal et.al.|[2407.15810](http://arxiv.org/abs/2407.15810)|null|
+|**2024-07-26**|**Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**|Siddharth D Jaiswal et.al.|[2407.15810](http://arxiv.org/abs/2407.15810)|null|
 |**2024-07-22**|**Explaining Decisions in ML Models: a Parameterized Complexity Analysis**|Sebastian Ordyniak et.al.|[2407.15780](http://arxiv.org/abs/2407.15780)|null|
 |**2024-07-22**|**Dissecting Multiplication in Transformers: Insights into LLMs**|Luyu Qiu et.al.|[2407.15360](http://arxiv.org/abs/2407.15360)|null|
 |**2024-07-21**|**Explaining Decisions of Agents in Mixed-Motive Games**|Maayan Orner et.al.|[2407.15255](http://arxiv.org/abs/2407.15255)|null|
@@ -3710,7 +3710,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-24**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
+|**2024-07-26**|**Quality Assured: Rethinking Annotation Strategies in Imaging AI**|Tim Rädsch et.al.|[2407.17596](http://arxiv.org/abs/2407.17596)|null|
 |**2024-07-05**|**Challenges and Considerations in Annotating Legal Data: A Comprehensive Overview**|Harshil Darji et.al.|[2407.17503](http://arxiv.org/abs/2407.17503)|null|
 |**2024-07-22**|**ILiAD: An Interactive Corpus for Linguistic Annotated Data from Twitter Posts**|Simon Gonzalez et.al.|[2407.15374](http://arxiv.org/abs/2407.15374)|null|
 |**2024-07-16**|**Predicting Emotion Intensity in Polish Political Texts: Comparing Supervised Models and Large Language Models in a Resource-Poor Language**|Hubert Plisiecki et.al.|[2407.12141](http://arxiv.org/abs/2407.12141)|**[link](https://github.com/hplisiecki/Predicting-Emotion-Intensity-in-Polish-Political-Texts)**|
