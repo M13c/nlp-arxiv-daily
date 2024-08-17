@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Extracting Sentence Embeddings from Pretrained Transformer Models**|Lukas Stankevičius et.al.|[2408.08073](http://arxiv.org/abs/2408.08073)|null|
 |**2024-08-12**|**ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers**|Aristi Papastavrou et.al.|[2408.06040](http://arxiv.org/abs/2408.06040)|null|
 |**2024-08-14**|**\textit{re}CSE: Portable Reshaping Features for Sentence Embedding in Self-supervised Contrastive Learning**|Fufangchen Zhao et.al.|[2408.04975](http://arxiv.org/abs/2408.04975)|null|
 |**2024-08-06**|**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model**|Pegah Ramezani et.al.|[2408.03062](http://arxiv.org/abs/2408.03062)|null|
@@ -44,6 +45,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**GERestaurant: A German Dataset of Annotated Restaurant Reviews for Aspect-Based Sentiment Analysis**|Nils Constantin Hellwig et.al.|[2408.07955](http://arxiv.org/abs/2408.07955)|null|
+|**2024-08-15**|**A Deep Features-Based Approach Using Modified ResNet50 and Gradient Boosting for Visual Sentiments Classification**|Muhammad Arslan et.al.|[2408.07922](http://arxiv.org/abs/2408.07922)|null|
+|**2024-08-15**|**Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis**|Bingyu Li et.al.|[2408.07891](http://arxiv.org/abs/2408.07891)|**[link](https://github.com/libingyu01/qitsa-quantum-inspired-interpretable-deep-learning-architecture-for-text-sentiment-analysis)**|
 |**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465](http://arxiv.org/abs/2408.07465)|null|
 |**2024-08-13**|**Generative AI for automatic topic labelling**|Diego Kozlowski et.al.|[2408.07003](http://arxiv.org/abs/2408.07003)|null|
 |**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
@@ -518,6 +522,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents**|Guhong Chen et.al.|[2408.08089](http://arxiv.org/abs/2408.08089)|null|
+|**2024-08-15**|**IIU: Independent Inference Units for Knowledge-based Visual Question Answering**|Yili Li et.al.|[2408.07989](http://arxiv.org/abs/2408.07989)|**[link](https://github.com/lilidamowang/iiu)**|
+|**2024-08-14**|**Knowledge-based Neural Ordinary Differential Equations for Cosserat Rod-based Soft Robots**|Tom Z. Jiahao et.al.|[2408.07776](http://arxiv.org/abs/2408.07776)|**[link](https://github.com/TomJZ/KNODE-Cosserat)**|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422](http://arxiv.org/abs/2408.07422)|null|
 |**2024-08-13**|**Can Large Language Models Reason? A Characterization via 3-SAT**|Rishi Hazra et.al.|[2408.07215](http://arxiv.org/abs/2408.07215)|null|
 |**2024-08-13**|**DracoGPT: Extracting Visualization Design Preferences from Large Language Models**|Huichen Will Wang et.al.|[2408.06845](http://arxiv.org/abs/2408.06845)|null|
@@ -923,7 +930,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|null|
+|**2024-08-15**|**Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera**|Hiroki Tanioka et.al.|[2408.07982](http://arxiv.org/abs/2408.07982)|null|
+|**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|**[link](https://github.com/sarulab-speech/saslaw)**|
 |**2024-08-12**|**Robust chaos in a totally symmetric network of four phase oscillators**|Efrosiniia Karatetskaia et.al.|[2408.06435](http://arxiv.org/abs/2408.06435)|null|
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285](http://arxiv.org/abs/2408.06285)|null|
 |**2024-08-12**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256](http://arxiv.org/abs/2408.06256)|null|
@@ -1541,6 +1549,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System**|Xihong Yang et.al.|[2408.08231](http://arxiv.org/abs/2408.08231)|null|
+|**2024-08-15**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**|Changshuo Zhang et.al.|[2408.08209](http://arxiv.org/abs/2408.08209)|null|
+|**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
+|**2024-08-15**|**From Clicks to Carbon: The Environmental Toll of Recommender Systems**|Tobias Vente et.al.|[2408.08203](http://arxiv.org/abs/2408.08203)|null|
+|**2024-08-15**|**KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment**|Zongzong Wu et.al.|[2408.08088](http://arxiv.org/abs/2408.08088)|null|
+|**2024-08-15**|**Extracting Sentence Embeddings from Pretrained Transformer Models**|Lukas Stankevičius et.al.|[2408.08073](http://arxiv.org/abs/2408.08073)|null|
+|**2024-08-15**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[2408.08066](http://arxiv.org/abs/2408.08066)|null|
+|**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
+|**2024-08-15**|**AIE: Auction Information Enhanced Framework for CTR Prediction in Online Advertising**|Yang Yang et.al.|[2408.07907](http://arxiv.org/abs/2408.07907)|null|
+|**2024-08-15**|**The Nah Bandit: Modeling User Non-compliance in Recommendation Systems**|Tianyue Zhou et.al.|[2408.07897](http://arxiv.org/abs/2408.07897)|null|
 |**2024-08-14**|**Exact Trajectory Similarity Search With N-tree: An Efficient Metric Index for kNN and Range Queries**|Ralf Hartmut Güting et.al.|[2408.07650](http://arxiv.org/abs/2408.07650)|null|
 |**2024-08-14**|**Towards Fair and Rigorous Evaluations: Hyperparameter Optimization for Top-N Recommendation Task with Implicit Feedback**|Hui Fang et.al.|[2408.07630](http://arxiv.org/abs/2408.07630)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611](http://arxiv.org/abs/2408.07611)|null|
@@ -2455,6 +2473,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Conformalized Answer Set Prediction for Knowledge Graph Embedding**|Yuqicheng Zhu et.al.|[2408.08248](http://arxiv.org/abs/2408.08248)|null|
+|**2024-08-15**|**Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction**|Yuqicheng Zhu et.al.|[2408.08226](http://arxiv.org/abs/2408.08226)|null|
+|**2024-08-15**|**Winning Snake: Design Choices in Multi-Shot ASP**|Elisa Böhl et.al.|[2408.08150](http://arxiv.org/abs/2408.08150)|null|
+|**2024-08-15**|**KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment**|Zongzong Wu et.al.|[2408.08088](http://arxiv.org/abs/2408.08088)|null|
+|**2024-08-15**|**CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Improving Temporal Knowledge Graph Extrapolation Reasoning**|Jinze Sun et.al.|[2408.07911](http://arxiv.org/abs/2408.07911)|null|
+|**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852](http://arxiv.org/abs/2408.07852)|null|
+|**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840](http://arxiv.org/abs/2408.07840)|null|
+|**2024-08-14**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726](http://arxiv.org/abs/2408.07726)|**[link](https://github.com/nikita6187/transportplanningdataset)**|
 |**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661](http://arxiv.org/abs/2408.07661)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611](http://arxiv.org/abs/2408.07611)|null|
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|null|
@@ -3351,6 +3377,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
+|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
 |**2024-08-12**|**Audio Enhancement for Computer Audition -- An Iterative Training Paradigm Using Sample Importance**|Manuel Milling et.al.|[2408.06264](http://arxiv.org/abs/2408.06264)|null|
@@ -3358,7 +3386,7 @@ layout: default
 |**2024-08-11**|**LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition**|Eunseop Yoon et.al.|[2408.05769](http://arxiv.org/abs/2408.05769)|null|
 |**2024-08-11**|**VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for Speech Processing**|Chunyu Qiang et.al.|[2408.05758](http://arxiv.org/abs/2408.05758)|null|
 |**2024-08-10**|**Improving Whisper's Recognition Performance for Under-Represented Language Kazakh Leveraging Unpaired Speech and Text**|Jinpeng Li et.al.|[2408.05554](http://arxiv.org/abs/2408.05554)|null|
-|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu et.al.|[2408.05101](http://arxiv.org/abs/2408.05101)|null|
+|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu et.al.|[2408.05101](http://arxiv.org/abs/2408.05101)|**[link](https://github.com/moorethreads/mooer)**|
 |**2024-08-08**|**HydraFormer: One Encoder For All Subsampling Rates**|Yaoxun Xu et.al.|[2408.04325](http://arxiv.org/abs/2408.04325)|**[link](https://github.com/hydraformer/hydraformer)**|
 |**2024-08-08**|**Preserving spoken content in voice anonymisation with character-level vocoder conditioning**|Michele Panariello et.al.|[2408.04306](http://arxiv.org/abs/2408.04306)|null|
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174](http://arxiv.org/abs/2408.04174)|**[link](https://github.com/leduckhai/wav2graph)**|
@@ -4004,6 +4032,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**The Clever Hans Effect in Unsupervised Learning**|Jacob Kauffmann et.al.|[2408.08041](http://arxiv.org/abs/2408.08041)|null|
 |**2024-08-13**|**Play Me Something Icy: Practical Challenges, Explainability and the Semantic Gap in Generative AI Music**|Jesse Allison et.al.|[2408.07224](http://arxiv.org/abs/2408.07224)|null|
 |**2024-08-14**|**Advancing Interactive Explainable AI via Belief Change Theory**|Antonio Rago et.al.|[2408.06875](http://arxiv.org/abs/2408.06875)|null|
 |**2024-08-13**|**Misfitting With AI: How Blind People Verify and Contest AI Errors**|Rahaf Alharbi et.al.|[2408.06546](http://arxiv.org/abs/2408.06546)|null|
@@ -4263,6 +4292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**RED-CT: A Systems Design Methodology for Using LLM-labeled Data to Train and Deploy Edge Classifiers for Computational Social Science**|David Farr et.al.|[2408.08217](http://arxiv.org/abs/2408.08217)|null|
+|**2024-08-15**|**KGV: Integrating Large Language Models with Knowledge Graphs for Cyber Threat Intelligence Credibility Assessment**|Zongzong Wu et.al.|[2408.08088](http://arxiv.org/abs/2408.08088)|null|
 |**2024-08-09**|**Weak-Annotation of HAR Datasets using Vision Foundation Models**|Marius Bock et.al.|[2408.05169](http://arxiv.org/abs/2408.05169)|**[link](https://github.com/mariusbock/weak_har)**|
 |**2024-07-31**|**GPT-3 Powered Information Extraction for Building Robust Knowledge Bases**|Ritabrata Roy Choudhury et.al.|[2408.04641](http://arxiv.org/abs/2408.04641)|null|
 |**2024-08-08**|**LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP**|Danlu Chen et.al.|[2408.04628](http://arxiv.org/abs/2408.04628)|null|
