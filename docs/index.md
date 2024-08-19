@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -934,7 +934,7 @@ layout: default
 |**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|**[link](https://github.com/sarulab-speech/saslaw)**|
 |**2024-08-12**|**Robust chaos in a totally symmetric network of four phase oscillators**|Efrosiniia Karatetskaia et.al.|[2408.06435](http://arxiv.org/abs/2408.06435)|null|
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285](http://arxiv.org/abs/2408.06285)|null|
-|**2024-08-12**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256](http://arxiv.org/abs/2408.06256)|null|
+|**2024-08-16**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256](http://arxiv.org/abs/2408.06256)|null|
 |**2024-08-12**|**ARCADE: An Augmented Reality Display Environment for Multimodal Interaction with Conversational Agents**|Carolin Schindler et.al.|[2408.06222](http://arxiv.org/abs/2408.06222)|null|
 |**2024-08-12**|**DiagESC: Dialogue Synthesis for Integrating Depression Diagnosis into Emotional Support Conversation**|Seungyeon Seo et.al.|[2408.06044](http://arxiv.org/abs/2408.06044)|null|
 |**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee et.al.|[2408.06043](http://arxiv.org/abs/2408.06043)|null|
