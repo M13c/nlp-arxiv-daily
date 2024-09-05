@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -49,7 +49,7 @@ layout: default
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437](http://arxiv.org/abs/2408.17437)|**[link](https://github.com/loreley99/syntheval_checklist)**|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
 |**2024-08-30**|**Improving Extraction of Clinical Event Contextual Properties from Electronic Health Records: A Comparative Study**|Shubham Agarwal et.al.|[2408.17181](http://arxiv.org/abs/2408.17181)|null|
-|**2024-08-30**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024](http://arxiv.org/abs/2408.17024)|null|
+|**2024-09-03**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024](http://arxiv.org/abs/2408.17024)|null|
 |**2024-08-29**|**A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models**|Chen Wang et.al.|[2408.16942](http://arxiv.org/abs/2408.16942)|null|
 |**2024-08-28**|**Meta-Learn Unimodal Signals with Weak Supervision for Multimodal Sentiment Analysis**|Sijie Mai et.al.|[2408.16029](http://arxiv.org/abs/2408.16029)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
@@ -441,7 +441,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-29**|**Instruction-tuned Large Language Models for Machine Translation in the Medical Domain**|Miguel Rios et.al.|[2408.16440](http://arxiv.org/abs/2408.16440)|null|
-|**2024-08-27**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
+|**2024-09-02**|**Pitfalls and Outlooks in Using COMET**|Vilém Zouhar et.al.|[2408.15366](http://arxiv.org/abs/2408.15366)|**[link](https://github.com/PinzhenChen/sacreCOMET)**|
 |**2024-08-28**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
 |**2024-08-25**|**Bidirectional Awareness Induction in Autoregressive Seq2Seq Models**|Jia Cheng Hu et.al.|[2408.13959](http://arxiv.org/abs/2408.13959)|null|
 |**2024-08-24**|**Integrating Multi-Head Convolutional Encoders with Cross-Attention for Improved SPARQL Query Translation**|Yi-Hui Chen et.al.|[2408.13432](http://arxiv.org/abs/2408.13432)|null|
@@ -576,7 +576,7 @@ layout: default
 |**2024-08-29**|**Plausible-Parrots @ MSP2023: Enhancing Semantic Plausibility Modeling using Entity and Event Knowledge**|Chong Shen et.al.|[2408.16937](http://arxiv.org/abs/2408.16937)|**[link](https://github.com/st143575/SemPlaus-plausibleparrots)**|
 |**2024-08-29**|**Learning from Negative Samples in Generative Biomedical Entity Linking**|Chanhwi Kim et.al.|[2408.16493](http://arxiv.org/abs/2408.16493)|**[link](https://github.com/dmis-lab/angel)**|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
-|**2024-08-28**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|null|
+|**2024-09-04**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|null|
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|null|
 |**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232](http://arxiv.org/abs/2408.15232)|null|
 |**2024-08-27**|**Project SHADOW: Symbolic Higher-order Associative Deductive reasoning On Wikidata using LM probing**|Hanna Abi Akl et.al.|[2408.14849](http://arxiv.org/abs/2408.14849)|**[link](https://github.com/hannaabiakl/shadow)**|
@@ -1021,7 +1021,7 @@ layout: default
 |**2024-08-29**|**A Bibliometric Analysis of Trust in Conversational Agents over the Past Fifteen Years**|Meltem Aksoy et.al.|[2408.16837](http://arxiv.org/abs/2408.16837)|null|
 |**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**Deep extragalactic HI survey of the COSMOS field with FAST**|Hengxing Pan et.al.|[2408.16597](http://arxiv.org/abs/2408.16597)|null|
-|**2024-08-29**|**Enhancing Dialogue Generation in Werewolf Game Through Situation Analysis and Persuasion Strategies**|Zhiyang Qi et.al.|[2408.16586](http://arxiv.org/abs/2408.16586)|null|
+|**2024-09-04**|**Enhancing Dialogue Generation in Werewolf Game Through Situation Analysis and Persuasion Strategies**|Zhiyang Qi et.al.|[2408.16586](http://arxiv.org/abs/2408.16586)|null|
 |**2024-08-28**|**FlowAct: A Proactive Multimodal Human-robot Interaction System with Continuous Flow of Perception and Modular Action Sub-systems**|Timothée Dhaussy et.al.|[2408.15864](http://arxiv.org/abs/2408.15864)|null|
 |**2024-08-26**|**Interactive decision support system for lung cancer segmentation**|Volodymyr Sydorskyi et.al.|[2408.14521](http://arxiv.org/abs/2408.14521)|null|
 |**2024-08-26**|**Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation**|Yuxuan Li et.al.|[2408.13977](http://arxiv.org/abs/2408.13977)|null|
@@ -1681,7 +1681,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-30**|**rerankers: A Lightweight Python Library to Unify Ranking Methods**|Benjamin Clavié et.al.|[2408.17344](http://arxiv.org/abs/2408.17344)|**[link](https://github.com/answerdotai/rerankers)**|
+|**2024-09-03**|**rerankers: A Lightweight Python Library to Unify Ranking Methods**|Benjamin Clavié et.al.|[2408.17344](http://arxiv.org/abs/2408.17344)|**[link](https://github.com/answerdotai/rerankers)**|
 |**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|**[link](https://github.com/ECNU-Text-Computing/LDRI)**|
 |**2024-08-30**|**Metadata practices for simulation workflows**|Jose Villamar et.al.|[2408.17309](http://arxiv.org/abs/2408.17309)|null|
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
@@ -2717,7 +2717,7 @@ layout: default
 |**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252](http://arxiv.org/abs/2408.17252)|null|
 |**2024-08-30**|**Search for $t\bar{t}H/A \rightarrow t\bar{t}t\bar{t}$ production in proton-proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2408.17164](http://arxiv.org/abs/2408.17164)|null|
 |**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133](http://arxiv.org/abs/2408.17133)|null|
-|**2024-08-30**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129](http://arxiv.org/abs/2408.17129)|**[link](https://github.com/ahaubioinformatics/cetexplainer)**|
+|**2024-09-03**|**Controllable Edge-Type-Specific Interpretation in Multi-Relational Graph Neural Networks for Drug Response Prediction**|Xiaodi Li et.al.|[2408.17129](http://arxiv.org/abs/2408.17129)|**[link](https://github.com/ahaubioinformatics/cetexplainer)**|
 |**2024-08-29**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**|Yufeng Zhou et.al.|[2408.16719](http://arxiv.org/abs/2408.16719)|null|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
 |**2024-08-29**|**SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification**|Alan John Varghese et.al.|[2408.16698](http://arxiv.org/abs/2408.16698)|null|
@@ -4089,7 +4089,7 @@ layout: default
 |**2024-08-29**|**Event Extraction for Portuguese: A QA-driven Approach using ACE-2005**|Luís Filipe Cunha et.al.|[2408.16932](http://arxiv.org/abs/2408.16932)|null|
 |**2024-08-29**|**ACE-2005-PT: Corpus for Event Extraction in Portuguese**|Luís Filipe Cunha et.al.|[2408.16928](http://arxiv.org/abs/2408.16928)|null|
 |**2024-08-29**|**Learning from Negative Samples in Generative Biomedical Entity Linking**|Chanhwi Kim et.al.|[2408.16493](http://arxiv.org/abs/2408.16493)|**[link](https://github.com/dmis-lab/angel)**|
-|**2024-08-28**|**Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models**|Hédi Zhegidi et.al.|[2408.15796](http://arxiv.org/abs/2408.15796)|**[link](https://github.com/geode-project/ner-llm)**|
+|**2024-09-04**|**Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models**|Hédi Zeghidi et.al.|[2408.15796](http://arxiv.org/abs/2408.15796)|**[link](https://github.com/geode-project/ner-llm)**|
 |**2024-08-25**|**LLM with Relation Classifier for Document-Level Relation Extraction**|Xingzuo Li et.al.|[2408.13889](http://arxiv.org/abs/2408.13889)|null|
 |**2024-08-24**|**Utilizing Large Language Models for Named Entity Recognition in Traditional Chinese Medicine against COVID-19 Literature: Comparative Study**|Xu Tong et.al.|[2408.13501](http://arxiv.org/abs/2408.13501)|null|
 |**2024-08-23**|**CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition**|Yafeng Zhang et.al.|[2408.12834](http://arxiv.org/abs/2408.12834)|null|
@@ -4426,7 +4426,7 @@ layout: default
 |**2024-08-29**|**FineFACE: Fair Facial Attribute Classification Leveraging Fine-grained Features**|Ayesha Manzoor et.al.|[2408.16881](http://arxiv.org/abs/2408.16881)|**[link](https://github.com/vcbsl-fairness/fineface)**|
 |**2024-08-28**|**Using Backbone Foundation Model for Evaluating Fairness in Chest Radiography Without Demographic Data**|Dilermando Queiroz et.al.|[2408.16130](http://arxiv.org/abs/2408.16130)|null|
 |**2024-08-27**|**Ensuring Equitable Financial Decisions: Leveraging Counterfactual Fairness and Deep Learning for Bias**|Saish Shinde et.al.|[2408.16088](http://arxiv.org/abs/2408.16088)|null|
-|**2024-08-28**|**Trustworthy and Responsible AI for Human-Centric Autonomous Decision-Making Systems**|Farzaneh Dehghani et.al.|[2408.15550](http://arxiv.org/abs/2408.15550)|null|
+|**2024-09-02**|**Trustworthy and Responsible AI for Human-Centric Autonomous Decision-Making Systems**|Farzaneh Dehghani et.al.|[2408.15550](http://arxiv.org/abs/2408.15550)|null|
 |**2024-08-27**|**Examining the Interplay Between Privacy and Fairness for Speech Processing: A Review and Perspective**|Anna Leschanowsky et.al.|[2408.15391](http://arxiv.org/abs/2408.15391)|null|
 |**2024-08-27**|**Using LLMs for Explaining Sets of Counterfactual Examples to Final Users**|Arturo Fredes et.al.|[2408.15133](http://arxiv.org/abs/2408.15133)|**[link](https://github.com/arturofredes/llm-4-cfs-explanation)**|
 |**2024-08-27**|**Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis**|Francesco Sovrano et.al.|[2408.15121](http://arxiv.org/abs/2408.15121)|null|
