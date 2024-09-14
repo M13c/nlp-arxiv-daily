@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.13
+## Updated on 2024.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -464,6 +464,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Cross-Attention Based Influence Model for Manual and Nonmanual Sign Language Analysis**|Lipisha Chaudhary et.al.|[2409.08162](http://arxiv.org/abs/2409.08162)|null|
 |**2024-09-08**|**Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation**|Zhe Cao et.al.|[2409.05224](http://arxiv.org/abs/2409.05224)|**[link](https://github.com/spike0924/lslo)**|
 |**2024-09-08**|**Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation**|Yanni Xue et.al.|[2409.05021](http://arxiv.org/abs/2409.05021)|**[link](https://github.com/levelower/vfa)**|
 |**2024-09-05**|**N-gram Prediction and Word Difference Representations for Language Modeling**|DongNyeong Heo et.al.|[2409.03295](http://arxiv.org/abs/2409.03295)|null|
@@ -602,6 +603,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**AudioBERT: Audio Knowledge Augmented Language Model**|Hyunjong Ok et.al.|[2409.08199](http://arxiv.org/abs/2409.08199)|**[link](https://github.com/hj-ok/audiobert)**|
 |**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
 |**2024-09-11**|**ZKFault: Fault attack analysis on zero-knowledge based post-quantum digital signature schemes**|Puja Mondal et.al.|[2409.07150](http://arxiv.org/abs/2409.07150)|null|
 |**2024-09-10**|**GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering**|Sacha Muller et.al.|[2409.06595](http://arxiv.org/abs/2409.06595)|**[link](https://github.com/illuin-tech/grouse)**|
@@ -1069,6 +1071,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Non-universality of aging during phase separation of the two-dimensional long-range Ising model**|Fabio Müller et.al.|[2409.08050](http://arxiv.org/abs/2409.08050)|null|
+|**2024-09-11**|**Charge Susceptibility and Kubo Response in Hatsugai-Kohmoto-related Models**|Yuhao Ma et.al.|[2409.07522](http://arxiv.org/abs/2409.07522)|null|
 |**2024-09-11**|**Identify Design Problems Through Questioning: Exploring Role-playing Interactions with Large Language Models to Foster Design Questioning Skills**|Hyunseung Lim et.al.|[2409.07178](http://arxiv.org/abs/2409.07178)|null|
 |**2024-09-10**|**Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking**|Jihyun Lee et.al.|[2409.06263](http://arxiv.org/abs/2409.06263)|null|
 |**2024-09-10**|**VBIT: Towards Enhancing Privacy Control Over IoT Devices**|Jad Al Aaraj et.al.|[2409.06233](http://arxiv.org/abs/2409.06233)|null|
@@ -1386,6 +1390,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
+|**2024-09-11**|**Zero-Shot Machine-Generated Text Detection Using Mixture of Large Language Models**|Matthieu Dubois et.al.|[2409.07615](http://arxiv.org/abs/2409.07615)|null|
 |**2024-09-11**|**Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**|Daehee Kim et.al.|[2409.07088](http://arxiv.org/abs/2409.07088)|**[link](https://github.com/daehuikim/WikiOFGraph)**|
 |**2024-09-09**|**DiffusionPen: Towards Controlling the Style of Handwritten Text Generation**|Konstantina Nikolaidou et.al.|[2409.06065](http://arxiv.org/abs/2409.06065)|**[link](https://github.com/koninik/diffusionpen)**|
 |**2024-09-09**|**LLMs Will Always Hallucinate, and We Need to Live With This**|Sourav Banerjee et.al.|[2409.05746](http://arxiv.org/abs/2409.05746)|null|
@@ -1763,6 +1769,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**On the challenges of studying bias in Recommender Systems: A UserKNN case study**|Savvina Daniil et.al.|[2409.08046](http://arxiv.org/abs/2409.08046)|null|
+|**2024-09-12**|**An Evaluation Framework for Attributed Information Retrieval using Large Language Models**|Hanane Djeddal et.al.|[2409.08014](http://arxiv.org/abs/2409.08014)|**[link](https://github.com/hanane-djeddal/attributed-ir)**|
+|**2024-09-12**|**Collaborative Automatic Modulation Classification via Deep Edge Inference for Hierarchical Cognitive Radio Networks**|Chaowei He et.al.|[2409.07946](http://arxiv.org/abs/2409.07946)|null|
+|**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850](http://arxiv.org/abs/2409.07850)|null|
+|**2024-09-12**|**PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System**|Chaoqun Yang et.al.|[2409.07773](http://arxiv.org/abs/2409.07773)|null|
+|**2024-09-12**|**Music auto-tagging in the long tail: A few-shot approach**|T. Aleksandra Ma et.al.|[2409.07730](http://arxiv.org/abs/2409.07730)|null|
+|**2024-09-12**|**Harnessing TI Feeds for Exploitation Detection**|Kajal Patel et.al.|[2409.07709](http://arxiv.org/abs/2409.07709)|null|
+|**2024-09-12**|**Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG**|Gabriel de Souza P. Moreira et.al.|[2409.07691](http://arxiv.org/abs/2409.07691)|null|
+|**2024-09-11**|**Leveraging User-Generated Reviews for Recommender Systems with Dynamic Headers**|Shanu Vashishtha et.al.|[2409.07627](http://arxiv.org/abs/2409.07627)|null|
+|**2024-09-11**|**Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages**|Makbule Gulcin Ozsoy et.al.|[2409.07604](http://arxiv.org/abs/2409.07604)|null|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
 |**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
 |**2024-09-11**|**Enhancing Sequential Music Recommendation with Negative Feedback-informed Contrastive Learning**|Pavan Seshadri et.al.|[2409.07367](http://arxiv.org/abs/2409.07367)|null|
@@ -2757,6 +2773,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Bridging Discrete and Continuous: A Multimodal Strategy for Complex Emotion Detection**|Jiehui Jia et.al.|[2409.07901](http://arxiv.org/abs/2409.07901)|null|
+|**2024-09-09**|**Complex Emotion Recognition System using basic emotions via Facial Expression, EEG, and ECG Signals: a review**|Javad Hassannataj Joloudari et.al.|[2409.07493](http://arxiv.org/abs/2409.07493)|null|
 |**2024-09-11**|**Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**|Guimin Hu et.al.|[2409.07388](http://arxiv.org/abs/2409.07388)|**[link](https://github.com/lemei/affective-computing)**|
 |**2024-09-11**|**MRAC Track 1: 2nd Workshop on Multimodal, Generative and Responsible Affective Computing**|Shreya Ghosh et.al.|[2409.07256](http://arxiv.org/abs/2409.07256)|null|
 |**2024-08-27**|**From Bias to Balance: Detecting Facial Expression Recognition Biases in Large Multimodal Foundation Models**|Kaylee Chhua et.al.|[2408.14842](http://arxiv.org/abs/2408.14842)|null|
@@ -2834,6 +2852,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
+|**2024-09-12**|**CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217](http://arxiv.org/abs/2409.08217)|null|
+|**2024-09-12**|**Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**|Boxiang Rong et.al.|[2409.08189](http://arxiv.org/abs/2409.08189)|null|
+|**2024-09-12**|**Hierarchical Symbolic Pop Music Generation with Graph Neural Networks**|Wen Qing Lim et.al.|[2409.08155](http://arxiv.org/abs/2409.08155)|null|
+|**2024-09-12**|**Heterogeneous Sheaf Neural Networks**|Luke Braithwaite et.al.|[2409.08036](http://arxiv.org/abs/2409.08036)|null|
+|**2024-09-12**|**Edge-Wise Graph-Instructed Neural Networks**|Francesco Della Santa et.al.|[2409.08023](http://arxiv.org/abs/2409.08023)|null|
+|**2024-09-12**|**Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials**|Jaesun Kim et.al.|[2409.07947](http://arxiv.org/abs/2409.07947)|null|
+|**2024-09-12**|**Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks**|Zhifeng Hu et.al.|[2409.07911](http://arxiv.org/abs/2409.07911)|null|
+|**2024-09-12**|**Graph Neural Networks for Parkinsons Disease Detection**|Shakeel A. Sheikh et.al.|[2409.07884](http://arxiv.org/abs/2409.07884)|null|
+|**2024-09-12**|**Learning Rules from KGs Guided by Language Models**|Zihang Peng et.al.|[2409.07869](http://arxiv.org/abs/2409.07869)|**[link](https://github.com/pzh97/learning-rules-from-kgs-guided-by-language-models)**|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
 |**2024-09-11**|**Descriptors-free Collective Variables From Geometric Graph Neural Networks**|Jintu Zhang et.al.|[2409.07339](http://arxiv.org/abs/2409.07339)|null|
@@ -3872,6 +3900,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Faster Speech-LLaMA Inference with Multi-token Prediction**|Desh Raj et.al.|[2409.08148](http://arxiv.org/abs/2409.08148)|null|
+|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
+|**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong et.al.|[2409.08103](http://arxiv.org/abs/2409.08103)|null|
+|**2024-09-12**|**Auto-Landmark: Acoustic Landmark Dataset and Open-Source Toolkit for Landmark Extraction**|Xiangyu Zhang et.al.|[2409.07969](http://arxiv.org/abs/2409.07969)|null|
+|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936](http://arxiv.org/abs/2409.07936)|null|
+|**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
 |**2024-09-11**|**Rethinking Mamba in Speech Processing by Self-Supervised Models**|Xiangyu Zhang et.al.|[2409.07273](http://arxiv.org/abs/2409.07273)|null|
 |**2024-09-11**|**ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages**|Mahta Fetrat Qharabagh et.al.|[2409.07259](http://arxiv.org/abs/2409.07259)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux et.al.|[2409.07210](http://arxiv.org/abs/2409.07210)|null|
@@ -4266,6 +4300,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**ComAlign: Compositional Alignment in Vision-Language Models**|Ali Abdollah et.al.|[2409.08206](http://arxiv.org/abs/2409.08206)|null|
+|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
 |**2024-09-10**|**SubRegWeigh: Effective and Efficient Annotation Weighing with Subword Regularization**|Kohei Tsuji et.al.|[2409.06216](http://arxiv.org/abs/2409.06216)|null|
 |**2024-09-08**|**OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs**|Jintian Zhang et.al.|[2409.05152](http://arxiv.org/abs/2409.05152)|null|
 |**2024-09-07**|**Maximizing Relation Extraction Potential: A Data-Centric Study to Unveil Challenges and Opportunities**|Anushka Swarup et.al.|[2409.04934](http://arxiv.org/abs/2409.04934)|null|
@@ -4615,6 +4651,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks**|Benji Peng et.al.|[2409.08087](http://arxiv.org/abs/2409.08087)|null|
+|**2024-09-12**|**From Explanations to Action: A Zero-Shot, Theory-Driven LLM Framework for Student Performance Feedback**|Vinitra Swamy et.al.|[2409.08027](http://arxiv.org/abs/2409.08027)|null|
 |**2024-09-11**|**The Role of Explainable AI in Revolutionizing Human Health Monitoring**|Abdullah Alharthi et.al.|[2409.07347](http://arxiv.org/abs/2409.07347)|null|
 |**2024-09-09**|**Robust Non-adaptive Group Testing under Errors in Group Membership Specifications**|Shuvayan Banerjee et.al.|[2409.05345](http://arxiv.org/abs/2409.05345)|null|
 |**2024-09-09**|**UPCS: Unbiased Persona Construction for Dialogue Generation**|Kuiyun Chen et.al.|[2409.05257](http://arxiv.org/abs/2409.05257)|null|
