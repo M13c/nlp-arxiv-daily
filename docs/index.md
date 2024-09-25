@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -1430,9 +1430,9 @@ layout: default
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
 |**2024-09-18**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283](http://arxiv.org/abs/2409.11283)|null|
 |**2024-09-14**|**ASFT: Aligned Supervised Fine-Tuning through Absolute Likelihood**|Ruoyu Wang et.al.|[2409.10571](http://arxiv.org/abs/2409.10571)|null|
-|**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
+|**2024-09-23**|**MGSA: Multi-Granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
 |**2024-09-16**|**ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation**|Dohee Kim et.al.|[2409.10244](http://arxiv.org/abs/2409.10244)|null|
-|**2024-09-15**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
+|**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-14**|**On the Generalizability of Foundation Models for Crop Type Mapping**|Yi-Chia Chang et.al.|[2409.09451](http://arxiv.org/abs/2409.09451)|null|
 |**2024-09-14**|**Towards Diverse and Efficient Audio Captioning via Diffusion Models**|Manjie Xu et.al.|[2409.09401](http://arxiv.org/abs/2409.09401)|null|
 |**2024-09-13**|**Transformer with Controlled Attention for Synchronous Motion Captioning**|Karim Radouane et.al.|[2409.09177](http://arxiv.org/abs/2409.09177)|**[link](https://github.com/rd20karim/synch-transformer)**|
@@ -4028,8 +4028,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|null|
-|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|null|
+|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|**[link](https://github.com/walleclipse/wehelp)**|
+|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|**[link](https://github.com/diabolocom-research/conversationaldataset)**|
 |**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
 |**2024-09-19**|**Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations**|Haopeng Geng et.al.|[2409.11742](http://arxiv.org/abs/2409.11742)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
@@ -5130,7 +5130,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**Speech Recognition for Analysis of Police Radio Communication**|Tejes Srivastava et.al.|[2409.10858](http://arxiv.org/abs/2409.10858)|null|
 |**2024-09-17**|**EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer**|Jiarui Hai et.al.|[2409.10819](http://arxiv.org/abs/2409.10819)|null|
-|**2024-09-16**|**Model-in-the-Loop (MILO): Accelerating Multimodal AI Data Annotation with LLMs**|Yifan Wang et.al.|[2409.10702](http://arxiv.org/abs/2409.10702)|null|
+|**2024-09-24**|**Model-in-the-Loop (MILO): Accelerating Multimodal AI Data Annotation with LLMs**|Yifan Wang et.al.|[2409.10702](http://arxiv.org/abs/2409.10702)|null|
 |**2024-09-15**|**Enhancing Text Annotation through Rationale-Driven Collaborative Few-Shot Prompting**|Jianfei Wu et.al.|[2409.09615](http://arxiv.org/abs/2409.09615)|null|
 |**2024-09-13**|**Ensuring Adherence to Standards in Experiment-Related Metadata Entered Via Spreadsheets**|Martin J. O'Connor et.al.|[2409.08897](http://arxiv.org/abs/2409.08897)|null|
 |**2024-09-10**|**MIP-GAF: A MLLM-annotated Benchmark for Most Important Person Localization and Group Context Understanding**|Surbhi Madan et.al.|[2409.06224](http://arxiv.org/abs/2409.06224)|null|
