@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -1326,7 +1326,7 @@ layout: default
 |**2024-10-17**|**Coarsening in the Long-range Ising Model with Conserved Dynamics**|Soumik Ghosh et.al.|[2410.13447](http://arxiv.org/abs/2410.13447)|null|
 |**2024-10-17**|**RAMPA: Robotic Augmented Reality for Machine Programming and Automation**|Fatih Dogangun et.al.|[2410.13412](http://arxiv.org/abs/2410.13412)|**[link](https://github.com/dogadogan/rampa)**|
 |**2024-10-17**|**On the Use of Audio to Improve Dialogue Policies**|Daniel Roncel et.al.|[2410.13385](http://arxiv.org/abs/2410.13385)|**[link](https://github.com/danielroncel/tfm)**|
-|**2024-10-17**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191](http://arxiv.org/abs/2410.13191)|null|
+|**2024-10-18**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191](http://arxiv.org/abs/2410.13191)|null|
 |**2024-10-16**|**BOXR: Body and head motion Optimization framework for eXtended Reality**|Ziliang Zhang et.al.|[2410.13084](http://arxiv.org/abs/2410.13084)|**[link](https://github.com/rtenlab/boxr)**|
 |**2024-10-17**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532](http://arxiv.org/abs/2410.12532)|null|
 |**2024-10-15**|**Decision problem on interactions**|Hidetada Wachi et.al.|[2410.11292](http://arxiv.org/abs/2410.11292)|null|
@@ -2199,7 +2199,7 @@ layout: default
 |**2024-10-17**|**Pessimistic Evaluation**|Fernando Diaz et.al.|[2410.13680](http://arxiv.org/abs/2410.13680)|null|
 |**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604](http://arxiv.org/abs/2410.13604)|null|
 |**2024-10-17**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588](http://arxiv.org/abs/2410.13588)|null|
-|**2024-10-17**|**Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation**|Guoqing Hu et.al.|[2410.13428](http://arxiv.org/abs/2410.13428)|null|
+|**2024-10-18**|**Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation**|Guoqing Hu et.al.|[2410.13428](http://arxiv.org/abs/2410.13428)|null|
 |**2024-10-17**|**Context-aware adaptive personalised recommendation: a meta-hybrid**|Peter Tibensky et.al.|[2410.13374](http://arxiv.org/abs/2410.13374)|null|
 |**2024-10-17**|**Comparing the Utility, Preference, and Performance of Course Material Search Functionality and Retrieval-Augmented Generation Large Language Model (RAG-LLM) AI Chatbots in Information-Seeking Tasks**|Leonardo Pasquarelli et.al.|[2410.13326](http://arxiv.org/abs/2410.13326)|null|
 |**2024-10-17**|**SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation**|Prakhar Dixit et.al.|[2410.13293](http://arxiv.org/abs/2410.13293)|null|
@@ -5244,7 +5244,7 @@ layout: default
 |**2024-10-17**|**Towards Hybrid Intelligence in Journalism: Findings and Lessons Learnt from a Collaborative Analysis of Greek Political Rhetoric by ChatGPT and Humans**|Thanasis Troboukis et.al.|[2410.13400](http://arxiv.org/abs/2410.13400)|null|
 |**2024-10-17**|**Computational Approaches to Arabic-English Code-Switching**|Caroline Sabty et.al.|[2410.13318](http://arxiv.org/abs/2410.13318)|null|
 |**2024-10-17**|**Retrieval-Enhanced Named Entity Recognition**|Enzo Shiraishi et.al.|[2410.13118](http://arxiv.org/abs/2410.13118)|null|
-|**2024-10-16**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750](http://arxiv.org/abs/2410.12750)|null|
+|**2024-10-17**|**Comparative Analysis of Extrinsic Factors for NER in French**|Grace Yang et.al.|[2410.12750](http://arxiv.org/abs/2410.12750)|null|
 |**2024-10-15**|**Skill-LLM: Repurposing General-Purpose LLMs for Skill Extraction**|Amirhossein Herandi et.al.|[2410.12052](http://arxiv.org/abs/2410.12052)|**[link](https://github.com/herandy/Skill-LLM)**|
 |**2024-10-15**|**DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG**|Jinyoung Kim et.al.|[2410.11494](http://arxiv.org/abs/2410.11494)|null|
 |**2024-10-16**|**Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**|S. Tamang et.al.|[2410.11291](http://arxiv.org/abs/2410.11291)|**[link](https://github.com/indian-nlp/assamese-dataset)**|
