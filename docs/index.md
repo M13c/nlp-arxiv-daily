@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -1794,7 +1794,7 @@ layout: default
 |**2024-10-23**|**Future Token Prediction -- Causal Language Modelling with Per-Token Semantic State Vector for Multi-Token Prediction**|Nicholas Walker et.al.|[2410.18160](http://arxiv.org/abs/2410.18160)|null|
 |**2024-10-23**|**Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**|Suho Kang et.al.|[2410.18001](http://arxiv.org/abs/2410.18001)|**[link](https://github.com/mlai-yonsei/exceptionalbenchmark)**|
 |**2024-10-23**|**Scaling Diffusion Language Models via Adaptation from Autoregressive Models**|Shansan Gong et.al.|[2410.17891](http://arxiv.org/abs/2410.17891)|**[link](https://github.com/hkunlp/diffullama)**|
-|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|**[link](https://github.com/Kaiwen-Zhu/AgenticIR)**|
 |**2024-10-23**|**Large Language Models Engineer Too Many Simple Features For Tabular Data**|Jaris Küken et.al.|[2410.17787](http://arxiv.org/abs/2410.17787)|null|
 |**2024-10-23**|**Large Language Models Still Exhibit Bias in Long Text**|Wonje Jeung et.al.|[2410.17519](http://arxiv.org/abs/2410.17519)|null|
 |**2024-10-22**|**Enhancing Answer Attribution for Faithful Text Generation with Large Language Models**|Juraj Vladika et.al.|[2410.17112](http://arxiv.org/abs/2410.17112)|null|
