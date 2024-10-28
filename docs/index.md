@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -1377,7 +1377,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**UGotMe: An Embodied System for Affective Human-Robot Interaction**|Peizhen Li et.al.|[2410.18373](http://arxiv.org/abs/2410.18373)|null|
+|**2024-10-24**|**UGotMe: An Embodied System for Affective Human-Robot Interaction**|Peizhen Li et.al.|[2410.18373](http://arxiv.org/abs/2410.18373)|**[link](https://github.com/lipzh5/amecavle)**|
 |**2024-10-23**|**OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation**|Qinglin Zhang et.al.|[2410.17799](http://arxiv.org/abs/2410.17799)|**[link](https://github.com/karpathy/nanogpt)**|
 |**2024-10-22**|**User Experience Evaluation of AR Assisted Industrial Maintenance and Support Applications**|Akos Nagy et.al.|[2410.17348](http://arxiv.org/abs/2410.17348)|null|
 |**2024-10-22**|**Semiclassical origin of suppressed quantum chaos in Rydberg chains**|Markus Müller et.al.|[2410.17223](http://arxiv.org/abs/2410.17223)|null|
@@ -1785,7 +1785,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
+|**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
 |**2024-10-24**|**Towards Visual Text Design Transfer Across Languages**|Yejin Choi et.al.|[2410.18823](http://arxiv.org/abs/2410.18823)|null|
 |**2024-10-24**|**Hierarchical Multimodal LLMs with Semantic Space Alignment for Enhanced Time Series Classification**|Xiaoyu Tao et.al.|[2410.18686](http://arxiv.org/abs/2410.18686)|null|
 |**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653](http://arxiv.org/abs/2410.18653)|**[link](https://github.com/YecanLee/2BeOETG)**|
@@ -2298,7 +2298,7 @@ layout: default
 |**2024-10-24**|**Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience**|Diogo Cosme et.al.|[2410.18641](http://arxiv.org/abs/2410.18641)|**[link](https://github.com/resetting-eu/european_stt_observatory)**|
 |**2024-10-24**|**Little Giants: Synthesizing High-Quality Embedding Data at Scale**|Haonan Chen et.al.|[2410.18634](http://arxiv.org/abs/2410.18634)|null|
 |**2024-10-24**|**Probing Ranking LLMs: Mechanistic Interpretability in Information Retrieval**|Tanya Chowdhury et.al.|[2410.18527](http://arxiv.org/abs/2410.18527)|null|
-|**2024-10-24**|**Link, Synthesize, Retrieve: Universal Document Linking for Zero-Shot Information Retrieval**|Dae Yon Hwang et.al.|[2410.18385](http://arxiv.org/abs/2410.18385)|null|
+|**2024-10-25**|**Link, Synthesize, Retrieve: Universal Document Linking for Zero-Shot Information Retrieval**|Dae Yon Hwang et.al.|[2410.18385](http://arxiv.org/abs/2410.18385)|**[link](https://github.com/eoduself/udl)**|
 |**2024-10-23**|**NexusIndex: Integrating Advanced Vector Indexing and Multi-Model Embeddings for Robust Fake News Detection**|Solmaz Seyed Monir et.al.|[2410.18294](http://arxiv.org/abs/2410.18294)|null|
 |**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
 |**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
@@ -4857,7 +4857,7 @@ layout: default
 |**2024-10-23**|**Optimizing the role of human evaluation in LLM-based spoken document summarization systems**|Margaret Kroll et.al.|[2410.18218](http://arxiv.org/abs/2410.18218)|null|
 |**2024-10-22**|**Assessment of Transformer-Based Encoder-Decoder Model for Human-Like Summarization**|Sindhu Nair et.al.|[2410.16842](http://arxiv.org/abs/2410.16842)|null|
 |**2024-10-21**|**Systematic Exploration of Dialogue Summarization Approaches for Reproducibility, Comparative Assessment, and Methodological Innovations for Advancing Natural Language Processing in Abstractive Summarization**|Yugandhar Reddy Gogireddy et.al.|[2410.15962](http://arxiv.org/abs/2410.15962)|null|
-|**2024-10-21**|**DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization**|Haohan Yuan et.al.|[2410.15687](http://arxiv.org/abs/2410.15687)|null|
+|**2024-10-21**|**DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization**|Haohan Yuan et.al.|[2410.15687](http://arxiv.org/abs/2410.15687)|**[link](https://github.com/hpzhang94/DomainSum)**|
 |**2024-10-19**|**Are LLMs Good Zero-Shot Fallacy Classifiers?**|Fengjun Pan et.al.|[2410.15050](http://arxiv.org/abs/2410.15050)|**[link](https://github.com/panfjcharlotte98/fallacy_detection)**|
 |**2024-10-08**|**Mitigating the Impact of Reference Quality on Evaluation of Summarization Systems with Reference-Free Metrics**|Théo Gigant et.al.|[2410.10867](http://arxiv.org/abs/2410.10867)|**[link](https://github.com/giganttheo/importance-based-relevance-score)**|
 |**2024-10-11**|**L3Cube-MahaSum: A Comprehensive Dataset and BART Models for Abstractive Text Summarization in Marathi**|Pranita Deshmukh et.al.|[2410.09184](http://arxiv.org/abs/2410.09184)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
@@ -4932,7 +4932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
+|**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
 |**2024-10-24**|**We Augmented Whisper With kNN and You Won't Believe What Came Next**|Maya K. Nachesa et.al.|[2410.18850](http://arxiv.org/abs/2410.18850)|null|
 |**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|null|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park et.al.|[2410.18444](http://arxiv.org/abs/2410.18444)|null|
@@ -5463,7 +5463,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**|Tanmay Parekh et.al.|[2410.18393](http://arxiv.org/abs/2410.18393)|null|
-|**2024-10-24**|**Link, Synthesize, Retrieve: Universal Document Linking for Zero-Shot Information Retrieval**|Dae Yon Hwang et.al.|[2410.18385](http://arxiv.org/abs/2410.18385)|null|
+|**2024-10-25**|**Link, Synthesize, Retrieve: Universal Document Linking for Zero-Shot Information Retrieval**|Dae Yon Hwang et.al.|[2410.18385](http://arxiv.org/abs/2410.18385)|**[link](https://github.com/eoduself/udl)**|
 |**2024-10-22**|**Artificial Intelligence in Brazilian News: A Mixed-Methods Analysis**|Raphael Hernandes et.al.|[2410.17423](http://arxiv.org/abs/2410.17423)|null|
 |**2024-10-22**|**Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction**|Kent K. Chang et.al.|[2410.14978](http://arxiv.org/abs/2410.14978)|**[link](https://github.com/kentchang/subversive-characters-chr2024)**|
 |**2024-10-18**|**Few-Shot Joint Multimodal Entity-Relation Extraction via Knowledge-Enhanced Cross-modal Prompt Model**|Li Yuan et.al.|[2410.14225](http://arxiv.org/abs/2410.14225)|null|
@@ -5897,7 +5897,7 @@ layout: default
 |**2024-10-22**|**Leaky ReLUs That Differ in Forward and Backward Pass Facilitate Activation Maximization in Deep Neural Networks**|Christoph Linse et.al.|[2410.16958](http://arxiv.org/abs/2410.16958)|null|
 |**2024-10-21**|**How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?**|Kenza Benkirane et.al.|[2410.16574](http://arxiv.org/abs/2410.16574)|null|
 |**2024-10-21**|**QIXAI: A Quantum-Inspired Framework for Enhancing Classical and Quantum Model Transparency and Understanding**|John M. Willis et.al.|[2410.16537](http://arxiv.org/abs/2410.16537)|null|
-|**2024-10-21**|**Exploring how deep learning decodes anomalous diffusion via Grad-CAM**|Jaeyong Bae et.al.|[2410.16345](http://arxiv.org/abs/2410.16345)|null|
+|**2024-10-21**|**Exploring how deep learning decodes anomalous diffusion via Grad-CAM**|Jaeyong Bae et.al.|[2410.16345](http://arxiv.org/abs/2410.16345)|**[link](https://github.com/peardragon/ResAnDi)**|
 |**2024-10-20**|**XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**|Sazid Nazat et.al.|[2410.15405](http://arxiv.org/abs/2410.15405)|**[link](https://github.com/nazat28/xai-based-feature-ensemble-for-enhanced-anomaly-detection-in-autonomous-driving-systems)**|
 |**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|**[link](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**|
 |**2024-10-19**|**The shape of the brain's connections is predictive of cognitive performance: an explainable machine learning study**|Yui Lo et.al.|[2410.15108](http://arxiv.org/abs/2410.15108)|null|
