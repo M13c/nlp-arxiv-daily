@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -56,8 +56,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
-|**2024-10-31**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126](http://arxiv.org/abs/2410.24126)|null|
-|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
+|**2024-11-01**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126](http://arxiv.org/abs/2410.24126)|null|
+|**2024-11-01**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
 |**2024-10-30**|**Reliability of Topic Modeling**|Kayla Schroeder et.al.|[2410.23186](http://arxiv.org/abs/2410.23186)|null|
 |**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
 |**2024-10-30**|**Automated Trustworthiness Oracle Generation for Machine Learning Text Classifiers**|Lam Nguyen Tung et.al.|[2410.22663](http://arxiv.org/abs/2410.22663)|null|
@@ -1858,7 +1858,7 @@ layout: default
 |**2024-10-30**|**Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models**|Garry Kuwanto et.al.|[2410.22660](http://arxiv.org/abs/2410.22660)|**[link](https://github.com/gkuwanto/ezswitch)**|
 |**2024-10-29**|**BENCHAGENTS: Automated Benchmark Creation with Agent Interaction**|Natasha Butt et.al.|[2410.22584](http://arxiv.org/abs/2410.22584)|null|
 |**2024-10-28**|**UFT: Unifying Fine-Tuning of SFT and RLHF/DPO/UNA through a Generalized Implicit Reward Function**|Zhichao Wang et.al.|[2410.21438](http://arxiv.org/abs/2410.21438)|null|
-|**2024-10-28**|**"We do use it, but not how hearing people think": How the Deaf and Hard of Hearing Community Uses Large Language Model Tools**|Shuxu Huffman et.al.|[2410.21358](http://arxiv.org/abs/2410.21358)|null|
+|**2024-11-01**|**"We do use it, but not how hearing people think": How the Deaf and Hard of Hearing Community Uses Large Language Model Tools**|Shuxu Huffman et.al.|[2410.21358](http://arxiv.org/abs/2410.21358)|null|
 |**2024-10-28**|**Energy-Based Diffusion Language Models for Text Generation**|Minkai Xu et.al.|[2410.21357](http://arxiv.org/abs/2410.21357)|null|
 |**2024-10-28**|**ADLM -- stega: A Universal Adaptive Token Selection Algorithm for Improving Steganographic Text Quality via Information Entropy**|Zezheng Qin et.al.|[2410.20825](http://arxiv.org/abs/2410.20825)|null|
 |**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783](http://arxiv.org/abs/2410.20783)|**[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)**|
@@ -2390,7 +2390,7 @@ layout: default
 |**2024-10-31**|**Identify Then Recommend: Towards Unsupervised Group Recommendation**|Yue Liu et.al.|[2410.23757](http://arxiv.org/abs/2410.23757)|null|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 |**2024-10-31**|**Towards Cross-Modal Text-Molecule Retrieval with Better Modality Alignment**|Jia Song et.al.|[2410.23715](http://arxiv.org/abs/2410.23715)|**[link](https://github.com/DeepLearnXMU/CMTMR)**|
-|**2024-10-31**|**Unveiling User Satisfaction and Creator Productivity Trade-Offs in Recommendation Platforms**|Fan Yao et.al.|[2410.23683](http://arxiv.org/abs/2410.23683)|null|
+|**2024-11-01**|**Unveiling User Satisfaction and Creator Productivity Trade-Offs in Recommendation Platforms**|Fan Yao et.al.|[2410.23683](http://arxiv.org/abs/2410.23683)|null|
 |**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
 |**2024-10-30**|**SciPIP: An LLM-based Scientific Paper Idea Proposer**|Wenxiao Wang et.al.|[2410.23166](http://arxiv.org/abs/2410.23166)|null|
 |**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
