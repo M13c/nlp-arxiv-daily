@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -56,11 +56,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025](http://arxiv.org/abs/2411.04025)|null|
+|**2024-11-03**|**Undermining Image and Text Classification Algorithms Using Adversarial Attacks**|Langalibalele Lunga et.al.|[2411.03348](http://arxiv.org/abs/2411.03348)|null|
 |**2024-11-05**|**Blending Ensemble for Classification with Genetic-algorithm generated Alpha factors and Sentiments (GAS)**|Quechen Yang et.al.|[2411.03035](http://arxiv.org/abs/2411.03035)|null|
-|**2024-11-05**|**Confidence Calibration of Classifiers with Many Classes**|Adrien Le Coz et.al.|[2411.02988](http://arxiv.org/abs/2411.02988)|**[link](https://github.com/allglc/tva-calibration)**|
+|**2024-11-06**|**Confidence Calibration of Classifiers with Many Classes**|Adrien LeCoz et.al.|[2411.02988](http://arxiv.org/abs/2411.02988)|**[link](https://github.com/allglc/tva-calibration)**|
 |**2024-11-05**|**Capturing research literature attitude towards Sustainable Development Goals: an LLM-based topic modeling approach**|Francesco Invernici et.al.|[2411.02943](http://arxiv.org/abs/2411.02943)|null|
 |**2024-11-05**|**Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**|Mingcheng Li et.al.|[2411.02793](http://arxiv.org/abs/2411.02793)|null|
-|**2024-11-04**|**Wave Network: An Ultra-Small Language Model**|Xin Zhang et.al.|[2411.02674](http://arxiv.org/abs/2411.02674)|null|
+|**2024-11-06**|**Wave Network: An Ultra-Small Language Model**|Xin Zhang et.al.|[2411.02674](http://arxiv.org/abs/2411.02674)|null|
 |**2024-11-04**|**A Comparative Analysis of Instruction Fine-Tuning LLMs for Financial Text Classification**|Sorouralsadat Fatemi et.al.|[2411.02476](http://arxiv.org/abs/2411.02476)|null|
 |**2024-11-02**|**Combining Financial Data and News Articles for Stock Price Movement Prediction Using Large Language Models**|Ali Elahi et.al.|[2411.01368](http://arxiv.org/abs/2411.01368)|null|
 |**2024-11-02**|**FEET: A Framework for Evaluating Embedding Techniques**|Simon A. Lee et.al.|[2411.01322](http://arxiv.org/abs/2411.01322)|**[link](https://github.com/Simonlee711/FEET)**|
@@ -635,7 +637,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-04**|**MILU: A Multi-task Indic Language Understanding Benchmark**|Sshubam Verma et.al.|[2411.02538](http://arxiv.org/abs/2411.02538)|**[link](https://github.com/AI4Bharat/MILU)**|
 |**2024-11-03**|**MoCE: Adaptive Mixture of Contextualization Experts for Byte-based Neural Machine Translation**|Langlin Huang et.al.|[2411.01474](http://arxiv.org/abs/2411.01474)|**[link](https://github.com/ictnlp/moce)**|
-|**2024-10-31**|**Multilingual Pretraining Using a Large Corpus Machine-Translated from a Single Source Language**|Jiayi Wang et.al.|[2410.23956](http://arxiv.org/abs/2410.23956)|null|
+|**2024-11-06**|**Multilingual Pretraining Using a Large Corpus Machine-Translated from a Single Source Language**|Jiayi Wang et.al.|[2410.23956](http://arxiv.org/abs/2410.23956)|null|
 |**2024-10-23**|**Dialectal and Low Resource Machine Translation for Aromanian**|Alexandru-Iulius Jerpelea et.al.|[2410.17728](http://arxiv.org/abs/2410.17728)|null|
 |**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221](http://arxiv.org/abs/2410.16221)|**[link](https://github.com/preceptorai-org/nllb_cs_em_nlp2024)**|
 |**2024-10-21**|**Generalized Probabilistic Attention Mechanism in Transformers**|DongNyeong Heo et.al.|[2410.15578](http://arxiv.org/abs/2410.15578)|null|
@@ -818,11 +820,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
+|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-06**|**Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System**|David Maria Schmidt et.al.|[2411.03906](http://arxiv.org/abs/2411.03906)|**[link](https://github.com/ag-sc/neodudes)**|
+|**2024-11-06**|**Large Generative Model-assisted Talking-face Semantic Communication System**|Feibo Jiang et.al.|[2411.03876](http://arxiv.org/abs/2411.03876)|null|
+|**2024-11-06**|**QUILL: Quotation Generation Enhancement of Large Language Models**|Jin Xiao et.al.|[2411.03675](http://arxiv.org/abs/2411.03675)|**[link](https://github.com/gracexiaoo/quill)**|
+|**2024-11-06**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
 |**2024-11-02**|**Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation**|Mehmet Can Yavuz et.al.|[2411.02441](http://arxiv.org/abs/2411.02441)|null|
 |**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435](http://arxiv.org/abs/2411.02435)|null|
 |**2024-11-04**|**The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units**|Badr AlKhamissi et.al.|[2411.02280](http://arxiv.org/abs/2411.02280)|**[link](https://github.com/bkhmsi/llm-localization)**|
-|**2024-11-05**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
+|**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
 |**2024-11-03**|**Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors**|Yuefeng Peng et.al.|[2411.01705](http://arxiv.org/abs/2411.01705)|null|
 |**2024-11-03**|**DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models**|Mingyue Yuan et.al.|[2411.01606](http://arxiv.org/abs/2411.01606)|null|
 |**2024-11-03**|**DELE: Deductive $\mathcal{EL}^{++} \thinspace$ Embeddings for Knowledge Base Completion**|Olga Mashkova et.al.|[2411.01574](http://arxiv.org/abs/2411.01574)|**[link](https://github.com/bio-ontology-research-group/DELE)**|
@@ -1893,6 +1899,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**|Ian Poey et.al.|[2411.03920](http://arxiv.org/abs/2411.03920)|null|
+|**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572](http://arxiv.org/abs/2411.03572)|null|
+|**2024-11-04**|**A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness**|Fali Wang et.al.|[2411.03350](http://arxiv.org/abs/2411.03350)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864](http://arxiv.org/abs/2411.02864)|null|
 |**2024-11-03**|**Rate, Explain and Cite (REC): Enhanced Explanation and Attribution in Automatic Evaluation by Large Language Models**|Aliyah R. Hsu et.al.|[2411.02448](http://arxiv.org/abs/2411.02448)|**[link](https://github.com/adelaidehsu/rec)**|
 |**2024-11-02**|**TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models**|Georgia Gabriela Sampaio et.al.|[2411.02437](http://arxiv.org/abs/2411.02437)|null|
@@ -2435,6 +2444,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models**|Chuhan Li et.al.|[2411.04075](http://arxiv.org/abs/2411.04075)|null|
+|**2024-11-06**|**Reproducible Hybrid Time-Travel Retrieval in Evolving Corpora**|Moritz Staudinger et.al.|[2411.04051](http://arxiv.org/abs/2411.04051)|null|
+|**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025](http://arxiv.org/abs/2411.04025)|null|
+|**2024-11-06**|**Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in Retrieval-Augmented Generation**|Yuhang Liu et.al.|[2411.03957](http://arxiv.org/abs/2411.03957)|null|
+|**2024-11-06**|**Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System**|David Maria Schmidt et.al.|[2411.03906](http://arxiv.org/abs/2411.03906)|**[link](https://github.com/ag-sc/neodudes)**|
+|**2024-11-06**|**Data Fusion of Synthetic Query Variants With Generative Large Language Models**|Timo Breuer et.al.|[2411.03881](http://arxiv.org/abs/2411.03881)|null|
+|**2024-11-06**|**The Essence of the Essence from the Web:The Metasearch Engine**|Rajender Nath et.al.|[2411.03701](http://arxiv.org/abs/2411.03701)|null|
+|**2024-11-06**|**SEGMN: A Structure-Enhanced Graph Matching Network for Graph Similarity Learning**|Wenjun Wang et.al.|[2411.03624](http://arxiv.org/abs/2411.03624)|null|
+|**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572](http://arxiv.org/abs/2411.03572)|null|
+|**2024-11-05**|**Automated, LLM enabled extraction of synthesis details for reticular materials from scientific literature**|Viviane Torres da Silva et.al.|[2411.03484](http://arxiv.org/abs/2411.03484)|null|
 |**2024-11-05**|**Self-supervised Hierarchical Representation for Medication Recommendation**|Yuliang Liang et.al.|[2411.03143](http://arxiv.org/abs/2411.03143)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
 |**2024-11-05**|**HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems**|Jiejun Tan et.al.|[2411.02959](http://arxiv.org/abs/2411.02959)|**[link](https://github.com/plageon/HtmlRAG)**|
@@ -3849,6 +3868,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
+|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883](http://arxiv.org/abs/2411.03883)|**[link](https://github.com/lautel/meg)**|
+|**2024-11-06**|**Reconsidering the Performance of GAE in Link Prediction**|Weishuo Ma et.al.|[2411.03845](http://arxiv.org/abs/2411.03845)|**[link](https://github.com/graphpku/refined-gae)**|
+|**2024-11-06**|**Graph Neural Networks with Coarse- and Fine-Grained Division for Mitigating Label Sparsity and Noise**|Shuangjie Li et.al.|[2411.03744](http://arxiv.org/abs/2411.03744)|null|
+|**2024-11-06**|**Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey**|Amer Essakine et.al.|[2411.03688](http://arxiv.org/abs/2411.03688)|null|
+|**2024-11-06**|**Can Graph Neural Networks Expose Training Data Properties? An Efficient Risk Assessment Approach**|Hanyang Yuan et.al.|[2411.03663](http://arxiv.org/abs/2411.03663)|null|
+|**2024-11-06**|**SEGMN: A Structure-Enhanced Graph Matching Network for Graph Similarity Learning**|Wenjun Wang et.al.|[2411.03624](http://arxiv.org/abs/2411.03624)|null|
+|**2024-11-06**|**Fully Hyperbolic Rotation for Knowledge Graph Embedding**|Qiuyu Liang et.al.|[2411.03622](http://arxiv.org/abs/2411.03622)|null|
+|**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572](http://arxiv.org/abs/2411.03572)|null|
+|**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568](http://arxiv.org/abs/2411.03568)|null|
 |**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
 |**2024-11-05**|**Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**|Shan Zhao et.al.|[2411.03223](http://arxiv.org/abs/2411.03223)|null|
 |**2024-11-05**|**DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts**|Zelin Yao et.al.|[2411.03025](http://arxiv.org/abs/2411.03025)|**[link](https://github.com/celin-yao/da-moe)**|
@@ -5756,6 +5785,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542](http://arxiv.org/abs/2411.03542)|null|
 |**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864](http://arxiv.org/abs/2411.02864)|null|
 |**2024-11-05**|**JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase**|Wanying Ding et.al.|[2411.02695](http://arxiv.org/abs/2411.02695)|null|
 |**2024-11-04**|**TriG-NER: Triplet-Grid Framework for Discontinuous Named Entity Recognition**|Rina Carines Cabral et.al.|[2411.01839](http://arxiv.org/abs/2411.01839)|null|
@@ -6076,6 +6106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Multilingual hierarchical classification of job advertisements for job vacancy statistics**|Maciej Beręsewicz et.al.|[2411.03779](http://arxiv.org/abs/2411.03779)|null|
 |**2024-11-04**|**Data-Driven Hierarchical Open Set Recognition**|Andrew Hannum et.al.|[2411.02635](http://arxiv.org/abs/2411.02635)|null|
 |**2024-10-29**|**NeuroSym-BioCAT: Leveraging Neuro-Symbolic Methods for Biomedical Scholarly Document Categorization and Question Answering**|Parvez Zamil et.al.|[2411.00041](http://arxiv.org/abs/2411.00041)|null|
 |**2024-10-31**|**Bibliometrics effects of a new item-by-item classification system based on reference reclassification**|Marcos Pena-Rocha et.al.|[2410.23792](http://arxiv.org/abs/2410.23792)|null|
@@ -6211,6 +6242,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**An Open API Architecture to Discover the Trustworthy Explanation of Cloud AI Services**|Zerui Wang et.al.|[2411.03376](http://arxiv.org/abs/2411.03376)|null|
+|**2024-11-05**|**Personal Data Protection in AI-Native 6G Systems**|Keivan Navaie et.al.|[2411.03368](http://arxiv.org/abs/2411.03368)|null|
 |**2024-11-05**|**A Bayesian explanation of machine learning models based on modes and functional ANOVA**|Quan Long et.al.|[2411.02746](http://arxiv.org/abs/2411.02746)|null|
 |**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540](http://arxiv.org/abs/2411.02540)|**[link](https://github.com/ADMAntwerp/GraphXAIN)**|
 |**2024-11-03**|**SPES: Spectrogram Perturbation for Explainable Speech-to-Text Generation**|Dennis Fucci et.al.|[2411.01710](http://arxiv.org/abs/2411.01710)|null|
