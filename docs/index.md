@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -836,7 +836,7 @@ layout: default
 |**2024-11-02**|**Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation**|Mehmet Can Yavuz et.al.|[2411.02441](http://arxiv.org/abs/2411.02441)|null|
 |**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435](http://arxiv.org/abs/2411.02435)|null|
 |**2024-11-04**|**The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units**|Badr AlKhamissi et.al.|[2411.02280](http://arxiv.org/abs/2411.02280)|**[link](https://github.com/bkhmsi/llm-localization)**|
-|**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
+|**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|null|
 |**2024-11-03**|**Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors**|Yuefeng Peng et.al.|[2411.01705](http://arxiv.org/abs/2411.01705)|null|
 |**2024-11-03**|**DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models**|Mingyue Yuan et.al.|[2411.01606](http://arxiv.org/abs/2411.01606)|null|
 |**2024-11-03**|**DELE: Deductive $\mathcal{EL}^{++} \thinspace$ Embeddings for Knowledge Base Completion**|Olga Mashkova et.al.|[2411.01574](http://arxiv.org/abs/2411.01574)|**[link](https://github.com/bio-ontology-research-group/DELE)**|
