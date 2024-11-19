@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -56,6 +56,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**On the Cost of Model-Serving Frameworks: An Experimental Evaluation**|Pasquale De Rosa et.al.|[2411.10337](http://arxiv.org/abs/2411.10337)|null|
+|**2024-11-15**|**Assessing Response Disparities in California Wildland-Urban-Interface (WUI) Cities Using the Compartmental Model**|Zihui Ma et.al.|[2411.09946](http://arxiv.org/abs/2411.09946)|null|
+|**2024-11-14**|**Towards a Fairer Non-negative Matrix Factorization**|Lara Kassab et.al.|[2411.09847](http://arxiv.org/abs/2411.09847)|null|
 |**2024-11-14**|**Improvement and Implementation of a Speech Emotion Recognition Model Based on Dual-Layer LSTM**|Xiaoran Yang et.al.|[2411.09189](http://arxiv.org/abs/2411.09189)|null|
 |**2024-11-13**|**CoCoP: Enhancing Text Classification with LLM through Code Completion Prompt**|Mohammad Mahdi Mohajeri et.al.|[2411.08979](http://arxiv.org/abs/2411.08979)|null|
 |**2024-11-13**|**Analyst Reports and Stock Performance: Evidence from the Chinese Market**|Rui Liu et.al.|[2411.08726](http://arxiv.org/abs/2411.08726)|null|
@@ -851,6 +854,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash**|Parsa Hejabi et.al.|[2411.10422](http://arxiv.org/abs/2411.10422)|**[link](https://github.com/parsahejabi/simulation-framework-for-multi-agent-balderdash)**|
+|**2024-11-15**|**Physics-informed neural networks need a physicist to be accurate: the case of mass and heat transport in Fischer-Tropsch catalyst particles**|Tymofii Nikolaienko et.al.|[2411.10048](http://arxiv.org/abs/2411.10048)|null|
 |**2024-11-14**|**Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**|Nghia Trung Ngo et.al.|[2411.09213](http://arxiv.org/abs/2411.09213)|null|
 |**2024-11-13**|**Logic-based Knowledge Awareness for Autonomous Agents in Continuous Spaces**|Arabinda Ghosh et.al.|[2411.08754](http://arxiv.org/abs/2411.08754)|null|
 |**2024-11-13**|**Building Trustworthy AI: Transparent AI Systems via Large Language Models, Ontologies, and Logical Reasoning (TranspNet)**|Fadi Al Machot et.al.|[2411.08469](http://arxiv.org/abs/2411.08469)|null|
@@ -1509,6 +1515,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Towards Automatic Evaluation of Task-Oriented Dialogue Flows**|Mehrnoosh Mirtaheri et.al.|[2411.10416](http://arxiv.org/abs/2411.10416)|null|
+|**2024-11-15**|**Orca: Enhancing Role-Playing Abilities of Large Language Models by Integrating Personality Traits**|Yuxuan Huang et.al.|[2411.10006](http://arxiv.org/abs/2411.10006)|null|
+|**2024-11-15**|**Large Language Models as User-Agents for Evaluating Task-Oriented-Dialogue Systems**|Taaha Kazi et.al.|[2411.09972](http://arxiv.org/abs/2411.09972)|null|
+|**2024-11-15**|**Maximum entropy inference of reaction-diffusion models**|Olga Movilla Miangolarra et.al.|[2411.09880](http://arxiv.org/abs/2411.09880)|null|
+|**2024-11-15**|**KULCQ: An Unsupervised Keyword-based Utterance Level Clustering Quality Metric**|Pranav Guruprasad et.al.|[2411.09853](http://arxiv.org/abs/2411.09853)|null|
 |**2024-11-14**|**Unstructured Text Enhanced Open-domain Dialogue System: A Systematic Survey**|Longxuan Ma et.al.|[2411.09166](http://arxiv.org/abs/2411.09166)|null|
 |**2024-11-13**|**I Can Embrace and Avoid Vagueness Myself: Supporting the Design Process by Balancing Vagueness through Text-to-Image Generative AI**|Myungjin Kim et.al.|[2411.08588](http://arxiv.org/abs/2411.08588)|null|
 |**2024-11-12**|**Molecular Distributions and Abundances in the Binary-Shaped Outflow of V Hya**|Mark A. Siebert et.al.|[2411.08120](http://arxiv.org/abs/2411.08120)|null|
@@ -2528,9 +2539,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Private Counterfactual Retrieval With Immutable Features**|Shreya Meel et.al.|[2411.10429](http://arxiv.org/abs/2411.10429)|null|
+|**2024-11-15**|**Entropy and type-token ratio in gigaword corpora**|Pablo Rosillo-Rodes et.al.|[2411.10227](http://arxiv.org/abs/2411.10227)|null|
+|**2024-11-15**|**KuaiFormer: Transformer-Based Retrieval at Kuaishou**|Chi Liu et.al.|[2411.10057](http://arxiv.org/abs/2411.10057)|null|
+|**2024-11-15**|**Towards unearthing neglected climate innovations from scientific literature using Large Language Models**|César Quilodrán-Casas et.al.|[2411.10055](http://arxiv.org/abs/2411.10055)|null|
+|**2024-11-15**|**Establishing and Evaluating Trustworthy AI: Overview and Research Challenges**|Dominik Kowald et.al.|[2411.09973](http://arxiv.org/abs/2411.09973)|null|
+|**2024-11-15**|**InterFormer: Towards Effective Heterogeneous Interaction Learning for Click-Through Rate Prediction**|Zhichen Zeng et.al.|[2411.09852](http://arxiv.org/abs/2411.09852)|null|
 |**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607](http://arxiv.org/abs/2411.09607)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
-|**2024-11-14**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
+|**2024-11-15**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
 |**2024-11-14**|**Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications**|Vamsi Krishna Kommineni et.al.|[2411.09269](http://arxiv.org/abs/2411.09269)|null|
 |**2024-11-14**|**Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**|Nghia Trung Ngo et.al.|[2411.09213](http://arxiv.org/abs/2411.09213)|null|
 |**2024-11-14**|**DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation**|Xinyu He et.al.|[2411.09181](http://arxiv.org/abs/2411.09181)|null|
@@ -3905,6 +3922,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Emotion Detection in Reddit: Comparative Study of Machine Learning and Deep Learning Techniques**|Maliheh Alaeddini et.al.|[2411.10328](http://arxiv.org/abs/2411.10328)|null|
 |**2024-11-14**|**ParaLBench: A Large-Scale Benchmark for Computational Paralinguistics over Acoustic Foundation Models**|Zixing Zhang et.al.|[2411.09349](http://arxiv.org/abs/2411.09349)|null|
 |**2024-11-13**|**A Chinese Multi-label Affective Computing Dataset Based on Social Media Network Users**|Jingyi Zhou et.al.|[2411.08347](http://arxiv.org/abs/2411.08347)|**[link](https://github.com/yeaso/chinese-affective-computing-dataset)**|
 |**2024-11-13**|**A Novel Approach to Characterize Dynamics of ECG-Derived Skin Nerve Activity via Time-Varying Spectral Analysis**|Youngsun Kong et.al.|[2411.08308](http://arxiv.org/abs/2411.08308)|null|
@@ -4008,8 +4026,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Bitcoin Research with a Transaction Graph Dataset**|Hugo Schnoering et.al.|[2411.10325](http://arxiv.org/abs/2411.10325)|null|
+|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000](http://arxiv.org/abs/2411.10000)|null|
+|**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978](http://arxiv.org/abs/2411.09978)|null|
 |**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601](http://arxiv.org/abs/2411.09601)|null|
-|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476](http://arxiv.org/abs/2411.09476)|null|
+|**2024-11-15**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476](http://arxiv.org/abs/2411.09476)|null|
 |**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389](http://arxiv.org/abs/2411.09389)|null|
 |**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251](http://arxiv.org/abs/2411.09251)|null|
 |**2024-11-14**|**Neural Graph Simulator for Complex Systems**|Hoyun Choi et.al.|[2411.09120](http://arxiv.org/abs/2411.09120)|null|
@@ -5436,6 +5457,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
+|**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
+|**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](http://arxiv.org/abs/2411.10193)|null|
+|**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
 |**2024-11-14**|**Everyone deserves their voice to be heard: Analyzing Predictive Gender Bias in ASR Models Applied to Dutch Speech Data**|Rik Raes et.al.|[2411.09431](http://arxiv.org/abs/2411.09431)|null|
 |**2024-11-14**|**Transferable Adversarial Attacks against ASR**|Xiaoxue Gao et.al.|[2411.09220](http://arxiv.org/abs/2411.09220)|null|
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama et.al.|[2411.06968](http://arxiv.org/abs/2411.06968)|**[link](https://github.com/YoshikiMas/madeon-asr)**|
@@ -5988,6 +6013,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020](http://arxiv.org/abs/2411.10020)|null|
+|**2024-11-15**|**HistoLens: An LLM-Powered Framework for Multi-Layered Analysis of Historical Texts -- A Case Application of Yantie Lun**|Yifan Zeng et.al.|[2411.09978](http://arxiv.org/abs/2411.09978)|null|
 |**2024-11-13**|**Are Triggers Needed for Document-Level Event Extraction?**|Shaden Shaar et.al.|[2411.08708](http://arxiv.org/abs/2411.08708)|null|
 |**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|**[link](https://github.com/XGenerationLab/M-Schema)**|
 |**2024-11-07**|**Beyond the Numbers: Transparency in Relation Extraction Benchmark Creation and Leaderboards**|Varvara Arzt et.al.|[2411.05224](http://arxiv.org/abs/2411.05224)|null|
@@ -6456,6 +6483,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Bias Unveiled: Investigating Social Bias in LLM-Generated Code**|Lin Ling et.al.|[2411.10351](http://arxiv.org/abs/2411.10351)|null|
+|**2024-11-15**|**Fill in the blanks: Rethinking Interpretability in vision**|Pathirage N. Deelaka et.al.|[2411.10273](http://arxiv.org/abs/2411.10273)|null|
+|**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255](http://arxiv.org/abs/2411.10255)|null|
+|**2024-11-15**|**Let people fail! Exploring the influence of explainable virtual and robotic agents in learning-by-doing tasks**|Marco Matarese et.al.|[2411.10176](http://arxiv.org/abs/2411.10176)|null|
+|**2024-11-14**|**Can Features for Phishing URL Detection Be Trusted Across Diverse Datasets? A Case Study with Explainable AI**|Maraz Mia et.al.|[2411.09813](http://arxiv.org/abs/2411.09813)|null|
 |**2024-11-13**|**Towards Secure Intelligent O-RAN Architecture: Vulnerabilities, Threats and Promising Technical Solutions using LLMs**|Mojdeh Karbalaee Motalleb et.al.|[2411.08640](http://arxiv.org/abs/2411.08640)|null|
 |**2024-11-12**|**An Explainable Machine Learning Approach for Age and Gender Estimation in Living Individuals Using Dental Biometrics**|Mohsin Ali et.al.|[2411.08195](http://arxiv.org/abs/2411.08195)|null|
 |**2024-11-12**|**A Survey on Adversarial Machine Learning for Code Data: Realistic Threats, Countermeasures, and Interpretations**|Yulong Yang et.al.|[2411.07597](http://arxiv.org/abs/2411.07597)|null|
