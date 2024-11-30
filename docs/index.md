@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.29
+## Updated on 2024.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -2069,7 +2069,7 @@ layout: default
 |**2024-11-25**|**Transparent Neighborhood Approximation for Text Classifier Explanation**|Yi Cai et.al.|[2411.16251](http://arxiv.org/abs/2411.16251)|null|
 |**2024-11-24**|**Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown**|Lifu Tu et.al.|[2411.15993](http://arxiv.org/abs/2411.15993)|null|
 |**2024-11-24**|**Development of Pre-Trained Transformer-based Models for the Nepali Language**|Prajwal Thapa et.al.|[2411.15734](http://arxiv.org/abs/2411.15734)|null|
-|**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|null|
+|**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|**[link](https://github.com/CSUBioGroup/MolMetaLM)**|
 |**2024-11-23**|**Improving Factuality of 3D Brain MRI Report Generation with Paired Image-domain Retrieval and Text-domain Augmentation**|Junhyeok Lee et.al.|[2411.15490](http://arxiv.org/abs/2411.15490)|null|
 |**2024-11-22**|**AnyText2: Visual Text Generation and Editing With Customizable Attributes**|Yuxiang Tuo et.al.|[2411.15245](http://arxiv.org/abs/2411.15245)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
@@ -2659,7 +2659,7 @@ layout: default
 |**2024-11-27**|**Delineating Feminist Studies through bibliometric analysis**|Natsumi S. Shokida et.al.|[2411.18306](http://arxiv.org/abs/2411.18306)|null|
 |**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
 |**2024-11-27**|**The Rn-index: a more accurate variant of the Rk-index**|Alonso Rodriguez-Navarro et.al.|[2411.18161](http://arxiv.org/abs/2411.18161)|null|
-|**2024-11-27**|**DuMapper: Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps**|Miao Fan et.al.|[2411.18073](http://arxiv.org/abs/2411.18073)|null|
+|**2024-11-27**|**DuMapper: Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps**|Miao Fan et.al.|[2411.18073](http://arxiv.org/abs/2411.18073)|**[link](https://github.com/PaddlePaddle/Research)**|
 |**2024-11-27**|**Overview of TREC 2024 Biomedical Generative Retrieval (BioGen) Track**|Deepak Gupta et.al.|[2411.18069](http://arxiv.org/abs/2411.18069)|null|
 |**2024-11-26**|**LongKey: Keyphrase Extraction for Long Documents**|Jeovane Honorio Alves et.al.|[2411.17863](http://arxiv.org/abs/2411.17863)|**[link](https://github.com/jeohalves/longkey)**|
 |**2024-11-26**|**Automating Chapter-Level Classification for Electronic Theses and Dissertations**|Bipasha Banerjee et.al.|[2411.17614](http://arxiv.org/abs/2411.17614)|null|
