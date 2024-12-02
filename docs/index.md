@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -896,7 +896,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation**|T. G. D. K. Sumanathilaka et.al.|[2411.18337](http://arxiv.org/abs/2411.18337)|null|
-|**2024-11-27**|**Learning for Long-Horizon Planning via Neuro-Symbolic Abductive Imitation**|Jie-Jing Shao et.al.|[2411.18201](http://arxiv.org/abs/2411.18201)|null|
+|**2024-11-27**|**Learning for Long-Horizon Planning via Neuro-Symbolic Abductive Imitation**|Jie-Jing Shao et.al.|[2411.18201](http://arxiv.org/abs/2411.18201)|**[link](https://github.com/hoar012/abil-kdd-2025)**|
 |**2024-11-27**|**SentiXRL: An advanced large language Model Framework for Multilingual Fine-Grained Emotion Classification in Complex Text Environment**|Jie Wang et.al.|[2411.18162](http://arxiv.org/abs/2411.18162)|null|
 |**2024-11-27**|**Generative Semantic Communication for Joint Image Transmission and Segmentation**|Weiwen Yuan et.al.|[2411.18005](http://arxiv.org/abs/2411.18005)|null|
 |**2024-11-26**|**Object-centric proto-symbolic behavioural reasoning from pixels**|Ruben van Bergen et.al.|[2411.17438](http://arxiv.org/abs/2411.17438)|**[link](https://github.com/neuro-ai-robotics/OBR)**|
@@ -4221,7 +4221,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**Perturbation Ontology based Graph Attention Networks**|Yichen Wang et.al.|[2411.18520](http://arxiv.org/abs/2411.18520)|null|
-|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|null|
+|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|**[link](https://github.com/lascavana/objvalprediction)**|
 |**2024-11-27**|**Abductive Symbolic Solver on Abstraction and Reasoning Corpus**|Mintaek Lim et.al.|[2411.18158](http://arxiv.org/abs/2411.18158)|null|
 |**2024-11-27**|**Online Knowledge Integration for 3D Semantic Mapping: A Survey**|Felix Igelbrink et.al.|[2411.18147](http://arxiv.org/abs/2411.18147)|null|
 |**2024-11-27**|**Causal and Local Correlations Based Network for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.18008](http://arxiv.org/abs/2411.18008)|null|
@@ -6792,7 +6792,7 @@ layout: default
 |**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645](http://arxiv.org/abs/2411.17645)|null|
 |**2024-11-25**|**Explainable AI Approach using Near Misses Analysis**|Eran Kaufman et.al.|[2411.16895](http://arxiv.org/abs/2411.16895)|null|
 |**2024-11-22**|**A Brief Summary of Explanatory Virtues**|Ingrid Zukerman et.al.|[2411.16709](http://arxiv.org/abs/2411.16709)|null|
-|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
 |**2024-11-22**|**Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations**|Afrah Fareaa et.al.|[2411.15111](http://arxiv.org/abs/2411.15111)|**[link](https://github.com/afrah/pinn_learnable_activation)**|
 |**2024-11-21**|**BERT-Based Approach for Automating Course Articulation Matrix Construction with Explainable AI**|Natenaile Asmamaw Shiferaw et.al.|[2411.14254](http://arxiv.org/abs/2411.14254)|**[link](https://github.com/natenaile/bert-based-approach-for-automating-course-articulation-matrix-construction-with-explainable-ai)**|
 |**2024-11-21**|**Deep Learning Approach for Enhancing Oral Squamous Cell Carcinoma with LIME Explainable AI Technique**|Samiha Islam et.al.|[2411.14184](http://arxiv.org/abs/2411.14184)|null|
