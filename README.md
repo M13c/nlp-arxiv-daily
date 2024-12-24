@@ -1,4 +1,4 @@
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|null|
 |**2024-12-12**|**Word Sense Linking: Disambiguating Outside the Sandbox**|Andrei Stefan Bejgu et.al.|[2412.09370](http://arxiv.org/abs/2412.09370)|null|
 |**2024-12-15**|**Large Concept Models: Language Modeling in a Sentence Representation Space**|LCM team et.al.|[2412.08821](http://arxiv.org/abs/2412.08821)|**[link](https://github.com/facebookresearch/large_concept_model)**|
 |**2024-11-28**|**USTCCTSU at SemEval-2024 Task 1: Reducing Anisotropy for Cross-lingual Semantic Textual Relatedness Task**|Jianjian Li et.al.|[2411.18990](http://arxiv.org/abs/2411.18990)|null|
@@ -79,12 +80,15 @@
 |**2024-02-22**|**2D Matryoshka Sentence Embeddings**|Xianming Li et.al.|[2402.14776](http://arxiv.org/abs/2402.14776)|null|
 |**2024-02-20**|**Enhancing Modern Supervised Word Sense Disambiguation Models by Semantic Lexical Resources**|Stefano Melacci et.al.|[2402.13302](http://arxiv.org/abs/2402.13302)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Text Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900](http://arxiv.org/abs/2412.15900)|null|
+|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|null|
+|**2024-12-19**|**Time Will Tell: Timing Side Channels via Output Token Count in Large Language Models**|Tianchen Zhang et.al.|[2412.15431](http://arxiv.org/abs/2412.15431)|null|
 |**2024-12-19**|**DS $^2$ -ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis**|Hongling Xu et.al.|[2412.14849](http://arxiv.org/abs/2412.14849)|**[link](https://github.com/behappyplz/ds2-absa)**|
 |**2024-12-19**|**Moving Beyond LDA: A Comparison of Unsupervised Topic Modelling Techniques for Qualitative Data Analysis of Online Communities**|Amandeep Kaur et.al.|[2412.14486](http://arxiv.org/abs/2412.14486)|null|
 |**2024-12-19**|**Graph-Structured Topic Modeling for Documents with Spatial or Covariate Dependencies**|Yeo Jin Jung et.al.|[2412.14477](http://arxiv.org/abs/2412.14477)|**[link](https://github.com/yeojin-jung/gplsi)**|
@@ -794,16 +798,17 @@
 |**2024-03-26**|**Neural Multimodal Topic Modeling: A Comprehensive Evaluation**|Felipe González-Pizarro et.al.|[2403.17308](http://arxiv.org/abs/2403.17308)|**[link](https://github.com/gonzalezf/multimodal_neural_topic_modeling)**|
 |**2024-03-26**|**HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification**|He Zhu et.al.|[2403.17307](http://arxiv.org/abs/2403.17307)|**[link](https://github.com/rooooyy/hill)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Machine Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**The First Multilingual Model For The Detection of Suicide Texts**|Rodolfo Zevallos et.al.|[2412.15498](http://arxiv.org/abs/2412.15498)|null|
 |**2024-12-18**|**Understanding and Analyzing Model Robustness and Knowledge-Transfer in Multilingual Neural Machine Translation using TX-Ray**|Vageesh Saxena et.al.|[2412.13881](http://arxiv.org/abs/2412.13881)|null|
 |**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|**[link](https://github.com/ryujimorita/tokyo_whisperers)**|
-|**2024-12-13**|**A Comparative Study of LLMs, NMT Models, and Their Combination in Persian-English Idiom Translation**|Sara Rezaeimanesh et.al.|[2412.09993](http://arxiv.org/abs/2412.09993)|null|
-|**2024-12-12**|**Text Generation Models for Luxembourgish with Limited Data: A Balanced Multilingual Strategy**|Alistair Plum et.al.|[2412.09415](http://arxiv.org/abs/2412.09415)|null|
+|**2024-12-13**|**A Comparative Study of LLMs, NMT Models, and Their Combination in Persian-English Idiom Translation**|Sara Rezaeimanesh et.al.|[2412.09993](http://arxiv.org/abs/2412.09993)|**[link](https://github.com/sara-rezaeimanesh/idiom_translation)**|
+|**2024-12-20**|**Text Generation Models for Luxembourgish with Limited Data: A Balanced Multilingual Strategy**|Alistair Plum et.al.|[2412.09415](http://arxiv.org/abs/2412.09415)|null|
 |**2024-12-12**|**Shiksha: A Technical Domain focused Translation Dataset and Model for Indian Languages**|Advait Joglekar et.al.|[2412.09025](http://arxiv.org/abs/2412.09025)|null|
 |**2024-12-11**|**Multi-perspective Alignment for Increasing Naturalness in Neural Machine Translation**|Huiyuan Lai et.al.|[2412.08473](http://arxiv.org/abs/2412.08473)|null|
 |**2024-12-11**|**Filipino Benchmarks for Measuring Sexist and Homophobic Bias in Multilingual Language Models from Southeast Asia**|Lance Calvin Lim Gamboa et.al.|[2412.07303](http://arxiv.org/abs/2412.07303)|**[link](https://github.com/gamboalance/filipino_bias_benchmarks)**|
@@ -1008,12 +1013,17 @@
 |**2024-03-20**|**Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning**|Shivam Ratnakant Mhaskar et.al.|[2403.15469](http://arxiv.org/abs/2403.15469)|null|
 |**2024-03-19**|**Self-generated Replay Memories for Continual Neural Machine Translation**|Michele Resta et.al.|[2403.13130](http://arxiv.org/abs/2403.13130)|**[link](https://github.com/m-resta/sg-rep)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Question Answering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
+|**2024-12-20**|**Enriching Social Science Research via Survey Item Linking**|Tornike Tsereteli et.al.|[2412.15831](http://arxiv.org/abs/2412.15831)|**[link](https://github.com/e-tornike/sil)**|
+|**2024-12-20**|**Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks**|Brian J Chan et.al.|[2412.15605](http://arxiv.org/abs/2412.15605)|null|
+|**2024-12-20**|**To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models**|Jessica Y. Bo et.al.|[2412.15584](http://arxiv.org/abs/2412.15584)|null|
+|**2024-12-19**|**Self-Evolution Knowledge Distillation for LLM-based Machine Translation**|Yuncheng Song et.al.|[2412.15303](http://arxiv.org/abs/2412.15303)|null|
 |**2024-12-19**|**Face the Facts! Evaluating RAG-based Fact-checking Pipelines in Realistic Settings**|Daniel Russo et.al.|[2412.15189](http://arxiv.org/abs/2412.15189)|**[link](https://github.com/drusso98/face-the-facts)**|
 |**2024-12-19**|**Why We Build Local Large Language Models: An Observational Analysis from 35 Japanese and Multilingual LLMs**|Koshiro Saito et.al.|[2412.14471](http://arxiv.org/abs/2412.14471)|null|
 |**2024-12-18**|**A Cognitive Ideation Support Framework using IBM Watson Services**|Samaa Elnagar et.al.|[2412.14025](http://arxiv.org/abs/2412.14025)|null|
@@ -1763,12 +1773,19 @@
 |**2024-03-27**|**Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**|Zhixin Guo et.al.|[2403.18306](http://arxiv.org/abs/2403.18306)|null|
 |**2024-03-26**|**GPTs and Language Barrier: A Cross-Lingual Legal QA Examination**|Ha-Thanh Nguyen et.al.|[2403.18098](http://arxiv.org/abs/2403.18098)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Dialogue Systems
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Data-Centric Improvements for Enhancing Multi-Modal Understanding in Spoken Conversation Modeling**|Maximillian Chen et.al.|[2412.15995](http://arxiv.org/abs/2412.15995)|null|
+|**2024-12-20**|**Exploring the Effects of AI Nonverbal Emotional Cues on Human Decision Certainty in Moral Dilemmas**|Chenyi Zhang et.al.|[2412.15834](http://arxiv.org/abs/2412.15834)|null|
+|**2024-12-20**|**WigglyEyes: Inferring Eye Movements from Keypress Data**|Yujun Zhu et.al.|[2412.15669](http://arxiv.org/abs/2412.15669)|null|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
+|**2024-12-20**|**Random Batch Method with Momentum Correction**|Yanshun Zhao et.al.|[2412.15581](http://arxiv.org/abs/2412.15581)|null|
+|**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557](http://arxiv.org/abs/2412.15557)|null|
+|**2024-12-19**|**Scaling theory of fading ergodicity**|Rafał Świętek et.al.|[2412.15331](http://arxiv.org/abs/2412.15331)|null|
 |**2024-12-19**|**Broken symmetry solutions in one-dimensional lattice models via many-body perturbation theory**|Matteo Quinzi et.al.|[2412.15020](http://arxiv.org/abs/2412.15020)|null|
 |**2024-12-19**|**Polarized Dust Emission in Arp220: Magnetic Fields in the Core of an Ultraluminous Infrared Galaxy**|David L Clements et.al.|[2412.14770](http://arxiv.org/abs/2412.14770)|null|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|
@@ -2283,12 +2300,13 @@
 |**2024-03-27**|**From Virtual Reality to the Emerging Discipline of Perception Engineering**|Steven M. LaValle et.al.|[2403.18588](http://arxiv.org/abs/2403.18588)|null|
 |**2024-03-27**|**Toward Interactive Regional Understanding in Vision-Large Language Models**|Jungbeom Lee et.al.|[2403.18260](http://arxiv.org/abs/2403.18260)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Text Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|
 |**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127](http://arxiv.org/abs/2412.15127)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
 |**2024-12-19**|**Movie2Story: A framework for understanding videos and telling stories in the form of novel text**|Kangning Li et.al.|[2412.14965](http://arxiv.org/abs/2412.14965)|null|
@@ -2872,7 +2890,7 @@
 |**2024-03-26**|**Automated Report Generation for Lung Cytological Images Using a CNN Vision Classifier and Multiple-Transformer Text Decoders: Preliminary Study**|Atsushi Teramoto et.al.|[2403.18151](http://arxiv.org/abs/2403.18151)|null|
 |**2024-03-26**|**SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation**|Dongqi Pu et.al.|[2403.17768](http://arxiv.org/abs/2403.17768)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Large Language Models
 
@@ -2936,12 +2954,22 @@
 |**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016](http://arxiv.org/abs/2402.19016)|null|
 |**2024-02-27**|**SequentialAttention++ for Block Sparsification: Differentiable Pruning Meets Combinatorial Optimization**|Taisuke Yasuda et.al.|[2402.17902](http://arxiv.org/abs/2402.17902)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Information Retrieval
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
+|**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
+|**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957](http://arxiv.org/abs/2412.15957)|null|
+|**2024-12-20**|**Bi-directional Mapping of Morphology Metrics and 3D City Blocks for Enhanced Characterization and Generation of Urban Form**|Chenyi Cai et.al.|[2412.15801](http://arxiv.org/abs/2412.15801)|null|
+|**2024-12-20**|**ASPIRE: Assistive System for Performance Evaluation in IR**|Georgios Peikos et.al.|[2412.15759](http://arxiv.org/abs/2412.15759)|**[link](https://github.com/giorgospeikos/aspire)**|
+|**2024-12-20**|**Music Genre Classification: Ensemble Learning with Subcomponents-level Attention**|Yichen Liu et.al.|[2412.15602](http://arxiv.org/abs/2412.15602)|null|
+|**2024-12-20**|**ADEQA: A Question Answer based approach for joint ADE-Suspect Extraction using Sequence-To-Sequence Transformers**|Vinayak Arannil et.al.|[2412.15510](http://arxiv.org/abs/2412.15510)|null|
+|**2024-12-20**|**PolySmart and VIREO @ TRECVid 2024 Ad-hoc Video Search**|Jiaxin Wu et.al.|[2412.15494](http://arxiv.org/abs/2412.15494)|null|
+|**2024-12-19**|**A Retrieval-Augmented Generation Framework for Academic Literature Navigation in Data Science**|Ahmet Yasin Aytar et.al.|[2412.15404](http://arxiv.org/abs/2412.15404)|null|
+|**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
 |**2024-12-19**|**Nano-ESG: Extracting Corporate Sustainability Information from News Articles**|Fabian Billert et.al.|[2412.15093](http://arxiv.org/abs/2412.15093)|**[link](https://github.com/bailefan/nano-esg)**|
 |**2024-12-19**|**DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation**|Hourun Li et.al.|[2412.15005](http://arxiv.org/abs/2412.15005)|null|
 |**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|**[link](https://github.com/kennethorq/smore)**|
@@ -4530,7 +4558,7 @@
 |**2024-03-28**|**Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach**|Daniele Malitesta et.al.|[2403.19841](http://arxiv.org/abs/2403.19841)|null|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Sentiment Analysis
 
@@ -4653,12 +4681,22 @@
 |**2024-03-10**|**Large Language Models on Fine-grained Emotion Detection Dataset with Data Augmentation and Transfer Learning**|Kaipeng Wang et.al.|[2403.06108](http://arxiv.org/abs/2403.06108)|null|
 |**2024-03-09**|**Robust Emotion Recognition in Context Debiasing**|Dingkang Yang et.al.|[2403.05963](http://arxiv.org/abs/2403.05963)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Knowledge Graphs and Reasoning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
+|**2024-12-20**|**Astrometric constraints on stochastic gravitational wave background with neural networks**|Marienza Caldarola et.al.|[2412.15879](http://arxiv.org/abs/2412.15879)|null|
+|**2024-12-20**|**SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs**|Shuai Wang et.al.|[2412.15829](http://arxiv.org/abs/2412.15829)|null|
+|**2024-12-20**|**S $^2$ DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822](http://arxiv.org/abs/2412.15822)|null|
+|**2024-12-20**|**GraphSeqLM: A Unified Graph Language Framework for Omic Graph Learning**|Heming Zhang et.al.|[2412.15790](http://arxiv.org/abs/2412.15790)|null|
+|**2024-12-20**|**Prompt-based Unifying Inference Attack on Graph Neural Networks**|Yuecen Wei et.al.|[2412.15735](http://arxiv.org/abs/2412.15735)|**[link](https://github.com/ringbdstack/proia)**|
+|**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589](http://arxiv.org/abs/2412.15589)|null|
+|**2024-12-20**|**MORTAR: Metamorphic Multi-turn Testing for LLM-based Dialogue Systems**|Guoxiang Guo et.al.|[2412.15557](http://arxiv.org/abs/2412.15557)|null|
+|**2024-12-19**|**SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval**|Aakash Mahalingam et.al.|[2412.15443](http://arxiv.org/abs/2412.15443)|null|
+|**2024-12-19**|**Investigating Relational State Abstraction in Collaborative MARL**|Sharlin Utke et.al.|[2412.15388](http://arxiv.org/abs/2412.15388)|**[link](https://github.com/gmontana/collaborativepickandplaceenv)**|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063](http://arxiv.org/abs/2412.15063)|null|
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
 |**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801](http://arxiv.org/abs/2412.14801)|null|
@@ -6207,7 +6245,7 @@
 |**2024-03-28**|**A Review of Graph Neural Networks in Epidemic Modeling**|Zewen Liu et.al.|[2403.19852](http://arxiv.org/abs/2403.19852)|null|
 |**2024-03-28**|**Gegenbauer Graph Neural Networks for Time-varying Signal Reconstruction**|Jhon A. Castro-Correa et.al.|[2403.19800](http://arxiv.org/abs/2403.19800)|**[link](https://github.com/jcastro295/gegengnn)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Text Summarization
 
@@ -6300,18 +6338,22 @@
 |**2024-02-29**|**Reducing Hallucinations in Entity Abstract Summarization with Facts-Template Decomposition**|Fangwei Zhu et.al.|[2402.18873](http://arxiv.org/abs/2402.18873)|**[link](https://github.com/solitaryzero/slotsum)**|
 |**2024-02-27**|**SKT5SciSumm -- A Hybrid Generative Approach for Multi-Document Scientific Summarization**|Huy Quoc To et.al.|[2402.17311](http://arxiv.org/abs/2402.17311)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## speech recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**MathSpeech: Leveraging Small LMs for Accurate Conversion in Mathematical Speech-to-Formula**|Sieun Hyeon et.al.|[2412.15655](http://arxiv.org/abs/2412.15655)|**[link](https://github.com/hyeonsieun/mathspeech)**|
+|**2024-12-20**|**TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch**|Xingchen Song et.al.|[2412.15622](http://arxiv.org/abs/2412.15622)|null|
+|**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
+|**2024-12-19**|**LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration**|Sangmin Lee et.al.|[2412.15299](http://arxiv.org/abs/2412.15299)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-17**|**Streaming Keyword Spotting Boosted by Cross-layer Discrimination Consistency**|Yu Xi et.al.|[2412.12635](http://arxiv.org/abs/2412.12635)|null|
 |**2024-12-11**|**Greek2MathTex: A Greek Speech-to-Text Framework for LaTeX Equations Generation**|Evangelia Gkritzali et.al.|[2412.12167](http://arxiv.org/abs/2412.12167)|null|
 |**2024-12-17**|**Speak & Improve Corpus 2025: an L2 English Speech Corpus for Language Assessment and Feedback**|Kate Knill et.al.|[2412.11986](http://arxiv.org/abs/2412.11986)|null|
 |**2024-12-17**|**Speak & Improve Challenge 2025: Tasks and Baseline Systems**|Mengjie Qian et.al.|[2412.11985](http://arxiv.org/abs/2412.11985)|null|
-|**2024-12-16**|**Towards a Speech Foundation Model for Singapore and Beyond**|Muhammad Huzaifah et.al.|[2412.11538](http://arxiv.org/abs/2412.11538)|null|
+|**2024-12-20**|**MERaLiON-SpeechEncoder: Towards a Speech Foundation Model for Singapore and Beyond**|Muhammad Huzaifah et.al.|[2412.11538](http://arxiv.org/abs/2412.11538)|null|
 |**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu et.al.|[2412.11185](http://arxiv.org/abs/2412.11185)|null|
 |**2024-12-14**|**Robust Recognition of Persian Isolated Digits in Speech using Deep Neural Network**|Ali Nasr-Esfahani et.al.|[2412.10857](http://arxiv.org/abs/2412.10857)|null|
 |**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|**[link](https://github.com/ryujimorita/tokyo_whisperers)**|
@@ -6864,12 +6906,13 @@
 |**2024-03-26**|**Extracting Biomedical Entities from Noisy Audio Transcripts**|Nima Ebadi et.al.|[2403.17363](http://arxiv.org/abs/2403.17363)|null|
 |**2024-03-25**|**Grammatical vs Spelling Error Correction: An Investigation into the Responsiveness of Transformer-based Language Models using BART and MarianMT**|Rohit Raju et.al.|[2403.16655](http://arxiv.org/abs/2403.16655)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Parsing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**A Fusion Approach of Dependency Syntax and Sentiment Polarity for Feature Label Extraction in Commodity Reviews**|Jianfei Xu et.al.|[2412.15610](http://arxiv.org/abs/2412.15610)|null|
 |**2024-12-16**|**Error Diversity Matters: An Error-Resistant Ensemble Method for Unsupervised Dependency Parsing**|Behzad Shayegh et.al.|[2412.11543](http://arxiv.org/abs/2412.11543)|**[link](https://github.com/manga-uofa/ed4udp)**|
 |**2024-12-16**|**Attention with Dependency Parsing Augmentation for Fine-Grained Attribution**|Qiang Ding et.al.|[2412.11404](http://arxiv.org/abs/2412.11404)|null|
 |**2024-12-12**|**Evaluating Pixel Language Models on Non-Standardized Languages**|Alberto Muñoz-Ortiz et.al.|[2412.09084](http://arxiv.org/abs/2412.09084)|null|
@@ -6918,7 +6961,7 @@
 |**2024-02-21**|**Structured Tree Alignment for Evaluation of (Speech) Constituency Parsing**|Freda Shi et.al.|[2402.13433](http://arxiv.org/abs/2402.13433)|**[link](https://github.com/explorerfreda/struct-iou)**|
 |**2024-02-20**|**When Only Time Will Tell: Interpreting How Transformers Process Local Ambiguities Through the Lens of Restart-Incrementality**|Brielen Madureira et.al.|[2402.13113](http://arxiv.org/abs/2402.13113)|**[link](https://github.com/briemadu/restart-inc-ambiguities)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Information Extraction
 
@@ -7293,7 +7336,7 @@
 |**2024-03-25**|**Few-shot Named Entity Recognition via Superposition Concept Discrimination**|Jiawei Chen et.al.|[2403.16463](http://arxiv.org/abs/2403.16463)|**[link](https://github.com/chen700564/supercd)**|
 |**2024-03-24**|**Korean Bio-Medical Corpus (KBMC) for Medical Named Entity Recognition**|Sungjoo Byun et.al.|[2403.16158](http://arxiv.org/abs/2403.16158)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Document Classification
 
@@ -7377,7 +7420,7 @@
 |**2024-03-08**|**Select High-Level Features: Efficient Experts from a Hierarchical Classification Network**|André Kelm et.al.|[2403.05601](http://arxiv.org/abs/2403.05601)|null|
 |**2024-03-05**|**Equilibria in Two-Stage Facility Location with Atomic Clients**|Simon Krogmann et.al.|[2403.03114](http://arxiv.org/abs/2403.03114)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Cross-lingual Processing
 
@@ -7386,7 +7429,7 @@
 |**2024-12-17**|**Adaptations of AI models for querying the LandMatrix database in natural language**|Fatiha Ait Kbir et.al.|[2412.12961](http://arxiv.org/abs/2412.12961)|**[link](https://github.com/tetis-nlp/landmatrix-graphql-python)**|
 |**2024-12-17**|**Train More Parameters But Mind Their Placement: Insights into Language Adaptation with PEFT**|Jenny Kunz et.al.|[2412.12674](http://arxiv.org/abs/2412.12674)|**[link](https://github.com/jekunz/peft-la)**|
 |**2024-12-10**|**ChocoLlama: Lessons Learned From Teaching Llamas Dutch**|Matthieu Meeus et.al.|[2412.07633](http://arxiv.org/abs/2412.07633)|null|
-|**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
+|**2024-12-20**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
 |**2024-12-02**|**MuLan: Adapting Multilingual Diffusion Models for Hundreds of Languages with Negligible Cost**|Sen Xing et.al.|[2412.01271](http://arxiv.org/abs/2412.01271)|null|
 |**2024-12-01**|**EventGPT: Event Stream Understanding with Multimodal Large Language Models**|Shaoyu Liu et.al.|[2412.00832](http://arxiv.org/abs/2412.00832)|null|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
@@ -7465,12 +7508,18 @@
 |**2024-02-20**|**The Hidden Space of Transformer Language Adapters**|Jesujoba O. Alabi et.al.|[2402.13137](http://arxiv.org/abs/2402.13137)|null|
 |**2024-02-18**|**LEIA: Facilitating Cross-Lingual Knowledge Transfer in Language Models with Entity-based Data Augmentation**|Ikuya Yamada et.al.|[2402.11485](http://arxiv.org/abs/2402.11485)|**[link](https://github.com/studio-ousia/leia)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Ethics and Bias
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis**|Haowen Xu et.al.|[2412.16098](http://arxiv.org/abs/2412.16098)|null|
+|**2024-12-20**|**Choose Your Explanation: A Comparison of SHAP and GradCAM in Human Activity Recognition**|Felix Tempel et.al.|[2412.16003](http://arxiv.org/abs/2412.16003)|**[link](https://github.com/deepinmotion/shapgcn)**|
+|**2024-12-20**|**Data Preparation for Fairness-Performance Trade-Offs: A Practitioner-Friendly Alternative?**|Gianmario Voria et.al.|[2412.15920](http://arxiv.org/abs/2412.15920)|null|
+|**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748](http://arxiv.org/abs/2412.15748)|null|
+|**2024-12-20**|**Improved Forecasts of Global Extreme Marine Heatwaves Through a Physics-guided Data-driven Approach**|Ruiqi Shu et.al.|[2412.15532](http://arxiv.org/abs/2412.15532)|null|
+|**2024-12-19**|**Making Transparency Advocates: An Educational Approach Towards Better Algorithmic Transparency in Practice**|Andrew Bell et.al.|[2412.15363](http://arxiv.org/abs/2412.15363)|null|
 |**2024-12-19**|**Towards Friendly AI: A Comprehensive Review and New Perspectives on Human-AI Alignment**|Qiyang Sun et.al.|[2412.15114](http://arxiv.org/abs/2412.15114)|null|
 |**2024-12-19**|**Large-scale School Mapping using Weakly Supervised Deep Learning for Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870](http://arxiv.org/abs/2412.14870)|**[link](https://github.com/unicef/giga-global-school-mapping)**|
 |**2024-12-19**|**AI-Powered Intracranial Hemorrhage Detection: A Co-Scale Convolutional Attention Model with Uncertainty-Based Fuzzy Integral Operator and Feature Screening**|Mehdi Hosseini Chagahi et.al.|[2412.14869](http://arxiv.org/abs/2412.14869)|null|
@@ -7944,12 +7993,13 @@
 |**2024-03-25**|**Enhancing UAV Security Through Zero Trust Architecture: An Advanced Deep Learning and Explainable AI Analysis**|Ekramul Haque et.al.|[2403.17093](http://arxiv.org/abs/2403.17093)|null|
 |**2024-03-25**|**XAIport: A Service Framework for the Early Adoption of XAI in AI Model Development**|Zerui Wang et.al.|[2403.16858](http://arxiv.org/abs/2403.16858)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Language Resources and Tools
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search**|Edward Kim et.al.|[2412.15256](http://arxiv.org/abs/2412.15256)|null|
 |**2024-12-19**|**From Human Annotation to LLMs: SILICON Annotation Workflow for Management Research**|Xiang Cheng et.al.|[2412.14461](http://arxiv.org/abs/2412.14461)|null|
 |**2024-12-11**|**Rethinking Comprehensive Benchmark for Chart Understanding: A Perspective from Scientific Literature**|Lingdong Shen et.al.|[2412.12150](http://arxiv.org/abs/2412.12150)|null|
 |**2024-12-13**|**TACOMORE: Leveraging the Potential of LLMs in Corpus-based Discourse Analysis with Prompt Engineering**|Bingru Li et.al.|[2412.10139](http://arxiv.org/abs/2412.10139)|null|
@@ -8117,5 +8167,5 @@
 |**2024-03-19**|**Building Brain Tumor Segmentation Networks with User-Assisted Filter Estimation and Selection**|Matheus A. Cerqueira et.al.|[2403.12748](http://arxiv.org/abs/2403.12748)|null|
 |**2024-03-18**|**TnT-LLM: Text Mining at Scale with Large Language Models**|Mengting Wan et.al.|[2403.12173](http://arxiv.org/abs/2403.12173)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
