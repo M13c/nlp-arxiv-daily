@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -2916,7 +2916,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
-|**2024-12-11**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216](http://arxiv.org/abs/2412.07216)|**[link](https://github.com/sunnyxuejj/FedLPS)**|
+|**2024-12-11**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216](http://arxiv.org/abs/2412.07216)|null|
 |**2024-12-10**|**MoE-CAP: Cost-Accuracy-Performance Benchmarking for Mixture-of-Experts Systems**|Yao Fu et.al.|[2412.07067](http://arxiv.org/abs/2412.07067)|null|
 |**2024-12-06**|**UniScene: Unified Occupancy-centric Driving Scene Generation**|Bohan Li et.al.|[2412.05435](http://arxiv.org/abs/2412.05435)|null|
 |**2024-12-03**|**Recovering implicit physics model under real-world constraints**|Ayan Banerjee et.al.|[2412.02215](http://arxiv.org/abs/2412.02215)|null|
@@ -4724,7 +4724,7 @@ layout: default
 |**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443](http://arxiv.org/abs/2412.18443)|null|
 |**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419](http://arxiv.org/abs/2412.18419)|null|
 |**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370](http://arxiv.org/abs/2412.18370)|**[link](https://github.com/bdi-lab/monti)**|
-|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|null|
+|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|**[link](https://github.com/HRI-EU/ProMis)**|
 |**2024-12-24**|**Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation**|Sheng Xiang et.al.|[2412.18287](http://arxiv.org/abs/2412.18287)|**[link](https://github.com/ai4risk/antifraud)**|
 |**2024-12-24**|**NoiseHGNN: Synthesized Similarity Graph-Based Neural Network For Noised Heterogeneous Graph Representation Learning**|Xiong Zhang et.al.|[2412.18267](http://arxiv.org/abs/2412.18267)|**[link](https://github.com/kg-cc/noisehgnn)**|
 |**2024-12-24**|**Free the Design Space of Equivariant Graph Neural Networks: High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263](http://arxiv.org/abs/2412.18263)|null|
