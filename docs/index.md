@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -65,6 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**A 5G-Edge Architecture for Computational Offloading of Computer Vision Applications**|Marcelo V. B. da Silva et.al.|[2501.04267](http://arxiv.org/abs/2501.04267)|null|
 |**2025-01-07**|**BERTopic for Topic Modeling of Hindi Short Texts: A Comparative Study**|Atharva Mutsaddi et.al.|[2501.03843](http://arxiv.org/abs/2501.03843)|null|
 |**2025-01-07**|**Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-modal Consistency in Visual-Stimulated Narratives**|Jinchao Li et.al.|[2501.03727](http://arxiv.org/abs/2501.03727)|null|
 |**2025-01-06**|**Graph-based Retrieval Augmented Generation for Dynamic Few-shot Text Classification**|Yubo Wang et.al.|[2501.02844](http://arxiv.org/abs/2501.02844)|null|
@@ -1054,13 +1055,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-07**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**Hidden Entity Detection from GitHub Leveraging Large Language Models**|Lu Gan et.al.|[2501.04455](http://arxiv.org/abs/2501.04455)|**[link](https://github.com/louisegan514/hidden-entity-detection-from-github-leveraging-llms)**|
+|**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|
 |**2025-01-06**|**FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2501.02968](http://arxiv.org/abs/2501.02968)|null|
 |**2025-01-05**|**TreeMatch: A Fully Unsupervised WSD System Using Dependency Knowledge on a Specific Domain**|Andrew Tran et.al.|[2501.02546](http://arxiv.org/abs/2501.02546)|null|
 |**2025-01-05**|**The Explore of Knowledge Management Dynamic Capabilities, AI-Driven Knowledge Sharing, Knowledge-Based Organizational Support, and Organizational Learning on Job Performance: Evidence from Chinese Technological Companies**|Jun Cui et.al.|[2501.02468](http://arxiv.org/abs/2501.02468)|null|
 |**2025-01-04**|**Predicting two-dimensional spatiotemporal chaotic patterns with optimized high-dimensional hybrid reservoir computing**|Tamon Nakano Sebastian Baur Christoph Räth et.al.|[2501.02369](http://arxiv.org/abs/2501.02369)|null|
 |**2025-01-04**|**Learning Evolution via Optimization Knowledge Adaptation**|Chao Wang et.al.|[2501.02200](http://arxiv.org/abs/2501.02200)|null|
-|**2025-01-03**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
+|**2025-01-08**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-02**|**Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion**|Qiyuan He et.al.|[2501.01246](http://arxiv.org/abs/2501.01246)|null|
 |**2025-01-02**|**Reasoning based on symbolic and parametric knowledge bases: a survey**|Mayi Xu et.al.|[2501.01030](http://arxiv.org/abs/2501.01030)|null|
@@ -1860,6 +1863,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Statistical estimation of a mean-field FitzHugh-Nagumo model**|Claudia Fonte Sanchez et.al.|[2501.04257](http://arxiv.org/abs/2501.04257)|null|
 |**2025-01-07**|**Supervised and unsupervised learning the many-body critical phase, phase transitions and critical exponents in disordered quantum systems**|Aamna Ahmed et.al.|[2501.03981](http://arxiv.org/abs/2501.03981)|null|
 |**2025-01-07**|**Rendezfood: A Design Case Study of a Conversational Location-based Approach in Restaurants**|Philip Weber et.al.|[2501.03862](http://arxiv.org/abs/2501.03862)|null|
 |**2025-01-06**|**Designing Telepresence Robots to Support Place Attachment**|Yaxin Hu et.al.|[2501.03420](http://arxiv.org/abs/2501.03420)|null|
@@ -2416,6 +2420,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation**|Alireza Salemi et.al.|[2501.04167](http://arxiv.org/abs/2501.04167)|null|
+|**2025-01-03**|**A Survey on Large Language Models with some Insights on their Capabilities and Limitations**|Andrea Matarazzo et.al.|[2501.04040](http://arxiv.org/abs/2501.04040)|null|
 |**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952](http://arxiv.org/abs/2501.03952)|null|
 |**2025-01-07**|**Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation**|Chris Samarinas et.al.|[2501.03545](http://arxiv.org/abs/2501.03545)|null|
 |**2025-01-07**|**Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction**|Ying-Ting Yeh et.al.|[2501.03456](http://arxiv.org/abs/2501.03456)|null|
@@ -3034,6 +3040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Exact recovery in the double sparse model: sufficient and necessary signal conditions**|Shixiang Liu et.al.|[2501.04551](http://arxiv.org/abs/2501.04551)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
 |**2024-12-11**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216](http://arxiv.org/abs/2412.07216)|**[link](https://github.com/sunnyxuejj/FedLPS-main)**|
 |**2024-12-10**|**MoE-CAP: Cost-Accuracy-Performance Benchmarking for Mixture-of-Experts Systems**|Yao Fu et.al.|[2412.07067](http://arxiv.org/abs/2412.07067)|null|
@@ -3096,6 +3103,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
+|**2025-01-08**|**Evaluating Interval-based Tokenization for Pitch Representation in Symbolic Music Analysis**|Dinh-Viet-Toan Le et.al.|[2501.04630](http://arxiv.org/abs/2501.04630)|null|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**A Closer Look on Gender Stereotypes in Movie Recommender Systems and Their Implications with Privacy**|Falguni Roy et.al.|[2501.04420](http://arxiv.org/abs/2501.04420)|**[link](https://github.com/fr-iit/gsmrs)**|
+|**2025-01-08**|**User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation**|Krisztian Balog et.al.|[2501.04410](http://arxiv.org/abs/2501.04410)|null|
+|**2025-01-08**|**An innovative data collection method to eliminate the preprocessing phase in web usage mining**|Ozkan Canay et.al.|[2501.04364](http://arxiv.org/abs/2501.04364)|null|
+|**2025-01-07**|**Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation**|Alireza Salemi et.al.|[2501.04167](http://arxiv.org/abs/2501.04167)|null|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161](http://arxiv.org/abs/2501.04161)|null|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**(De)-Indexing and the Right to be Forgotten**|Salvatore Vilella et.al.|[2501.03989](http://arxiv.org/abs/2501.03989)|null|
 |**2025-01-07**|**Towards Reliable Testing for Multiple Information Retrieval System Comparisons**|David Otero et.al.|[2501.03930](http://arxiv.org/abs/2501.03930)|**[link](https://github.com/davidoterof/ecir2025)**|
@@ -4894,6 +4911,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**A Semantic Partitioning Method for Large-Scale Training of Knowledge Graph Embeddings**|Yuhe Bai et.al.|[2501.04613](http://arxiv.org/abs/2501.04613)|**[link](https://github.com/yuhebai/sem-kge)**|
+|**2025-01-08**|**Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report**|Haipeng Ding et.al.|[2501.04570](http://arxiv.org/abs/2501.04570)|null|
+|**2025-01-08**|**TimelineKGQA: A Comprehensive Question-Answer Pair Generator for Temporal Knowledge Graphs**|Qiang Sun et.al.|[2501.04343](http://arxiv.org/abs/2501.04343)|**[link](https://github.com/PascalSun/TimelineKGQA)**|
+|**2025-01-08**|**Dynamic Localisation of Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2501.04239](http://arxiv.org/abs/2501.04239)|null|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161](http://arxiv.org/abs/2501.04161)|null|
 |**2025-01-07**|**Explainable Reinforcement Learning via Temporal Policy Decomposition**|Franco Ruggeri et.al.|[2501.03902](http://arxiv.org/abs/2501.03902)|null|
 |**2025-01-07**|**GraphNeT 2.0 -- A Deep Learning Library for Neutrino Telescopes**|Rasmus F. Ørsøe et.al.|[2501.03817](http://arxiv.org/abs/2501.03817)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765](http://arxiv.org/abs/2501.03765)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
@@ -6621,11 +6643,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Right Label Context in End-to-End Training of Time-Synchronous ASR Models**|Tina Raissi et.al.|[2501.04521](http://arxiv.org/abs/2501.04521)|null|
+|**2025-01-08**|**Phone-purity Guided Discrete Tokens for Dysarthric Speech Recognition**|Huimeng Wang et.al.|[2501.04379](http://arxiv.org/abs/2501.04379)|null|
+|**2025-01-08**|**LipGen: Viseme-Guided Lip Video Generation for Enhancing Visual Speech Recognition**|Bowen Hao et.al.|[2501.04204](http://arxiv.org/abs/2501.04204)|null|
+|**2025-01-03**|**Listening and Seeing Again: Generative Error Correction for Audio-Visual Speech Recognition**|Rui Liu et.al.|[2501.04038](http://arxiv.org/abs/2501.04038)|null|
 |**2025-01-07**|**Universal Speaker Embedding Free Target Speaker Extraction and Personal Voice Activity Detection**|Bang Zeng et.al.|[2501.03612](http://arxiv.org/abs/2501.03612)|null|
 |**2025-01-07**|**Towards a Generalizable Speech Marker for Parkinson's Disease Diagnosis**|Maksim Siniukov et.al.|[2501.03581](http://arxiv.org/abs/2501.03581)|null|
 |**2025-01-07**|**Deep Learning for Pathological Speech: A Survey**|Shakeel A. Sheikh et.al.|[2501.03536](http://arxiv.org/abs/2501.03536)|null|
 |**2025-01-01**|**Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition**|Wei Zhang et.al.|[2501.03257](http://arxiv.org/abs/2501.03257)|null|
-|**2025-01-07**|**Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
+|**2025-01-08**|**Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
 |**2025-01-05**|**Reducing the Gap Between Pretrained Speech Enhancement and Recognition Models Using a Real Speech-Trained Bridging Module**|Zhongjian Cui et.al.|[2501.02452](http://arxiv.org/abs/2501.02452)|null|
 |**2025-01-03**|**Improving Transducer-Based Spoken Language Understanding with Self-Conditioned CTC and Knowledge Transfer**|Vishal Sunder et.al.|[2501.01936](http://arxiv.org/abs/2501.01936)|null|
 |**2025-01-02**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
@@ -7274,6 +7300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Hidden Entity Detection from GitHub Leveraging Large Language Models**|Lu Gan et.al.|[2501.04455](http://arxiv.org/abs/2501.04455)|**[link](https://github.com/louisegan514/hidden-entity-detection-from-github-leveraging-llms)**|
 |**2025-01-07**|**Improving Dialectal Slot and Intent Detection with Auxiliary Tasks: A Multi-Dialectal Bavarian Case Study**|Xaver Maria Krückl et.al.|[2501.03863](http://arxiv.org/abs/2501.03863)|**[link](https://github.com/mainlp/auxtasks-bavarian-sid)**|
 |**2025-01-06**|**GLiREL -- Generalist Model for Zero-Shot Relation Extraction**|Jack Boylan et.al.|[2501.03172](http://arxiv.org/abs/2501.03172)|null|
 |**2025-01-05**|**Prune or Retrain: Optimizing the Vocabulary of Multilingual Models for Estonian**|Aleksei Dorkin et.al.|[2501.02631](http://arxiv.org/abs/2501.02631)|null|
@@ -7838,6 +7865,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology**|Raktim Kumar Mondol et.al.|[2501.04206](http://arxiv.org/abs/2501.04206)|null|
+|**2025-01-07**|**Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**|Jamie Todd et.al.|[2501.04067](http://arxiv.org/abs/2501.04067)|null|
 |**2025-01-07**|**Explainable AI model reveals disease-related mechanisms in single-cell RNA-seq data**|Mohammad Usman et.al.|[2501.03923](http://arxiv.org/abs/2501.03923)|null|
 |**2025-01-07**|**InclusiViz: Visual Analytics of Human Mobility Data for Understanding and Mitigating Urban Segregation**|Yue Yu et.al.|[2501.03594](http://arxiv.org/abs/2501.03594)|null|
 |**2025-01-05**|**From Aleatoric to Epistemic: Exploring Uncertainty Quantification Techniques in Artificial Intelligence**|Tianyang Wang et.al.|[2501.03282](http://arxiv.org/abs/2501.03282)|null|
