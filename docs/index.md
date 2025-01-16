@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -65,6 +65,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification**|Hui Lee et.al.|[2501.08085](http://arxiv.org/abs/2501.08085)|null|
+|**2025-01-14**|**READ: Reinforcement-based Adversarial Learning for Text Classification with Limited Labeled Data**|Rohit Sharma et.al.|[2501.08035](http://arxiv.org/abs/2501.08035)|null|
+|**2025-01-14**|**Exploring Aviation Incident Narratives Using Topic Modeling and Clustering Techniques**|Aziida Nanyonga et.al.|[2501.07924](http://arxiv.org/abs/2501.07924)|null|
+|**2025-01-13**|**Universal Training of Neural Networks to Achieve Bayes Optimal Classification Accuracy**|Mohammadreza Tavasoli Naeini et.al.|[2501.07754](http://arxiv.org/abs/2501.07754)|null|
 |**2025-01-13**|**Extracting Participation in Collective Action from Social Media**|Arianna Pera et.al.|[2501.07368](http://arxiv.org/abs/2501.07368)|null|
 |**2025-01-12**|**Language Fusion for Parameter-Efficient Cross-lingual Transfer**|Philipp Borchert et.al.|[2501.06892](http://arxiv.org/abs/2501.06892)|null|
 |**2025-01-11**|**EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses**|Shireesh Reddy Pyreddy et.al.|[2501.06597](http://arxiv.org/abs/2501.06597)|null|
@@ -1072,6 +1076,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
+|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248](http://arxiv.org/abs/2501.08248)|null|
+|**2025-01-14**|**Specific Aspects of Intellectual Property Management in the Knowledge-Based Economy**|Aurel Mihail Titu et.al.|[2501.08232](http://arxiv.org/abs/2501.08232)|null|
+|**2025-01-14**|**ASTRID -- An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems**|Mohita Chowdhury et.al.|[2501.08208](http://arxiv.org/abs/2501.08208)|null|
+|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168](http://arxiv.org/abs/2501.08168)|null|
+|**2025-01-14**|**Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning**|Haoyu Han et.al.|[2501.07845](http://arxiv.org/abs/2501.07845)|null|
+|**2025-01-14**|**Talk to Right Specialists: Routing and Planning in Multi-agent System for Question Answering**|Feijie Wu et.al.|[2501.07813](http://arxiv.org/abs/2501.07813)|null|
 |**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214](http://arxiv.org/abs/2501.07214)|null|
@@ -1892,6 +1903,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**The FAST Ursa Major cluster HI survey (FUMaS): catalog and HI mass function**|Haiyang Yu et.al.|[2501.07836](http://arxiv.org/abs/2501.07836)|null|
 |**2025-01-13**|**Evaluating Robotic Approach Techniques for the Insertion of a Straight Instrument into a Vitreoretinal Surgery Trocar**|Ross Henry et.al.|[2501.07180](http://arxiv.org/abs/2501.07180)|null|
 |**2025-01-12**|**Interaction-Induced Second-Order Skin Effect**|Wen-Zheng Ling et.al.|[2501.06816](http://arxiv.org/abs/2501.06816)|null|
 |**2025-01-12**|**Measuring the Robustness of Reference-Free Dialogue Evaluation Systems**|Justin Vasselli et.al.|[2501.06728](http://arxiv.org/abs/2501.06728)|**[link](https://github.com/jvasselli/dialogue-metric-robustness)**|
@@ -2455,6 +2467,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**|Abhilasha Ravichander et.al.|[2501.08292](http://arxiv.org/abs/2501.08292)|null|
+|**2025-01-14**|**Investigating Energy Efficiency and Performance Trade-offs in LLM Inference Across Tasks and DVFS Settings**|Paul Joe Maliakel et.al.|[2501.08219](http://arxiv.org/abs/2501.08219)|null|
+|**2025-01-14**|**Consistency of Responses and Continuations Generated by Large Language Models on Social Media**|Wenlu Fan et.al.|[2501.08102](http://arxiv.org/abs/2501.08102)|null|
+|**2025-01-14**|**READ: Reinforcement-based Adversarial Learning for Text Classification with Limited Labeled Data**|Rohit Sharma et.al.|[2501.08035](http://arxiv.org/abs/2501.08035)|null|
+|**2025-01-14**|**Real-time Verification and Refinement of Language Model Text Generation**|Joonho Ko et.al.|[2501.07824](http://arxiv.org/abs/2501.07824)|null|
 |**2025-01-12**|**Why are we living the age of AI applications right now? The long innovation path from AI's birth to a child's bedtime magic**|Tapio Pitkäranta et.al.|[2501.06929](http://arxiv.org/abs/2501.06929)|null|
 |**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
 |**2025-01-11**|**The Magnitude of Categories of Texts Enriched by Language Models**|Tai-Danae Bradley et.al.|[2501.06662](http://arxiv.org/abs/2501.06662)|null|
@@ -3080,6 +3097,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Self-supervised Deep Hyperspectral Inpainting with the Plug and Play and Deep Image Prior Models**|Shuo Li et.al.|[2501.08195](http://arxiv.org/abs/2501.08195)|null|
 |**2025-01-10**|**Random Sparse Lifts: Construction, Analysis and Convergence of finite sparse networks**|David A. R. Robin et.al.|[2501.05930](http://arxiv.org/abs/2501.05930)|null|
 |**2025-01-09**|**Non-asymptotic analysis of the performance of the penalized least trimmed squares in sparse models**|Yijun Zuo et.al.|[2501.04946](http://arxiv.org/abs/2501.04946)|null|
 |**2025-01-08**|**Exact recovery in the double sparse model: sufficient and necessary signal conditions**|Shixiang Liu et.al.|[2501.04551](http://arxiv.org/abs/2501.04551)|null|
@@ -3145,6 +3163,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267](http://arxiv.org/abs/2501.08267)|null|
+|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248](http://arxiv.org/abs/2501.08248)|null|
+|**2025-01-14**|**Unsupervised Query Routing for Retrieval Augmented Generation**|Feiteng Mu et.al.|[2501.07793](http://arxiv.org/abs/2501.07793)|null|
+|**2025-01-13**|**Constructing Set-Compositional and Negated Representations for First-Stage Ranking**|Antonios Minas Krasakis et.al.|[2501.07679](http://arxiv.org/abs/2501.07679)|null|
 |**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
 |**2025-01-13**|**Multimodal semantic retrieval for product search**|Dong Liu et.al.|[2501.07365](http://arxiv.org/abs/2501.07365)|null|
 |**2025-01-13**|**Dataset-Agnostic Recommender Systems**|Tri Kurniawan Wijaya et.al.|[2501.07294](http://arxiv.org/abs/2501.07294)|null|
@@ -4859,6 +4881,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**CG-MER: A Card Game-based Multimodal dataset for Emotion Recognition**|Nessrine Farhat et.al.|[2501.08182](http://arxiv.org/abs/2501.08182)|null|
+|**2025-01-14**|**Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification**|Hui Lee et.al.|[2501.08085](http://arxiv.org/abs/2501.08085)|null|
+|**2025-01-13**|**A Heterogeneous Multimodal Graph Learning Framework for Recognizing User Emotions in Social Networks**|Sree Bhattacharyya et.al.|[2501.07746](http://arxiv.org/abs/2501.07746)|null|
 |**2025-01-13**|**Multi-face emotion detection for effective Human-Robot Interaction**|Mohamed Ala Yahyaoui et.al.|[2501.07213](http://arxiv.org/abs/2501.07213)|null|
 |**2025-01-11**|**A Survey on Spoken Italian Datasets and Corpora**|Marco Giordano et.al.|[2501.06557](http://arxiv.org/abs/2501.06557)|null|
 |**2025-01-05**|**A Frequency-aware Augmentation Network for Mental Disorders Assessment from Audio**|Shuanglin Li et.al.|[2501.02516](http://arxiv.org/abs/2501.02516)|null|
@@ -4984,6 +5009,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**|Wennuo Yang et.al.|[2501.08305](http://arxiv.org/abs/2501.08305)|**[link](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)**|
+|**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120](http://arxiv.org/abs/2501.08120)|null|
+|**2025-01-14**|**Combining imaging and shape features for prediction tasks of Alzheimer's disease classification and brain age regression**|Nairouz Shehata et.al.|[2501.07994](http://arxiv.org/abs/2501.07994)|null|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766](http://arxiv.org/abs/2501.07766)|null|
+|**2025-01-13**|**A Heterogeneous Multimodal Graph Learning Framework for Recognizing User Emotions in Social Networks**|Sree Bhattacharyya et.al.|[2501.07746](http://arxiv.org/abs/2501.07746)|null|
+|**2025-01-13**|**SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models**|Fabien Bernier et.al.|[2501.07639](http://arxiv.org/abs/2501.07639)|null|
 |**2025-01-13**|**Advancing Higgsino Searches by Integrating ML for Boosted Object Tagging and Event Selection**|Rameswar Sahu et.al.|[2501.07491](http://arxiv.org/abs/2501.07491)|null|
 |**2025-01-13**|**TiEBe: A Benchmark for Assessing the Current Knowledge of Large Language Models**|Thales Sales Almeida et.al.|[2501.07482](http://arxiv.org/abs/2501.07482)|null|
 |**2025-01-13**|**An ontology-based description of nano computed tomography measurements in electronic laboratory notebooks: from metadata schema to first user experience**|Fabian Kirchner et.al.|[2501.07398](http://arxiv.org/abs/2501.07398)|null|
@@ -6739,6 +6771,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Loudspeaker Beamforming to Enhance Speech Recognition Performance of Voice Driven Applications**|Dimme de Groot et.al.|[2501.08104](http://arxiv.org/abs/2501.08104)|null|
 |**2025-01-13**|**Joint Automatic Speech Recognition And Structure Learning For Better Speech Understanding**|Jiliang Hu et.al.|[2501.07329](http://arxiv.org/abs/2501.07329)|null|
 |**2025-01-13**|**Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**|Ziyang Ma et.al.|[2501.07246](http://arxiv.org/abs/2501.07246)|null|
 |**2025-01-13**|**AdaCS: Adaptive Normalization for Enhanced Code-Switching ASR**|The Chuong Chu et.al.|[2501.07102](http://arxiv.org/abs/2501.07102)|null|
@@ -7409,6 +7442,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
+|**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267](http://arxiv.org/abs/2501.08267)|null|
+|**2025-01-14**|**Facial Dynamics in Video: Instruction Tuning for Improved Facial Expression Perception and Contextual Awareness**|Jiaxing Zhao et.al.|[2501.07978](http://arxiv.org/abs/2501.07978)|null|
 |**2025-01-13**|**Joint Automatic Speech Recognition And Structure Learning For Better Speech Understanding**|Jiliang Hu et.al.|[2501.07329](http://arxiv.org/abs/2501.07329)|null|
 |**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
 |**2025-01-09**|**AgoraSpeech: A multi-annotated comprehensive dataset of political discourse through the lens of humans and AI**|Pavlos Sermpezis et.al.|[2501.06265](http://arxiv.org/abs/2501.06265)|null|
@@ -7984,6 +8020,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Revolutionizing Communication with Deep Learning and XAI for Enhanced Arabic Sign Language Recognition**|Mazen Balat et.al.|[2501.08169](http://arxiv.org/abs/2501.08169)|null|
+|**2025-01-14**|**FairTTTS: A Tree Test Time Simulation Method for Fairness-Aware Classification**|Nurit Cohen-Inger et.al.|[2501.08155](http://arxiv.org/abs/2501.08155)|null|
+|**2025-01-14**|**An AI-driven framework for rapid and localized optimizations of urban open spaces**|Pegah Eshraghi et.al.|[2501.08019](http://arxiv.org/abs/2501.08019)|null|
+|**2025-01-14**|**A Comparative Analysis of DNN-based White-Box Explainable AI Methods in Network Security**|Osvaldo Arreche et.al.|[2501.07801](http://arxiv.org/abs/2501.07801)|null|
 |**2025-01-12**|**Faithful Counterfactual Visual Explanations (FCVE)**|Bismillah Khan et.al.|[2501.06841](http://arxiv.org/abs/2501.06841)|null|
 |**2025-01-12**|**On the Complexity of Global Necessary Reasons to Explain Classification**|Marco Calautti et.al.|[2501.06766](http://arxiv.org/abs/2501.06766)|null|
 |**2025-01-11**|**Active Rule Mining for Multivariate Anomaly Detection in Radio Access Networks**|Ebenezer R. H. P. Isaac et.al.|[2501.06571](http://arxiv.org/abs/2501.06571)|null|
