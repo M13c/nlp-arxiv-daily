@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -65,6 +65,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Cultural Differences and Perverse Incentives in Science Create a Bad Mix: Exploring Country-Level Publication Bias in Select ACM Conferences**|Aksheytha Chelikavada et.al.|[2501.17150](http://arxiv.org/abs/2501.17150)|null|
+|**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884](http://arxiv.org/abs/2501.16884)|null|
+|**2025-01-28**|**Experimenting with Affective Computing Models in Video Interviews with Spanish-speaking Older Adults**|Josep Lopez Camunas et.al.|[2501.16870](http://arxiv.org/abs/2501.16870)|null|
+|**2025-01-28**|**Misspellings in Natural Language Processing: A survey**|Gianluca Sperduti et.al.|[2501.16836](http://arxiv.org/abs/2501.16836)|null|
+|**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
+|**2025-01-28**|**Examining Online Social Support for Countering QAnon Conspiracies**|Michael Robert Haupt et.al.|[2501.16668](http://arxiv.org/abs/2501.16668)|null|
 |**2025-01-27**|**STAR: Stepwise Task Augmentation and Relation Learning for Aspect Sentiment Quad Prediction**|Wenna Lai et.al.|[2501.16093](http://arxiv.org/abs/2501.16093)|null|
 |**2025-01-27**|**Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xiang Huang et.al.|[2501.15968](http://arxiv.org/abs/2501.15968)|**[link](https://github.com/selgroup/masgcn)**|
 |**2025-01-26**|**Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach**|S. M. Yousuf Iqbal Tomal et.al.|[2501.15630](http://arxiv.org/abs/2501.15630)|null|
@@ -878,9 +884,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|**[link](https://github.com/upunaprosk/histoires-morales)**|
 |**2025-01-27**|**Evaluation of NMT-Assisted Grammar Transfer for a Multi-Language Configurable Data-to-Text System**|Andreas Madsack et.al.|[2501.16135](http://arxiv.org/abs/2501.16135)|null|
 |**2025-01-27**|**LCTG Bench: LLM Controlled Text Generation Benchmark**|Kentaro Kurihara et.al.|[2501.15875](http://arxiv.org/abs/2501.15875)|**[link](https://github.com/cyberagentailab/lctg-bench)**|
-|**2025-01-27**|**IndicMMLU-Pro: Benchmarking the Indic Large Language Models**|Sankalp KJ et.al.|[2501.15747](http://arxiv.org/abs/2501.15747)|null|
+|**2025-01-28**|**IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task Language Understanding**|Sankalp KJ et.al.|[2501.15747](http://arxiv.org/abs/2501.15747)|null|
 |**2025-01-26**|**Improving Estonian Text Simplification through Pretrained Language Models and Custom Datasets**|Eduard Barbu et.al.|[2501.15624](http://arxiv.org/abs/2501.15624)|null|
 |**2025-01-25**|**Faster Machine Translation Ensembling with Reinforcement Learning and Competitive Correction**|Kritarth Prasad et.al.|[2501.15219](http://arxiv.org/abs/2501.15219)|null|
 |**2025-01-24**|**WanJuanSiLu: A High-Quality Open-Source Webtext Dataset for Low-Resource Languages**|Jia Yu et.al.|[2501.14506](http://arxiv.org/abs/2501.14506)|null|
@@ -1117,8 +1124,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961](http://arxiv.org/abs/2501.16961)|null|
+|**2025-01-28**|**ToolFactory: Automating Tool Generation by Leveraging LLM to Understand REST API Documentations**|Xinyi Ni et.al.|[2501.16945](http://arxiv.org/abs/2501.16945)|null|
+|**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843](http://arxiv.org/abs/2501.16843)|null|
+|**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842](http://arxiv.org/abs/2501.16842)|null|
 |**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
-|**2025-01-27**|**DBRouting: Routing End User Queries to Databases for Answerability**|Priyangshu Mandal et.al.|[2501.16220](http://arxiv.org/abs/2501.16220)|null|
+|**2025-01-28**|**DBRouting: Routing End User Queries to Databases for Answerability**|Priyangshu Mandal et.al.|[2501.16220](http://arxiv.org/abs/2501.16220)|null|
 |**2025-01-27**|**LemmaHead: RAG Assisted Proof Generation Using Large Language Models**|Tianbo Yang et.al.|[2501.15797](http://arxiv.org/abs/2501.15797)|null|
 |**2025-01-27**|**Automatic Feedback Generation for Short Answer Questions using Answer Diagnostic Graphs**|Momoka Furuhashi et.al.|[2501.15777](http://arxiv.org/abs/2501.15777)|null|
 |**2025-01-27**|**ESGSenticNet: A Neurosymbolic Knowledge Base for Corporate Sustainability Analysis**|Keane Ong et.al.|[2501.15720](http://arxiv.org/abs/2501.15720)|null|
@@ -1974,6 +1985,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**An LLM Benchmark for Addressee Recognition in Multi-modal Multi-party Dialogue**|Koji Inoue et.al.|[2501.16643](http://arxiv.org/abs/2501.16643)|null|
 |**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
 |**2025-01-26**|**SUSY transformation as the coupler of non-interacting systems**|Vit Jakubsky et.al.|[2501.15601](http://arxiv.org/abs/2501.15601)|null|
 |**2025-01-25**|**Breaking the Stigma! Unobtrusively Probe Symptoms in Depression Disorder Diagnosis Dialogue**|Jieming Cao et.al.|[2501.15260](http://arxiv.org/abs/2501.15260)|null|
@@ -2569,12 +2581,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records**|Philip Chung et.al.|[2501.16672](http://arxiv.org/abs/2501.16672)|**[link](https://github.com/philipchung/verifact)**|
+|**2025-01-28**|**Few-Shot Optimized Framework for Hallucination Detection in Resource-Limited NLP Systems**|Baraa Hikal et.al.|[2501.16616](http://arxiv.org/abs/2501.16616)|null|
+|**2025-01-27**|**Distributional Information Embedding: A Framework for Multi-bit Watermarking**|Haiyun He et.al.|[2501.16558](http://arxiv.org/abs/2501.16558)|null|
+|**2025-01-27**|**PackDiT: Joint Human Motion and Text Generation via Mutual Prompting**|Zhongyu Jiang et.al.|[2501.16551](http://arxiv.org/abs/2501.16551)|null|
 |**2025-01-27**|**Phase Transitions in Large Language Models and the $O(N)$ Model**|Youran Sun et.al.|[2501.16241](http://arxiv.org/abs/2501.16241)|null|
 |**2025-01-27**|**Evaluation of NMT-Assisted Grammar Transfer for a Multi-Language Configurable Data-to-Text System**|Andreas Madsack et.al.|[2501.16135](http://arxiv.org/abs/2501.16135)|null|
 |**2025-01-27**|**Integration of LLM Quality Assurance into an NLG System**|Ching-Yi Chen et.al.|[2501.16078](http://arxiv.org/abs/2501.16078)|null|
 |**2025-01-27**|**FDLLM: A Text Fingerprint Detection Method for LLMs in Multi-Language, Multi-Domain Black-Box Environments**|Zhiyuan Fu et.al.|[2501.16029](http://arxiv.org/abs/2501.16029)|null|
 |**2025-01-27**|**LCTG Bench: LLM Controlled Text Generation Benchmark**|Kentaro Kurihara et.al.|[2501.15875](http://arxiv.org/abs/2501.15875)|**[link](https://github.com/cyberagentailab/lctg-bench)**|
-|**2025-01-26**|**People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text**|Jenna Russell et.al.|[2501.15654](http://arxiv.org/abs/2501.15654)|null|
+|**2025-01-26**|**People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text**|Jenna Russell et.al.|[2501.15654](http://arxiv.org/abs/2501.15654)|**[link](https://github.com/jenna-russell/human_detectors)**|
 |**2025-01-26**|**Semantic Layered Embedding Diffusion in Large Language Models for Multi-Contextual Consistency**|Irin Kabakum et.al.|[2501.15405](http://arxiv.org/abs/2501.15405)|null|
 |**2025-01-25**|**Fairness in LLM-Generated Surveys**|Andrés Abeliuk et.al.|[2501.15351](http://arxiv.org/abs/2501.15351)|null|
 |**2025-01-25**|**Pre-training a Transformer-Based Generative Model Using a Small Sepedi Dataset**|Simon P. Ramalepe et.al.|[2501.15281](http://arxiv.org/abs/2501.15281)|null|
@@ -3291,6 +3307,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**The Asymptotic Capacity of Byzantine Symmetric Private Information Retrieval and Its Consequences**|Mohamed Nomeir et.al.|[2501.17124](http://arxiv.org/abs/2501.17124)|null|
+|**2025-01-28**|**Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block Representations with Large Language Models**|Minghan Li et.al.|[2501.17039](http://arxiv.org/abs/2501.17039)|null|
+|**2025-01-28**|**Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks**|Shengyao Zhuang et.al.|[2501.16902](http://arxiv.org/abs/2501.16902)|null|
+|**2025-01-28**|**Secure Federated Graph-Filtering for Recommender Systems**|Julien Nicolas et.al.|[2501.16888](http://arxiv.org/abs/2501.16888)|null|
+|**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722](http://arxiv.org/abs/2501.16722)|null|
+|**2025-01-28**|**VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records**|Philip Chung et.al.|[2501.16672](http://arxiv.org/abs/2501.16672)|**[link](https://github.com/philipchung/verifact)**|
+|**2025-01-27**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450](http://arxiv.org/abs/2501.16450)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
 |**2025-01-27**|**Separate This, and All of these Things Around It: Music Source Separation via Hyperellipsoidal Queries**|Karn N. Watcharasupat et.al.|[2501.16171](http://arxiv.org/abs/2501.16171)|null|
 |**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
 |**2025-01-27**|**Survey: Understand the challenges of MachineLearning Experts using Named EntityRecognition Tools**|Florian Freund et.al.|[2501.16112](http://arxiv.org/abs/2501.16112)|null|
@@ -5085,6 +5110,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Detecting harassment and defamation in cyberbullying with emotion-adaptive training**|Peiling Yi et.al.|[2501.16925](http://arxiv.org/abs/2501.16925)|**[link](https://github.com/Misinformation-emotion/Cyberbullying-emotion)**|
+|**2025-01-28**|**Experimenting with Affective Computing Models in Video Interviews with Spanish-speaking Older Adults**|Josep Lopez Camunas et.al.|[2501.16870](http://arxiv.org/abs/2501.16870)|null|
+|**2025-01-14**|**Developing Enhanced Conversational Agents for Social Virtual Worlds**|D. Griol et.al.|[2501.16341](http://arxiv.org/abs/2501.16341)|null|
 |**2025-01-27**|**CEReBrO: Compact Encoder for Representations of Brain Oscillations Using Efficient Alternating Attention**|Alexandru Dimofte et.al.|[2501.10885](http://arxiv.org/abs/2501.10885)|null|
 |**2025-01-18**|**Speech Emotion Detection Based on MFCC and CNN-LSTM Architecture**|Qianhe Ouyang et.al.|[2501.10666](http://arxiv.org/abs/2501.10666)|null|
 |**2025-01-14**|**CG-MER: A Card Game-based Multimodal dataset for Emotion Recognition**|Nessrine Farhat et.al.|[2501.08182](http://arxiv.org/abs/2501.08182)|null|
@@ -5215,6 +5243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**|Anzheng Tang et.al.|[2501.17059](http://arxiv.org/abs/2501.17059)|null|
+|**2025-01-28**|**Few Edges Are Enough: Few-Shot Network Attack Detection with Graph Neural Networks**|Tristan Bilot et.al.|[2501.16964](http://arxiv.org/abs/2501.16964)|null|
+|**2025-01-28**|**Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**|Fabian Fumagalli et.al.|[2501.16944](http://arxiv.org/abs/2501.16944)|null|
+|**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842](http://arxiv.org/abs/2501.16842)|null|
+|**2025-01-28**|**Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis**|Yuxuan Chen et.al.|[2501.16787](http://arxiv.org/abs/2501.16787)|null|
+|**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722](http://arxiv.org/abs/2501.16722)|null|
+|**2025-01-28**|**Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook**|Jiawei Xue et.al.|[2501.16656](http://arxiv.org/abs/2501.16656)|null|
+|**2025-01-28**|**Chinese Stock Prediction Based on a Multi-Modal Transformer Framework: Macro-Micro Information Fusion**|Lumen AI et.al.|[2501.16621](http://arxiv.org/abs/2501.16621)|null|
+|**2025-01-28**|**Applying Ensemble Models based on Graph Neural Network and Reinforcement Learning for Wind Power Forecasting**|Hongjin Song et.al.|[2501.16591](http://arxiv.org/abs/2501.16591)|null|
+|**2025-01-27**|**Evaluating the Impact of Detector Design on Jet Flavor Tagging for Future Colliders**|Dimitrios Ntounis et.al.|[2501.16584](http://arxiv.org/abs/2501.16584)|null|
 |**2025-01-27**|**Graph Neural Network Based Hybrid Beamforming Design in Wideband Terahertz MIMO-OFDM Systems**|Beier Li et.al.|[2501.16306](http://arxiv.org/abs/2501.16306)|null|
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
@@ -7049,13 +7087,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899](http://arxiv.org/abs/2501.16899)|**[link](https://github.com/shadynasrat/rdmm)**|
+|**2025-01-28**|**AVE Speech Dataset: A Comprehensive Benchmark for Multi-Modal Speech Recognition Integrating Audio, Visual, and Electromyographic Signals**|Dongliang Zhou et.al.|[2501.16780](http://arxiv.org/abs/2501.16780)|null|
+|**2025-01-28**|**SCDiar: a streaming diarization system based on speaker change detection and speech recognition**|Naijun Zheng et.al.|[2501.16641](http://arxiv.org/abs/2501.16641)|null|
 |**2025-01-27**|**Optimized Self-supervised Training with BEST-RQ for Speech Recognition**|Ilja Baumann et.al.|[2501.16131](http://arxiv.org/abs/2501.16131)|null|
 |**2025-01-27**|**Classification Error Bound for Low Bayes Error Conditions in Machine Learning**|Zijian Yang et.al.|[2501.15977](http://arxiv.org/abs/2501.15977)|null|
 |**2025-01-26**|**End-to-End Target Speaker Speech Recognition Using Context-Aware Attention Mechanisms for Challenging Enrollment Scenario**|Mohsen Ghane et.al.|[2501.15466](http://arxiv.org/abs/2501.15466)|null|
 |**2025-01-25**|**The Multicultural Medical Assistant: Can LLMs Improve Medical ASR Errors Across Borders?**|Ayo Adedeji et.al.|[2501.15310](http://arxiv.org/abs/2501.15310)|null|
-|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|null|
+|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|**[link](https://github.com/world1tree/SpeechTranslationRefinement)**|
 |**2025-01-25**|**Robust Cross-Etiology and Speaker-Independent Dysarthric Speech Recognition**|Satwinder Singh et.al.|[2501.14994](http://arxiv.org/abs/2501.14994)|null|
-|**2025-01-24**|**FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition Models from Encoder-Decoder to LLM Integration**|Kai-Tuo Xu et.al.|[2501.14350](http://arxiv.org/abs/2501.14350)|null|
+|**2025-01-24**|**FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition Models from Encoder-Decoder to LLM Integration**|Kai-Tuo Xu et.al.|[2501.14350](http://arxiv.org/abs/2501.14350)|**[link](https://github.com/fireredteam/fireredasr)**|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
 |**2025-01-23**|**Integrating Persian Lip Reading in Surena-V Humanoid Robot for Human-Robot Interaction**|Ali Farshian Abbasi et.al.|[2501.13996](http://arxiv.org/abs/2501.13996)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
@@ -8345,6 +8386,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Explainability and AI Confidence in Clinical Decision Support Systems: Effects on Trust, Diagnostic Performance, and Cognitive Load in Breast Cancer Care**|Olya Rezaeian et.al.|[2501.16693](http://arxiv.org/abs/2501.16693)|null|
+|**2025-01-28**|**Analysis of Zero Day Attack Detection Using MLP and XAI**|Ashim Dahal et.al.|[2501.16638](http://arxiv.org/abs/2501.16638)|null|
 |**2025-01-27**|**Explaining Facial Expression Recognition**|Sanjeev Nahulanthran et.al.|[2501.15864](http://arxiv.org/abs/2501.15864)|null|
 |**2025-01-27**|**Prioritized Value-Decomposition Network for Explainable AI-Enabled Network Slicing**|Shavbo Salehi et.al.|[2501.15734](http://arxiv.org/abs/2501.15734)|null|
 |**2025-01-26**|**ConceptCLIP: Towards Trustworthy Medical AI via Concept-Enhanced Contrastive Langauge-Image Pre-training**|Yuxiang Nie et.al.|[2501.15579](http://arxiv.org/abs/2501.15579)|**[link](https://github.com/JerrryNie/ConceptCLIP)**|
@@ -8895,6 +8938,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
+|**2025-01-27**|**Characterizing Network Structure of Anti-Trans Actors on TikTok**|Maxyn Leitner et.al.|[2501.16507](http://arxiv.org/abs/2501.16507)|null|
 |**2025-01-25**|**Graph-Based Cross-Domain Knowledge Distillation for Cross-Dataset Text-to-Image Person Retrieval**|Bingjun Luo et.al.|[2501.15052](http://arxiv.org/abs/2501.15052)|null|
 |**2025-01-24**|**Rethinking Table Instruction Tuning**|Naihao Deng et.al.|[2501.14693](http://arxiv.org/abs/2501.14693)|null|
 |**2025-01-23**|**Large Vision-Language Models for Knowledge-Grounded Data Annotation of Memes**|Shiling Deng et.al.|[2501.13851](http://arxiv.org/abs/2501.13851)|**[link](https://github.com/seefreem/meme_text_retrieval_p1)**|
