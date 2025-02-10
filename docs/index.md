@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -71,7 +71,7 @@ layout: default
 |**2025-02-05**|**Out-of-Distribution Detection using Synthetic Data Generation**|Momin Abbas et.al.|[2502.03323](http://arxiv.org/abs/2502.03323)|null|
 |**2025-02-05**|**A scale of conceptual orality and literacy: Automatic text categorization in the tradition of "Nähe und Distanz"**|Volker Emmrich et.al.|[2502.03252](http://arxiv.org/abs/2502.03252)|null|
 |**2025-02-05**|**LLaVAC: Fine-tuning LLaVA as a Multimodal Sentiment Classifier**|T. Chay-intr et.al.|[2502.02938](http://arxiv.org/abs/2502.02938)|null|
-|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391](http://arxiv.org/abs/2502.02391)|null|
+|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391](http://arxiv.org/abs/2502.02391)|**[link](https://github.com/ibrahimself/fewtopner)**|
 |**2025-02-04**|**Topic Modeling in Marathi**|Sanket Shinde et.al.|[2502.02100](http://arxiv.org/abs/2502.02100)|null|
 |**2025-02-04**|**FinRLlama: A Solution to LLM-Engineered Signals Challenge at FinRL Contest 2024**|Arnav Grover et.al.|[2502.01992](http://arxiv.org/abs/2502.01992)|null|
 |**2025-02-04**|**Boundary-Driven Table-Filling with Cross-Granularity Contrastive Learning for Aspect Sentiment Triplet Extraction**|Qingling Li et.al.|[2502.01942](http://arxiv.org/abs/2502.01942)|null|
@@ -5270,7 +5270,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-03**|**Meursault as a Data Point**|Abhinav Pratap et.al.|[2502.01364](http://arxiv.org/abs/2502.01364)|null|
 |**2025-02-02**|**CardioLive: Empowering Video Streaming with Online Cardiac Monitoring**|Sheng Lyu et.al.|[2502.00702](http://arxiv.org/abs/2502.00702)|null|
-|**2025-02-01**|**SigWavNet: Learning Multiresolution Signal Wavelet Network for Speech Emotion Recognition**|Alaa Nfissi et.al.|[2502.00310](http://arxiv.org/abs/2502.00310)|null|
+|**2025-02-01**|**SigWavNet: Learning Multiresolution Signal Wavelet Network for Speech Emotion Recognition**|Alaa Nfissi et.al.|[2502.00310](http://arxiv.org/abs/2502.00310)|**[link](https://github.com/alaanfissi/sigwavnet-learning-multiresolution-signal-wavelet-network-for-speech-emotion-recognition)**|
 |**2025-01-28**|**Detecting harassment and defamation in cyberbullying with emotion-adaptive training**|Peiling Yi et.al.|[2501.16925](http://arxiv.org/abs/2501.16925)|**[link](https://github.com/Misinformation-emotion/Cyberbullying-emotion)**|
 |**2025-01-28**|**Experimenting with Affective Computing Models in Video Interviews with Spanish-speaking Older Adults**|Josep Lopez Camunas et.al.|[2501.16870](http://arxiv.org/abs/2501.16870)|null|
 |**2025-01-14**|**Developing Enhanced Conversational Agents for Social Virtual Worlds**|D. Griol et.al.|[2501.16341](http://arxiv.org/abs/2501.16341)|null|
@@ -7310,7 +7310,7 @@ layout: default
 |**2025-02-03**|**CTC-DRO: Robust Optimization for Reducing Language Disparities in Speech Recognition**|Martijn Bartelds et.al.|[2502.01777](http://arxiv.org/abs/2502.01777)|null|
 |**2025-02-03**|**Adapter-Based Multi-Agent AVSR Extension for Pre-Trained ASR Models**|Christopher Simic et.al.|[2502.01709](http://arxiv.org/abs/2502.01709)|null|
 |**2025-02-03**|**A Differentiable Alignment Framework for Sequence-to-Sequence Modeling via Optimal Transport**|Yacouba Kaloga et.al.|[2502.01588](http://arxiv.org/abs/2502.01588)|null|
-|**2025-02-03**|**mWhisper-Flamingo for Multilingual Audio-Visual Noise-Robust Speech Recognition**|Andrew Rouditchenko et.al.|[2502.01547](http://arxiv.org/abs/2502.01547)|null|
+|**2025-02-03**|**mWhisper-Flamingo for Multilingual Audio-Visual Noise-Robust Speech Recognition**|Andrew Rouditchenko et.al.|[2502.01547](http://arxiv.org/abs/2502.01547)|**[link](https://github.com/roudimit/whisper-flamingo)**|
 |**2025-02-03**|**Gradient Norm-based Fine-Tuning for Backdoor Defense in Automatic Speech Recognition**|Nanjun Zhou et.al.|[2502.01152](http://arxiv.org/abs/2502.01152)|null|
 |**2025-02-01**|**Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition**|Anna Seo Gyeong Choi et.al.|[2502.00583](http://arxiv.org/abs/2502.00583)|null|
 |**2025-02-01**|**Evaluation of End-to-End Continuous Spanish Lipreading in Different Data Conditions**|David Gimeno-Gómez et.al.|[2502.00464](http://arxiv.org/abs/2502.00464)|null|
@@ -8033,7 +8033,7 @@ layout: default
 |**2025-02-06**|**MAQInstruct: Instruction-based Unified Event Relation Extraction**|Jun Xu et.al.|[2502.03954](http://arxiv.org/abs/2502.03954)|null|
 |**2025-02-05**|**Efficient extraction of medication information from clinical notes: an evaluation in two languages**|Thibaut Fabacher et.al.|[2502.03257](http://arxiv.org/abs/2502.03257)|null|
 |**2025-02-04**|**Cross-Lingual Transfer for Low-Resource Natural Language Processing**|Iker García-Ferrero et.al.|[2502.02722](http://arxiv.org/abs/2502.02722)|null|
-|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391](http://arxiv.org/abs/2502.02391)|null|
+|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391](http://arxiv.org/abs/2502.02391)|**[link](https://github.com/ibrahimself/fewtopner)**|
 |**2025-02-03**|**Query Brand Entity Linking in E-Commerce Search**|Dong Liu et.al.|[2502.01555](http://arxiv.org/abs/2502.01555)|null|
 |**2025-02-03**|**Meursault as a Data Point**|Abhinav Pratap et.al.|[2502.01364](http://arxiv.org/abs/2502.01364)|null|
 |**2025-01-30**|**A Multi-Layered Large Language Model Framework for Disease Prediction**|Malak Mohamed et.al.|[2502.00063](http://arxiv.org/abs/2502.00063)|null|
@@ -8452,7 +8452,7 @@ layout: default
 |**2025-02-02**|**Orlicz-Sobolev Transport for Unbalanced Measures on a Graph**|Tam Le et.al.|[2502.00739](http://arxiv.org/abs/2502.00739)|null|
 |**2025-02-02**|**Scalable Sobolev IPM for Probability Measures on a Graph**|Tam Le et.al.|[2502.00737](http://arxiv.org/abs/2502.00737)|null|
 |**2025-02-01**|**Converting Transformers into DGNNs Form**|Jie Zhang et.al.|[2502.00585](http://arxiv.org/abs/2502.00585)|null|
-|**2025-01-31**|**CerraData-4MM: A multimodal benchmark dataset on Cerrado for land use and land cover classification**|Mateus de Souza Miranda et.al.|[2502.00083](http://arxiv.org/abs/2502.00083)|null|
+|**2025-01-31**|**CerraData-4MM: A multimodal benchmark dataset on Cerrado for land use and land cover classification**|Mateus de Souza Miranda et.al.|[2502.00083](http://arxiv.org/abs/2502.00083)|**[link](https://github.com/ai4luc/cerradata-4mm)**|
 |**2025-01-31**|**Hierarchical Cryptographic Signature Mapping for Ransomware Classification: A Structural Decomposition Approach**|Dominic Abernethy et.al.|[2501.19120](http://arxiv.org/abs/2501.19120)|null|
 |**2025-01-31**|**Conformal Prediction in Hierarchical Classification**|Thomas Mortier et.al.|[2501.19038](http://arxiv.org/abs/2501.19038)|null|
 |**2025-01-23**|**Hierarchies of quantum non-Gaussian coherences for bosonic systems: a theoretical study**|Lukáš Lachman et.al.|[2501.14033](http://arxiv.org/abs/2501.14033)|null|
@@ -8547,7 +8547,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-06**|**How does a Multilingual LM Handle Multiple Languages?**|Santhosh Kakarla et.al.|[2502.04269](http://arxiv.org/abs/2502.04269)|null|
 |**2025-02-06**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
-|**2025-02-04**|**Adaptive Self-improvement LLM Agentic System for ML Library Development**|Genghan Zhang et.al.|[2502.02534](http://arxiv.org/abs/2502.02534)|null|
+|**2025-02-04**|**Adaptive Self-improvement LLM Agentic System for ML Library Development**|Genghan Zhang et.al.|[2502.02534](http://arxiv.org/abs/2502.02534)|**[link](https://github.com/zhang677/pcl-lite)**|
 |**2025-01-26**|**Adapting Biomedical Abstracts into Plain language using Large Language Models**|Haritha Gangavarapu et.al.|[2501.15700](http://arxiv.org/abs/2501.15700)|null|
 |**2025-01-19**|**Investigating the Impact of Language-Adaptive Fine-Tuning on Sentiment Analysis in Hausa Language Using AfriBERTa**|Sani Abdullahi Sani et.al.|[2501.11023](http://arxiv.org/abs/2501.11023)|**[link](https://github.com/sani-abdullahi-sani/natural-language-processing)**|
 |**2025-01-10**|**How to Tune a Multilingual Encoder Model for Germanic Languages: A Study of PEFT, Full Fine-Tuning, and Language Adapters**|Romina Oji et.al.|[2501.06025](http://arxiv.org/abs/2501.06025)|**[link](https://github.com/rominaoji/german-language-adapter)**|
@@ -8644,7 +8644,7 @@ layout: default
 |**2025-02-05**|**Chartist: Task-driven Eye Movement Control for Chart Reading**|Danqing Shi et.al.|[2502.03575](http://arxiv.org/abs/2502.03575)|null|
 |**2025-02-05**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549](http://arxiv.org/abs/2502.03549)|null|
 |**2025-02-05**|**Ethical Considerations for the Military Use of Artificial Intelligence in Visual Reconnaissance**|Mathias Anneken et.al.|[2502.03376](http://arxiv.org/abs/2502.03376)|null|
-|**2025-02-04**|**Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs**|Angelina Wang et.al.|[2502.01926](http://arxiv.org/abs/2502.01926)|null|
+|**2025-02-04**|**Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs**|Angelina Wang et.al.|[2502.01926](http://arxiv.org/abs/2502.01926)|**[link](https://github.com/angelina-wang/difference_awareness)**|
 |**2025-02-01**|**Explainable AI for Sentiment Analysis of Human Metapneumovirus (HMPV) Using XLNet**|Md. Shahriar Hossain Apu et.al.|[2502.01663](http://arxiv.org/abs/2502.01663)|null|
 |**2025-02-02**|**Disentangling Length Bias In Preference Learning Via Response-Conditioned Modeling**|Jianfeng Cai et.al.|[2502.00814](http://arxiv.org/abs/2502.00814)|null|
 |**2025-02-04**|**AudioGenX: Explainability on Text-to-Audio Generative Models**|Hyunju Kang et.al.|[2502.00459](http://arxiv.org/abs/2502.00459)|null|
@@ -9215,7 +9215,7 @@ layout: default
 |**2025-02-03**|**Preference Leakage: A Contamination Problem in LLM-as-a-judge**|Dawei Li et.al.|[2502.01534](http://arxiv.org/abs/2502.01534)|null|
 |**2025-02-02**|**MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction**|Chao Wang et.al.|[2502.00717](http://arxiv.org/abs/2502.00717)|null|
 |**2025-02-01**|**Parameter Efficient Fine-Tuning of Segment Anything Model**|Carolin Teuber et.al.|[2502.00418](http://arxiv.org/abs/2502.00418)|null|
-|**2025-02-01**|**Segment Anything for Histopathology**|Titus Griebel et.al.|[2502.00408](http://arxiv.org/abs/2502.00408)|null|
+|**2025-02-01**|**Segment Anything for Histopathology**|Titus Griebel et.al.|[2502.00408](http://arxiv.org/abs/2502.00408)|**[link](https://github.com/computational-cell-analytics/patho-sam)**|
 |**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
 |**2025-01-27**|**Characterizing Network Structure of Anti-Trans Actors on TikTok**|Maxyn Leitner et.al.|[2501.16507](http://arxiv.org/abs/2501.16507)|null|
