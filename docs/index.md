@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -70,6 +70,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Ordered Semantically Diverse Sampling for Textual Data**|Ashish Tiwari et.al.|[2503.10698](http://arxiv.org/abs/2503.10698)|null|
+|**2025-03-12**|**CULEMO: Cultural Lenses on Emotion -- Benchmarking LLMs for Cross-Cultural Emotion Understanding**|Tadesse Destaw Belay et.al.|[2503.10688](http://arxiv.org/abs/2503.10688)|null|
 |**2025-03-13**|**Sentiment Analysis in SemEval: A Review of Sentiment Identification Approaches**|Bousselham El Haddaoui et.al.|[2503.10457](http://arxiv.org/abs/2503.10457)|null|
 |**2025-03-13**|**Wikipedia is Not a Dictionary, Delete! Text Classification as a Proxy for Analysing Wiki Deletion Discussions**|Hsuvas Borkakoty et.al.|[2503.10294](http://arxiv.org/abs/2503.10294)|null|
 |**2025-03-13**|**Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental Health Prediction via Online Text**|Avinash Patil et.al.|[2503.10095](http://arxiv.org/abs/2503.10095)|null|
@@ -1304,6 +1306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation**|Qiji Zhou et.al.|[2503.10691](http://arxiv.org/abs/2503.10691)|null|
 |**2025-03-13**|**Building Intelligent Databases through Similarity: Interaction of Logical and Qualitative Reasoning**|José-Luis Vilchis-Medina et.al.|[2503.10231](http://arxiv.org/abs/2503.10231)|null|
 |**2025-03-13**|**Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM**|Mohd Ariful Haque et.al.|[2503.10071](http://arxiv.org/abs/2503.10071)|null|
 |**2025-03-14**|**Compute Optimal Scaling of Skills: Knowledge vs Reasoning**|Nicholas Roberts et.al.|[2503.10061](http://arxiv.org/abs/2503.10061)|null|
@@ -3019,6 +3022,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Text Compression for Efficient Language Generation**|David Gu et.al.|[2503.11426](http://arxiv.org/abs/2503.11426)|null|
+|**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392](http://arxiv.org/abs/2503.11392)|null|
+|**2025-03-14**|**Palette of Language Models: A Solver for Controlled Text Generation**|Zhe Yang et.al.|[2503.11182](http://arxiv.org/abs/2503.11182)|null|
+|**2025-03-14**|**API Agents vs. GUI Agents: Divergence and Convergence**|Chaoyun Zhang et.al.|[2503.11069](http://arxiv.org/abs/2503.11069)|null|
+|**2025-03-13**|**FlowTok: Flowing Seamlessly Across Text and Image Tokens**|Ju He et.al.|[2503.10772](http://arxiv.org/abs/2503.10772)|null|
 |**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
 |**2025-03-12**|**Constrained Language Generation with Discrete Diffusion Models**|Michael Cardei et.al.|[2503.09790](http://arxiv.org/abs/2503.09790)|null|
 |**2025-03-12**|**Have LLMs Made Active Learning Obsolete? Surveying the NLP Community**|Julia Romberg et.al.|[2503.09701](http://arxiv.org/abs/2503.09701)|null|
@@ -3904,6 +3912,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Annotating Scientific Uncertainty: A comprehensive model using linguistic patterns and comparison with existing approaches**|Panggih Kusuma Ningrum et.al.|[2503.11376](http://arxiv.org/abs/2503.11376)|null|
+|**2025-03-14**|**Addressing Information Loss and Interaction Collapse: A Dual Enhanced Attention Framework for Feature Interaction**|Yi Xu et.al.|[2503.11233](http://arxiv.org/abs/2503.11233)|null|
+|**2025-03-14**|**Variational Bayesian Personalized Ranking**|Bin Liu et.al.|[2503.11067](http://arxiv.org/abs/2503.11067)|null|
+|**2025-03-13**|**Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification**|Nathaniel Lesperance et.al.|[2503.10886](http://arxiv.org/abs/2503.10886)|null|
+|**2025-03-13**|**RankPO: Preference Optimization for Job-Talent Matching**|Yafei Zhang et.al.|[2503.10723](http://arxiv.org/abs/2503.10723)|null|
 |**2025-03-13**|**GBSVR: Granular Ball Support Vector Regression**|Reshma Rastogi et.al.|[2503.10539](http://arxiv.org/abs/2503.10539)|null|
 |**2025-03-13**|**Resource efficient data transmission on animals based on machine learning**|Wilhelm Kerle-Malcharek et.al.|[2503.10277](http://arxiv.org/abs/2503.10277)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|null|
@@ -6138,6 +6151,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**GNNs as Predictors of Agentic Workflow Performances**|Yuanshuo Zhang et.al.|[2503.11301](http://arxiv.org/abs/2503.11301)|null|
+|**2025-03-14**|**GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**|Jian Zhang et.al.|[2503.11227](http://arxiv.org/abs/2503.11227)|null|
+|**2025-03-14**|**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**|Yi Zhang et.al.|[2503.11089](http://arxiv.org/abs/2503.11089)|null|
+|**2025-03-14**|**Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization**|Abrar Hossain et.al.|[2503.11011](http://arxiv.org/abs/2503.11011)|null|
+|**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
+|**2025-03-13**|**PolyRoof: Precision Roof Polygonization in Urban Residential Building with Graph Neural Networks**|Chaikal Amrullah et.al.|[2503.10913](http://arxiv.org/abs/2503.10913)|null|
 |**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544](http://arxiv.org/abs/2503.10544)|null|
 |**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385](http://arxiv.org/abs/2503.10385)|null|
 |**2025-03-13**|**AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation**|Zeyi Xu et.al.|[2503.10257](http://arxiv.org/abs/2503.10257)|null|
@@ -8156,6 +8177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
 |**2025-03-13**|**ARLED: Leveraging LED-based ARMAN Model for Abstractive Summarization of Persian Long Documents**|Samira Zangooei et.al.|[2503.10233](http://arxiv.org/abs/2503.10233)|null|
 |**2025-02-21**|**CSTRL: Context-Driven Sequential Transfer Learning for Abstractive Radiology Report Summarization**|Mst. Fahmida Sultana Naznin et.al.|[2503.05750](http://arxiv.org/abs/2503.05750)|null|
 |**2025-02-27**|**Advancements in Natural Language Processing for Automatic Text Summarization**|Nevidu Jayatilleke et.al.|[2502.19773](http://arxiv.org/abs/2502.19773)|null|
@@ -8262,8 +8284,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**|Jeong Hun Yeo et.al.|[2503.11315](http://arxiv.org/abs/2503.11315)|null|
 |**2025-03-13**|**Whisper Speaker Identification: Leveraging Pre-Trained Multilingual Transformers for Robust Speaker Embeddings**|Jakaria Islam Emon et.al.|[2503.10446](http://arxiv.org/abs/2503.10446)|**[link](https://github.com/jakariaemon/WSI)**|
-|**2025-03-12**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
+|**2025-03-14**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
 |**2025-03-12**|**ValSub: Subsampling Validation Data to Mitigate Forgetting during ASR Personalization**|Haaris Mehmood et.al.|[2503.09906](http://arxiv.org/abs/2503.09906)|null|
 |**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|null|
 |**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081](http://arxiv.org/abs/2503.09081)|null|
@@ -9741,6 +9764,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**A Data-Driven Exploration of Elevation Cues in HRTFs: An Explainable AI Perspective Across Multiple Datasets**|Juan Antonio De Rus et.al.|[2503.11312](http://arxiv.org/abs/2503.11312)|null|
+|**2025-03-14**|**OPTIMUS: Predicting Multivariate Outcomes in Alzheimer's Disease Using Multi-modal Data amidst Missing Values**|Christelle Schneuwly Diaz et.al.|[2503.11282](http://arxiv.org/abs/2503.11282)|null|
+|**2025-03-13**|**Minimizing Human-Induced Variability in Quantitative Angiography for Robust and Explainable AI-Based Occlusion Prediction**|Parmita Mondal et.al.|[2503.10887](http://arxiv.org/abs/2503.10887)|null|
 |**2025-03-12**|**BiasConnect: Investigating Bias Interactions in Text-to-Image Models**|Pushkar Shukla et.al.|[2503.09763](http://arxiv.org/abs/2503.09763)|null|
 |**2025-03-12**|**ForAug: Recombining Foregrounds and Backgrounds to Improve Vision Transformer Training with Bias Mitigation**|Tobias Christian Nauen et.al.|[2503.09399](http://arxiv.org/abs/2503.09399)|**[link](https://github.com/tobna/foraug)**|
 |**2025-03-11**|**A Grey-box Text Attack Framework using Explainable AI**|Esther Chiramal et.al.|[2503.08226](http://arxiv.org/abs/2503.08226)|null|
