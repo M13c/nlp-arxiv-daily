@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -70,6 +70,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Micro Text Classification Based on Balanced Positive-Unlabeled Learning**|Lin-Han Jia et.al.|[2503.13562](http://arxiv.org/abs/2503.13562)|null|
+|**2025-03-14**|**Prompt Sentiment: The Catalyst for LLM Change**|Vishal Gandhi et.al.|[2503.13510](http://arxiv.org/abs/2503.13510)|null|
 |**2025-03-17**|**Leveraging Deep Neural Networks for Aspect-Based Sentiment Classification**|Chen Li et.al.|[2503.12803](http://arxiv.org/abs/2503.12803)|null|
 |**2025-03-16**|**Multi-Granular Multimodal Clue Fusion for Meme Understanding**|Li Zheng et.al.|[2503.12560](http://arxiv.org/abs/2503.12560)|null|
 |**2025-03-16**|**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**|Bowen Tan et.al.|[2503.12347](http://arxiv.org/abs/2503.12347)|null|
@@ -1045,6 +1047,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Self-Vocabularizing Training for Neural Machine Translation**|Pin-Jie Lin et.al.|[2503.13837](http://arxiv.org/abs/2503.13837)|null|
 |**2025-03-12**|**Towards Generating Automatic Anaphora Annotations**|Dima Taji et.al.|[2503.09417](http://arxiv.org/abs/2503.09417)|null|
 |**2025-03-11**|**DeepRAG: Building a Custom Hindi Embedding Model for Retrieval Augmented Generation from Scratch**|Nandakishor M et.al.|[2503.08213](http://arxiv.org/abs/2503.08213)|null|
 |**2025-03-10**|**Contextual Cues in Machine Translation: Investigating the Potential of Multi-Source Input Strategies in LLMs and NMT Systems**|Lia Shahnazaryan et.al.|[2503.07195](http://arxiv.org/abs/2503.07195)|null|
@@ -1313,6 +1316,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|null|
+|**2025-03-18**|**VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**|Seungwon Lim et.al.|[2503.14427](http://arxiv.org/abs/2503.14427)|null|
+|**2025-03-18**|**Leveraging Knowledge Networks: Rethinking Technological Value Distribution in mRNA Vaccine Innovations**|Rossana Mastrandrea et.al.|[2503.14072](http://arxiv.org/abs/2503.14072)|null|
+|**2025-03-18**|**MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**|Kai Chen et.al.|[2503.13856](http://arxiv.org/abs/2503.13856)|null|
+|**2025-03-18**|**Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models**|Mingming Peng et.al.|[2503.13813](http://arxiv.org/abs/2503.13813)|null|
+|**2025-03-17**|**SOSecure: Safer Code Generation with RAG and StackOverflow Discussions**|Manisha Mukherjee et.al.|[2503.13654](http://arxiv.org/abs/2503.13654)|null|
 |**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185](http://arxiv.org/abs/2503.13185)|null|
 |**2025-03-17**|**Overview of the NTCIR-18 Automatic Evaluation of LLMs (AEOLLM) Task**|Junjie Chen et.al.|[2503.13038](http://arxiv.org/abs/2503.13038)|null|
 |**2025-03-17**|**HICD: Hallucination-Inducing via Attention Dispersion for Contrastive Decoding to Mitigate Hallucinations in Large Language Models**|Xinyan Jiang et.al.|[2503.12908](http://arxiv.org/abs/2503.12908)|null|
@@ -2342,6 +2351,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Conversational Agents as Catalysts for Critical Thinking: Challenging Social Influence in Group Decision-making**|Soohwan Lee et.al.|[2503.14263](http://arxiv.org/abs/2503.14263)|null|
 |**2025-03-11**|**Interpretable and Robust Dialogue State Tracking via Natural Language Summarization with LLMs**|Rafael Carranza et.al.|[2503.08857](http://arxiv.org/abs/2503.08857)|null|
 |**2025-03-11**|**A Critical Analysis of the Usage of Dimensionality Reduction in Four Domains**|Dylan Cashman et.al.|[2503.08836](http://arxiv.org/abs/2503.08836)|**[link](https://github.com/keller-mark/hd-vis-scripts)**|
 |**2025-03-11**|**ESPnet-SDS: Unified Toolkit and Demo for Spoken Dialogue Systems**|Siddhant Arora et.al.|[2503.08533](http://arxiv.org/abs/2503.08533)|null|
@@ -2349,7 +2359,7 @@ layout: default
 |**2025-03-11**|**Convergence Dynamics and Stabilization Strategies of Co-Evolving Generative Models**|Weiguo Gao et.al.|[2503.08117](http://arxiv.org/abs/2503.08117)|null|
 |**2025-03-11**|**Bloch oscillations in interacting systems driven by a time-dependent magnetic field**|H. P. Zhang et.al.|[2503.08000](http://arxiv.org/abs/2503.08000)|null|
 |**2025-03-10**|**VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication**|Xin Wang et.al.|[2503.07279](http://arxiv.org/abs/2503.07279)|**[link](https://github.com/xin-wang-kr/VizTrust-project)**|
-|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|null|
+|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|**[link](https://github.com/yuhengliu02/control-3d-scene)**|
 |**2025-03-10**|**Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning**|Xintong Li et.al.|[2503.07018](http://arxiv.org/abs/2503.07018)|null|
 |**2025-03-10**|**A Practical Guide to Budget Pacing Algorithms in Digital Advertising**|Yuanlong Chen et.al.|[2503.06942](http://arxiv.org/abs/2503.06942)|null|
 |**2025-03-10**|**KwaiChat: A Large-Scale Video-Driven Multilingual Mixed-Type Dialogue Corpus**|Xiaoming Shi et.al.|[2503.06899](http://arxiv.org/abs/2503.06899)|null|
@@ -3037,8 +3047,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Benchmarking Failures in Tool-Augmented Language Models**|Eduardo Treviño et.al.|[2503.14227](http://arxiv.org/abs/2503.14227)|null|
+|**2025-03-18**|**ConSCompF: Consistency-focused Similarity Comparison Framework for Generative Large Language Models**|Alexey Karev et.al.|[2503.13923](http://arxiv.org/abs/2503.13923)|null|
+|**2025-03-17**|**TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark**|Forouzan Fallah et.al.|[2503.13730](http://arxiv.org/abs/2503.13730)|null|
 |**2025-03-17**|**REPA: Russian Error Types Annotation for Evaluating Text Generation and Judgment Capabilities**|Alexander Pugachev et.al.|[2503.13102](http://arxiv.org/abs/2503.13102)|null|
-|**2025-03-17**|**MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation**|Huangwei Chen et.al.|[2503.12927](http://arxiv.org/abs/2503.12927)|null|
+|**2025-03-19**|**MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation**|Huangwei Chen et.al.|[2503.12927](http://arxiv.org/abs/2503.12927)|null|
 |**2025-03-15**|**Applications of Large Language Model Reasoning in Feature Generation**|Dharani Chandra et.al.|[2503.11989](http://arxiv.org/abs/2503.11989)|null|
 |**2025-03-14**|**GPT's Devastated and LLaMA's Content: Emotion Representation Alignment in LLMs for Keyword-based Generation**|Shadab Choudhury et.al.|[2503.11881](http://arxiv.org/abs/2503.11881)|null|
 |**2025-03-14**|**Text Compression for Efficient Language Generation**|David Gu et.al.|[2503.11426](http://arxiv.org/abs/2503.11426)|null|
@@ -3931,6 +3944,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|null|
+|**2025-03-18**|**Towards a Barrier-free GeoQA Portal: Natural Language Interaction with Geospatial Data Using Multi-Agent LLMs and Semantic Search**|Yu Feng et.al.|[2503.14251](http://arxiv.org/abs/2503.14251)|null|
+|**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|
+|**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
+|**2025-03-18**|**A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects**|Hao Zhang et.al.|[2503.14110](http://arxiv.org/abs/2503.14110)|null|
+|**2025-03-17**|**MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG**|Pingyu Wu et.al.|[2503.13563](http://arxiv.org/abs/2503.13563)|null|
 |**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275](http://arxiv.org/abs/2503.13275)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
 |**2025-03-17**|**Disentangling the Power Dynamics in Participatory Data Physicalisation**|Silvia Cazacu et.al.|[2503.13018](http://arxiv.org/abs/2503.13018)|null|
@@ -6022,6 +6041,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**A Causal Inference Approach for Quantifying Research Impact**|Keiichi Ochiai et.al.|[2503.13485](http://arxiv.org/abs/2503.13485)|null|
 |**2025-03-15**|**Handling Weak Complementary Relationships for Audio-Visual Emotion Recognition**|R. Gnana Praveen et.al.|[2503.12261](http://arxiv.org/abs/2503.12261)|null|
 |**2025-03-12**|**Mechanoreceptive A $β$ primary afferents discriminate naturalistic social touch inputs at a functionally relevant time scale**|Shan Xu et.al.|[2503.09672](http://arxiv.org/abs/2503.09672)|null|
 |**2025-03-12**|**Beyond Overfitting: Doubly Adaptive Dropout for Generalizable AU Detection**|Yong Li et.al.|[2503.08974](http://arxiv.org/abs/2503.08974)|null|
@@ -6181,6 +6201,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models**|Siwei Zhang et.al.|[2503.14411](http://arxiv.org/abs/2503.14411)|null|
+|**2025-03-18**|**Spatio-Temporal Graph Neural Networks for Infant Language Acquisition Prediction**|Andrew Roxburgh et.al.|[2503.14341](http://arxiv.org/abs/2503.14341)|null|
+|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338](http://arxiv.org/abs/2503.14338)|null|
+|**2025-03-18**|**Application of Geometric Deep Learning for Tracking of Hyperons in a Straw Tube Detector**|Adeel Akram et.al.|[2503.14305](http://arxiv.org/abs/2503.14305)|null|
+|**2025-03-19**|**Persistent Homology-induced Graph Ensembles for Time Series Regressions**|Viet The Nguyen et.al.|[2503.14240](http://arxiv.org/abs/2503.14240)|null|
+|**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|
+|**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
+|**2025-03-18**|**Structured Knowledge Accumulation: An Autonomous Framework for Layer-Wise Entropy Reduction in Neural Learning**|Bouarfa Mahi Quantiota et.al.|[2503.13942](http://arxiv.org/abs/2503.13942)|null|
+|**2025-03-18**|**Empowering GraphRAG with Knowledge Filtering and Integration**|Kai Guo et.al.|[2503.13804](http://arxiv.org/abs/2503.13804)|null|
 |**2025-03-17**|**SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start**|Xin Dong et.al.|[2503.13322](http://arxiv.org/abs/2503.13322)|null|
 |**2025-03-17**|**MIXPINN: Mixed-Material Simulations by Physics-Informed Neural Network**|Xintian Yuan et.al.|[2503.13123](http://arxiv.org/abs/2503.13123)|null|
 |**2025-03-17**|**TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction**|Tinghui Li et.al.|[2503.13034](http://arxiv.org/abs/2503.13034)|null|
@@ -9127,6 +9156,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan**|Guillem Cadevall Ferreres et.al.|[2503.14173](http://arxiv.org/abs/2503.14173)|null|
+|**2025-03-18**|**COMM:Concentrated Margin Maximization for Robust Document-Level Relation Extraction**|Zhichao Duan et.al.|[2503.13885](http://arxiv.org/abs/2503.13885)|null|
+|**2025-03-12**|**Leveraging Knowledge Graphs and LLMs for Context-Aware Messaging**|Rajeev Kumar et.al.|[2503.13499](http://arxiv.org/abs/2503.13499)|null|
 |**2025-03-16**|**UniBERTs: Adversarial Training for Language-Universal Representations**|Andrei-Marius Avram et.al.|[2503.12608](http://arxiv.org/abs/2503.12608)|null|
 |**2025-03-16**|**GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation**|Tao Feng et.al.|[2503.12600](http://arxiv.org/abs/2503.12600)|null|
 |**2025-03-12**|**Generative AI for Named Entity Recognition in Low-Resource Language Nepali**|Sameer Neupane et.al.|[2503.09822](http://arxiv.org/abs/2503.09822)|null|
@@ -9808,6 +9840,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Multi-task Learning for Identification of Porcelain in Song and Yuan Dynasties**|Ziyao Ling et.al.|[2503.14231](http://arxiv.org/abs/2503.14231)|null|
+|**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et.al.|[2503.13695](http://arxiv.org/abs/2503.13695)|null|
 |**2025-03-17**|**Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes**|Nhi Pham et.al.|[2503.13429](http://arxiv.org/abs/2503.13429)|null|
 |**2025-03-17**|**Securing Virtual Reality Experiences: Unveiling and Tackling Cybersickness Attacks with Explainable AI**|Ripan Kumar Kundu et.al.|[2503.13419](http://arxiv.org/abs/2503.13419)|null|
 |**2025-03-17**|**Investigating the effect of CPT in lateral spreading prediction using Explainable AI**|Cheng-Hsi Hsiao et.al.|[2503.13389](http://arxiv.org/abs/2503.13389)|null|
