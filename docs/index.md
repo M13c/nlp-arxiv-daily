@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -70,6 +70,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models**|Nikita Neveditsin et.al.|[2503.20715](http://arxiv.org/abs/2503.20715)|null|
+|**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206](http://arxiv.org/abs/2503.20206)|null|
 |**2025-03-24**|**LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment**|Varsha Embar et.al.|[2503.19090](http://arxiv.org/abs/2503.19090)|null|
 |**2025-03-24**|**Group Decision-Making System with Sentiment Analysis of Discussion Chat and Fuzzy Consensus Modeling**|Adilet Yerkin et.al.|[2503.18765](http://arxiv.org/abs/2503.18765)|null|
 |**2025-03-25**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669](http://arxiv.org/abs/2503.18669)|null|
@@ -1067,6 +1069,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Efficient Model Development through Fine-tuning Transfer**|Pin-Jie Lin et.al.|[2503.20110](http://arxiv.org/abs/2503.20110)|null|
+|**2025-03-25**|**Untangling the Influence of Typology, Data and Model Architecture on Ranking Transfer Languages for Cross-Lingual POS Tagging**|Enora Rice et.al.|[2503.19979](http://arxiv.org/abs/2503.19979)|null|
 |**2025-03-23**|**Detection of Somali-written Fake News and Toxic Messages on the Social Media Using Transformer-based Language Models**|Muhidin A. Mohamed et.al.|[2503.18117](http://arxiv.org/abs/2503.18117)|null|
 |**2025-03-19**|**Self-Vocabularizing Training for Neural Machine Translation**|Pin-Jie Lin et.al.|[2503.13837](http://arxiv.org/abs/2503.13837)|null|
 |**2025-03-21**|**Towards Generating Automatic Anaphora Annotations**|Dima Taji et.al.|[2503.09417](http://arxiv.org/abs/2503.09417)|null|
@@ -1337,11 +1341,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design**|Yiran Zhang et.al.|[2503.20536](http://arxiv.org/abs/2503.20536)|null|
 |**2025-03-25**|**Efficient Adversarial Detection Frameworks for Vehicle-to-Microgrid Services in Edge Computing**|Ahmed Omara et.al.|[2503.19318](http://arxiv.org/abs/2503.19318)|null|
 |**2025-03-25**|**CoMAC: Conversational Agent for Multi-Source Auxiliary Context with Sparse and Symmetric Latent Interactions**|Junfeng Liu et.al.|[2503.19274](http://arxiv.org/abs/2503.19274)|null|
 |**2025-03-24**|**A Survey of Large Language Model Agents for Question Answering**|Murong Yue et.al.|[2503.19213](http://arxiv.org/abs/2503.19213)|null|
 |**2025-03-24**|**Autoregressive Language Models for Knowledge Base Population: A case study in the space mission domain**|Andrés García-Silva et.al.|[2503.18502](http://arxiv.org/abs/2503.18502)|null|
-|**2025-03-24**|**Enhancing LLM-based Code Translation in Repository Context via Triple Knowledge-Augmented**|Guangsheng Ou et.al.|[2503.18305](http://arxiv.org/abs/2503.18305)|null|
+|**2025-03-27**|**Enhancing LLM-based Code Translation in Repository Context via Triple Knowledge-Augmented**|Guangsheng Ou et.al.|[2503.18305](http://arxiv.org/abs/2503.18305)|null|
 |**2025-03-23**|**A Study on Neuro-Symbolic Artificial Intelligence: Healthcare Perspectives**|Delower Hossain et.al.|[2503.18213](http://arxiv.org/abs/2503.18213)|null|
 |**2025-03-23**|**Investigating Recent Large Language Models for Vietnamese Machine Reading Comprehension**|Anh Duc Nguyen et.al.|[2503.18062](http://arxiv.org/abs/2503.18062)|null|
 |**2025-03-23**|**(G)I-DLE: Generative Inference via Distribution-preserving Logit Exclusion with KL Divergence Minimization for Constrained Decoding**|Hanwool Lee et.al.|[2503.18050](http://arxiv.org/abs/2503.18050)|null|
@@ -2396,6 +2401,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Enhancement of superconducting pairing via quantum control**|Oleksandr Povitchan et.al.|[2503.20426](http://arxiv.org/abs/2503.20426)|null|
+|**2025-03-26**|**Symmetry resolved out-of-time-order correlators of Heisenberg spin chains using projected matrix product operators**|Martina Gisti et.al.|[2503.20327](http://arxiv.org/abs/2503.20327)|null|
 |**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851](http://arxiv.org/abs/2503.19851)|null|
 |**2025-03-25**|**Light's symmetry, asymmetry, and their role in nonlinear optics and ultrafast phenomena**|Ofer Neufeld et.al.|[2503.19433](http://arxiv.org/abs/2503.19433)|null|
 |**2025-03-26**|**ER=EPR and Strange Metals from Quantum Entanglement**|Sang-Jin Sin et.al.|[2503.19431](http://arxiv.org/abs/2503.19431)|null|
@@ -3105,6 +3112,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/abs/2503.20215)|null|
+|**2025-03-26**|**Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models**|Alex Jinpeng Wang et.al.|[2503.20198](http://arxiv.org/abs/2503.20198)|null|
 |**2025-03-25**|**KSHSeek: Data-Driven Approaches to Mitigating and Detecting Knowledge-Shortcut Hallucinations in Generative Models**|Zhiwei Wang et.al.|[2503.19482](http://arxiv.org/abs/2503.19482)|null|
 |**2025-03-24**|**HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models**|Mingzhen Huang et.al.|[2503.19157](http://arxiv.org/abs/2503.19157)|null|
 |**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866](http://arxiv.org/abs/2503.18866)|null|
@@ -4018,6 +4027,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**|Saron Samuel et.al.|[2503.20698](http://arxiv.org/abs/2503.20698)|null|
+|**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|null|
+|**2025-03-26**|**Dewey Long Context Embedding Model: A Technical Report**|Dun Zhang et.al.|[2503.20376](http://arxiv.org/abs/2503.20376)|null|
+|**2025-03-26**|**Learnable Sequence Augmenter for Triplet Contrastive Learning in Sequential Recommendation**|Wei Wang et.al.|[2503.20232](http://arxiv.org/abs/2503.20232)|null|
+|**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206](http://arxiv.org/abs/2503.20206)|null|
+|**2025-03-26**|**Open Deep Search: Democratizing Search with Open-source Reasoning Agents**|Salaheddin Alzubi et.al.|[2503.20201](http://arxiv.org/abs/2503.20201)|null|
+|**2025-03-26**|**ProtoBERT-LoRA: Parameter-Efficient Prototypical Finetuning for Immunotherapy Study Identification**|Shijia Zhang et.al.|[2503.20179](http://arxiv.org/abs/2503.20179)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation**|Nengbo Wang et.al.|[2503.19878](http://arxiv.org/abs/2503.19878)|null|
 |**2025-03-25**|**GENIUS: A Generative Framework for Universal Multimodal Search**|Sungyeon Kim et.al.|[2503.19868](http://arxiv.org/abs/2503.19868)|null|
@@ -6163,6 +6179,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739](http://arxiv.org/abs/2503.20739)|null|
+|**2025-03-26**|**Evaluating Facial Expression Recognition Datasets for Deep Learning: A Benchmark Study with Novel Similarity Metrics**|F. Xavier Gaya-Morey et.al.|[2503.20428](http://arxiv.org/abs/2503.20428)|null|
+|**2025-03-26**|**Emotion Detection in Twitter Messages Using Combination of Long Short-Term Memory and Convolutional Deep Neural Networks**|Bahareh Golchin et.al.|[2503.20163](http://arxiv.org/abs/2503.20163)|null|
 |**2025-03-25**|**Exploring Cultural Nuances in Emotion Perception Across 15 African Languages**|Ibrahim Said Ahmad et.al.|[2503.19642](http://arxiv.org/abs/2503.19642)|null|
 |**2025-03-21**|**Meme Similarity and Emotion Detection using Multimodal Analysis**|Aidos Konyspay et.al.|[2503.17493](http://arxiv.org/abs/2503.17493)|null|
 |**2025-03-21**|**Feature-Based Dual Visual Feature Extraction Model for Compound Multimodal Emotion Recognition**|Ran Liu et.al.|[2503.17453](http://arxiv.org/abs/2503.17453)|null|
@@ -6330,6 +6349,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning**|Gongzhu Yin et.al.|[2503.20676](http://arxiv.org/abs/2503.20676)|null|
+|**2025-03-26**|**$β$ -GNN: A Robust Ensemble Approach Against Graph Structure Perturbation**|Haci Ismail Aslan et.al.|[2503.20630](http://arxiv.org/abs/2503.20630)|null|
+|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|null|
+|**2025-03-26**|**Emergent properties and the multiscale characterization challenge in condensed matter, from crystals to complex materials: a Review**|Elisabetta Nocerino et.al.|[2503.20266](http://arxiv.org/abs/2503.20266)|null|
+|**2025-03-26**|**Advancements in Natural Language Processing: Exploring Transformer-Based Architectures for Text Understanding**|Tianhao Wu et.al.|[2503.20227](http://arxiv.org/abs/2503.20227)|null|
+|**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206](http://arxiv.org/abs/2503.20206)|null|
+|**2025-03-25**|**Peer Disambiguation in Self-Reported Surveys using Graph Attention Networks**|Ajitesh Srivastava et.al.|[2503.20076](http://arxiv.org/abs/2503.20076)|null|
+|**2025-03-25**|**Developing a Complete AI-Accelerated Workflow for Superconductor Discovery**|Jason B. Gibson et.al.|[2503.20005](http://arxiv.org/abs/2503.20005)|null|
 |**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
 |**2025-03-26**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666](http://arxiv.org/abs/2503.19666)|null|
 |**2025-03-25**|**Extracting Interpretable Logic Rules from Graph Neural Networks**|Chuqin Geng et.al.|[2503.19476](http://arxiv.org/abs/2503.19476)|null|
@@ -8530,6 +8557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Dolphin: A Large-Scale Automatic Speech Recognition Model for Eastern Languages**|Yangyang Meng et.al.|[2503.20212](http://arxiv.org/abs/2503.20212)|null|
 |**2025-03-25**|**Contextual Metric Meta-Evaluation by Measuring Local Metric Accuracy**|Athiya Deviyani et.al.|[2503.19828](http://arxiv.org/abs/2503.19828)|null|
 |**2025-03-25**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic Representation Optimization**|Weifei Jin et.al.|[2503.19591](http://arxiv.org/abs/2503.19591)|null|
 |**2025-03-25**|**Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment**|Ghazanfar Ali et.al.|[2503.19334](http://arxiv.org/abs/2503.19334)|null|
@@ -9344,6 +9372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Explainable ICD Coding via Entity Linking**|Leonor Barreiros et.al.|[2503.20508](http://arxiv.org/abs/2503.20508)|null|
 |**2025-03-25**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844](http://arxiv.org/abs/2503.19844)|null|
 |**2025-03-23**|**Temporal Relation Extraction in Clinical Texts: A Span-based Graph Transformer Approach**|Rochana Chaturvedi et.al.|[2503.18085](http://arxiv.org/abs/2503.18085)|null|
 |**2025-03-22**|**Relation Extraction with Instance-Adapted Predicate Descriptions**|Yuhang Jiang et.al.|[2503.17799](http://arxiv.org/abs/2503.17799)|null|
@@ -9928,7 +9957,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Poly-FEVER: A Multilingual Fact Verification Benchmark for Hallucination Detection in Large Language Models**|Hanzhi Zhang et.al.|[2503.16541](http://arxiv.org/abs/2503.16541)|null|
+|**2025-03-26**|**Poly-FEVER: A Multilingual Fact Verification Benchmark for Hallucination Detection in Large Language Models**|Hanzhi Zhang et.al.|[2503.16541](http://arxiv.org/abs/2503.16541)|null|
 |**2025-03-20**|**Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning**|Chen Li et.al.|[2503.15952](http://arxiv.org/abs/2503.15952)|null|
 |**2025-03-11**|**Adapting Large Language Models for Parameter-Efficient Log Anomaly Detection**|Ying Fu Lim et.al.|[2503.08045](http://arxiv.org/abs/2503.08045)|null|
 |**2025-03-09**|**Dynamic Updates for Language Adaptation in Visual-Language Tracking**|Xiaohai Li et.al.|[2503.06621](http://arxiv.org/abs/2503.06621)|**[link](https://github.com/gxnu-zhonglab/dutrack)**|
@@ -10041,6 +10070,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability**|Yingdong Shi et.al.|[2503.20483](http://arxiv.org/abs/2503.20483)|null|
 |**2025-03-25**|**Guidelines For The Choice Of The Baseline in XAI Attribution Methods**|Cristian Morasso et.al.|[2503.19813](http://arxiv.org/abs/2503.19813)|null|
 |**2025-03-24**|**Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and Education**|Hayate Iso et.al.|[2503.19182](http://arxiv.org/abs/2503.19182)|null|
 |**2025-03-23**|**HH4AI: A methodological Framework for AI Human Rights impact assessment under the EUAI ACT**|Paolo Ceravolo et.al.|[2503.18994](http://arxiv.org/abs/2503.18994)|null|
