@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.05
+## Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -4116,7 +4116,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-03**|**An Assessment of the CO2 Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811](http://arxiv.org/abs/2504.02811)|null|
+|**2025-04-03**|**An Assessment of the CO $_2$ Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811](http://arxiv.org/abs/2504.02811)|null|
 |**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670](http://arxiv.org/abs/2504.02670)|null|
 |**2025-04-03**|**Prompt Optimization with Logged Bandit Data**|Haruka Kiyohara et.al.|[2504.02646](http://arxiv.org/abs/2504.02646)|null|
 |**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598](http://arxiv.org/abs/2504.02598)|null|
