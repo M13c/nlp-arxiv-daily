@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -83,7 +83,7 @@ layout: default
 |**2025-04-26**|**Advancing Scientific Text Classification: Fine-Tuned Models with Dataset Expansion and Hard-Voting**|Zhyar Rzgar K Rostam et.al.|[2504.19021](http://arxiv.org/abs/2504.19021)|null|
 |**2025-04-26**|**Factor Analysis with Correlated Topic Model for Multi-Modal Data**|Małgorzata Łazęcka et.al.|[2504.18914](http://arxiv.org/abs/2504.18914)|null|
 |**2025-04-26**|**A Simple Ensemble Strategy for LLM Inference: Towards More Stable Text Classification**|Junichiro Niimi et.al.|[2504.18884](http://arxiv.org/abs/2504.18884)|**[link](https://github.com/jniimi/ensemble_inference)**|
-|**2025-04-26**|**Sentiment and Social Signals in the Climate Crisis: A Survey on Analyzing Social Media Responses to Extreme Weather Events**|Pouya Shaeri et.al.|[2504.18837](http://arxiv.org/abs/2504.18837)|null|
+|**2025-05-02**|**Sentiment and Social Signals in the Climate Crisis: A Survey on Analyzing Social Media Responses to Extreme Weather Events**|Pouya Shaeri et.al.|[2504.18837](http://arxiv.org/abs/2504.18837)|null|
 |**2025-04-26**|**Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**|Teeradaj Racharak et.al.|[2504.18827](http://arxiv.org/abs/2504.18827)|null|
 |**2025-04-25**|**TopSpace: spatial topic modeling for unsupervised discovery of multicellular spatial tissue structures in multiplex imaging**|Junsouk Choi et.al.|[2504.18495](http://arxiv.org/abs/2504.18495)|null|
 |**2025-04-25**|**Comparative Study on the Discourse Meaning of Chinese and English Media in the Paris Olympics Based on LDA Topic Modeling Technology and LLM Prompt Engineering**|Yinglong Yu et.al.|[2504.18106](http://arxiv.org/abs/2504.18106)|null|
@@ -6983,14 +6983,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-05-02**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
 |**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562](http://arxiv.org/abs/2505.00562)|null|
 |**2025-05-01**|**DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions**|Jinhui Yi et.al.|[2505.00402](http://arxiv.org/abs/2505.00402)|null|
 |**2025-05-01**|**S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)**|Qi Wen et.al.|[2505.00393](http://arxiv.org/abs/2505.00393)|null|
 |**2025-05-01**|**From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**|Jie Yang et.al.|[2505.00364](http://arxiv.org/abs/2505.00364)|null|
 |**2025-05-01**|**Repetition Makes Perfect: Recurrent Sum-GNNs Match Message Passing Limit**|Eran Rosenbluth et.al.|[2505.00291](http://arxiv.org/abs/2505.00291)|null|
 |**2025-05-01**|**Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation**|Zhizhong Tan et.al.|[2505.00257](http://arxiv.org/abs/2505.00257)|null|
-|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
+|**2025-05-02**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
 |**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844](http://arxiv.org/abs/2504.21844)|null|
 |**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
 |**2025-04-30**|**Automatic Mapping of AutomationML Files to Ontologies for Graph Queries and Validation**|Tom Westermann et.al.|[2504.21694](http://arxiv.org/abs/2504.21694)|null|
