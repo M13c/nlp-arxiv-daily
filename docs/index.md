@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.10
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -11978,7 +11978,7 @@ layout: default
 |**2025-04-28**|**Conflicts in Texts: Data, Implications and Challenges**|Siyi Liu et.al.|[2504.19472](http://arxiv.org/abs/2504.19472)|null|
 |**2025-04-25**|**Co-Training with Active Contrastive Learning and Meta-Pseudo-Labeling on 2D Projections for Deep Semi-Supervised Learning**|David Aparco-Cardenas et.al.|[2504.18666](http://arxiv.org/abs/2504.18666)|null|
 |**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721](http://arxiv.org/abs/2504.17721)|null|
-|**2025-04-22**|**Methods for Recognizing Nested Terms**|Igor Rozhkov et.al.|[2504.16007](http://arxiv.org/abs/2504.16007)|null|
+|**2025-04-22**|**Methods for Recognizing Nested Terms**|Igor Rozhkov et.al.|[2504.16007](http://arxiv.org/abs/2504.16007)|**[link](https://github.com/fulstock/Methods-for-Recognizing-Nested-Terms)**|
 |**2025-04-22**|**RePOPE: Impact of Annotation Errors on the POPE Benchmark**|Yannic Neuhaus et.al.|[2504.15707](http://arxiv.org/abs/2504.15707)|null|
 |**2025-04-21**|**LLMs as Data Annotators: How Close Are We to Human Performance**|Muhammad Uzair Ul Haq et.al.|[2504.15022](http://arxiv.org/abs/2504.15022)|null|
 |**2025-04-18**|**MusFlow: Multimodal Music Generation via Conditional Flow Matching**|Jiahao Song et.al.|[2504.13535](http://arxiv.org/abs/2504.13535)|null|
