@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -2660,6 +2660,7 @@ layout: default
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-07**|**A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models**|Pedro Pinacho-Davidson et.al.|[2505.04784](http://arxiv.org/abs/2505.04784)|null|
 |**2025-05-07**|**A review of applications of Quantum Energy Teleportation: from experimental tests to thermodynamics and spacetime engineering**|Boris Ragula et.al.|[2505.04689](http://arxiv.org/abs/2505.04689)|null|
+|**2025-05-07**|**Beyond Task Performance: Human Experience in Human-Robot Collaboration**|Sean Kille et.al.|[2505.04182](http://arxiv.org/abs/2505.04182)|null|
 |**2025-05-02**|**Facilitating Video Story Interaction with Multi-Agent Collaborative System**|Yiwen Zhang et.al.|[2505.03807](http://arxiv.org/abs/2505.03807)|null|
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
 |**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802](http://arxiv.org/abs/2505.02802)|null|
