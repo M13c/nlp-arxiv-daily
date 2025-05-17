@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Semantic Understanding
@@ -75,6 +75,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Multi-domain Multilingual Sentiment Analysis in Industry: Predicting Aspect-based Opinion Quadruples**|Benjamin White et.al.|[2505.10389](http://arxiv.org/abs/2505.10389)|null|
+|**2025-05-15**|**Private Transformer Inference in MLaaS: A Survey**|Yang Li et.al.|[2505.10315](http://arxiv.org/abs/2505.10315)|null|
+|**2025-05-14**|**Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling**|Sulong Zhou et.al.|[2505.09665](http://arxiv.org/abs/2505.09665)|null|
 |**2025-05-13**|**A document processing pipeline for the construction of a dataset for topic modeling based on the judgments of the Italian Supreme Court**|Matteo Marulli et.al.|[2505.08439](http://arxiv.org/abs/2505.08439)|null|
 |**2025-05-13**|**Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow**|Mumtahina Ahmed et.al.|[2505.08300](http://arxiv.org/abs/2505.08300)|null|
 |**2025-05-10**|**Development of a WAZOBIA-Named Entity Recognition System**|S. E Emedem et.al.|[2505.07884](http://arxiv.org/abs/2505.07884)|null|
@@ -1489,6 +1492,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents**|Julius Henke et.al.|[2505.10321](http://arxiv.org/abs/2505.10321)|**[link](https://github.com/juliushenke/autopentest)**|
+|**2025-05-15**|**A Fine-Grained Complexity View on Propositional Abduction -- Algorithms and Lower Bounds**|Victor Lagerkvist et.al.|[2505.10201](http://arxiv.org/abs/2505.10201)|null|
+|**2025-05-15**|**Knowledge-Based Aerospace Engineering -- A Systematic Literature Review**|Tim Wittenborg et.al.|[2505.10142](http://arxiv.org/abs/2505.10142)|null|
+|**2025-05-14**|**Rhetorical XAI: Explaining AI's Benefits as well as its Use via Rhetorical Design**|Houjiang Liu et.al.|[2505.09862](http://arxiv.org/abs/2505.09862)|null|
 |**2025-05-14**|**CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios**|Raghav Garg et.al.|[2505.09436](http://arxiv.org/abs/2505.09436)|**[link](https://github.com/kapilsprinklr/cxmarena)**|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
 |**2025-05-14**|**Automated SAR ADC Sizing Using Analytical Equations**|Zhongyi Li et.al.|[2505.09172](http://arxiv.org/abs/2505.09172)|null|
@@ -2695,6 +2702,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward**|Zongsheng Wang et.al.|[2505.10218](http://arxiv.org/abs/2505.10218)|null|
+|**2025-05-15**|**Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents**|Mrinal Rawat et.al.|[2505.09970](http://arxiv.org/abs/2505.09970)|null|
 |**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558](http://arxiv.org/abs/2505.09558)|**[link](https://github.com/jishengpeng/wavreward)**|
 |**2025-05-14**|**Partnership through Play: Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy**|Nisha Devasia et.al.|[2505.09509](http://arxiv.org/abs/2505.09509)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
@@ -3512,6 +3521,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention**|Jintian Shao et.al.|[2505.10222](http://arxiv.org/abs/2505.10222)|null|
 |**2025-05-14**|**A Comprehensive Analysis of Large Language Model Outputs: Similarity, Diversity, and Bias**|Brandon Smith et.al.|[2505.09056](http://arxiv.org/abs/2505.09056)|null|
 |**2025-05-13**|**Ultrasound Report Generation with Multimodal Large Language Models for Standardized Texts**|Peixuan Ge et.al.|[2505.08838](http://arxiv.org/abs/2505.08838)|null|
 |**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/abs/2505.08622)|null|
@@ -4521,6 +4531,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M**|Dario Di Palma et.al.|[2505.10212](http://arxiv.org/abs/2505.10212)|**[link](https://github.com/sisinflab/llm-memoryinspector)**|
+|**2025-05-15**|**The Schur product of evaluation codes and its application to CSS-T quantum codes and private information retrieval**|Şeyma Bodur et.al.|[2505.10068](http://arxiv.org/abs/2505.10068)|null|
+|**2025-05-15**|**Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights**|Yifan Wu et.al.|[2505.10043](http://arxiv.org/abs/2505.10043)|null|
+|**2025-05-14**|**LiDDA: Data Driven Attribution at LinkedIn**|John Bencina et.al.|[2505.09861](http://arxiv.org/abs/2505.09861)|null|
+|**2025-05-14**|**Causal Predictive Optimization and Generation for Business AI**|Liyang Zhao et.al.|[2505.09847](http://arxiv.org/abs/2505.09847)|null|
+|**2025-05-14**|**Beyond Pairwise Learning-To-Rank At Airbnb**|Malay Haldar et.al.|[2505.09795](http://arxiv.org/abs/2505.09795)|null|
+|**2025-05-14**|**A Survey on Large Language Models in Multimodal Recommender Systems**|Alejo Lopez-Avila et.al.|[2505.09777](http://arxiv.org/abs/2505.09777)|null|
+|**2025-05-14**|**The Impact of International Collaborations with Highly Publishing Countries in Computer Science**|Alberto Gomez Espes et.al.|[2505.09776](http://arxiv.org/abs/2505.09776)|null|
 |**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590](http://arxiv.org/abs/2505.09590)|**[link](https://github.com/coffeetau/sagcn)**|
 |**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539](http://arxiv.org/abs/2505.09539)|null|
 |**2025-05-14**|**CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios**|Raghav Garg et.al.|[2505.09436](http://arxiv.org/abs/2505.09436)|**[link](https://github.com/kapilsprinklr/cxmarena)**|
@@ -7195,6 +7213,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495](http://arxiv.org/abs/2505.10495)|null|
+|**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392](http://arxiv.org/abs/2505.10392)|null|
+|**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
+|**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
+|**2025-05-15**|**Knowledge-Based Aerospace Engineering -- A Systematic Literature Review**|Tim Wittenborg et.al.|[2505.10142](http://arxiv.org/abs/2505.10142)|null|
+|**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
+|**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
+|**2025-05-15**|**Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper**|Qurat Ul Ain et.al.|[2505.10069](http://arxiv.org/abs/2505.10069)|null|
+|**2025-05-15**|**Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning**|Lei Song et.al.|[2505.10040](http://arxiv.org/abs/2505.10040)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
 |**2025-05-14**|**Efficient Mixed Precision Quantization in Graph Neural Networks**|Samir Moustafa et.al.|[2505.09361](http://arxiv.org/abs/2505.09361)|**[link](https://github.com/samirmoustafa/mixq)**|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
@@ -9700,6 +9728,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500](http://arxiv.org/abs/2505.10500)|null|
 |**2025-05-12**|**Full simulation on the dynamics of auditory synaptic fusion: Strong clustering of calcium channel might be the origin of the coherent release in the auditory hair cells**|Jaeyun Yoo et.al.|[2505.07273](http://arxiv.org/abs/2505.07273)|null|
 |**2025-05-09**|**Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients**|Jinsheng Yuan et.al.|[2505.06335](http://arxiv.org/abs/2505.06335)|null|
 |**2025-05-08**|**Teochew-Wild: The First In-the-wild Teochew Dataset with Orthographic Annotations**|Linrong Pan et.al.|[2505.05056](http://arxiv.org/abs/2505.05056)|null|
@@ -10572,6 +10601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Automated Detection of Clinical Entities in Lung and Breast Cancer Reports Using NLP Techniques**|J. Moreno-Casanova et.al.|[2505.09794](http://arxiv.org/abs/2505.09794)|null|
+|**2025-05-14**|**Interim Report on Human-Guided Adaptive Hyperparameter Optimization with Multi-Fidelity Sprints**|Michael Kamfonas et.al.|[2505.09792](http://arxiv.org/abs/2505.09792)|null|
 |**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455](http://arxiv.org/abs/2505.09455)|null|
 |**2025-05-14**|**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**|Dayong Liang et.al.|[2505.09118](http://arxiv.org/abs/2505.09118)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
@@ -11340,6 +11371,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
+|**2025-05-15**|**Emotion-sensitive Explanation Model**|Christian Schütze et.al.|[2505.10454](http://arxiv.org/abs/2505.10454)|null|
+|**2025-05-15**|**Force-Driven Validation for Collaborative Robotics in Automated Avionics Testing**|Pietro Dardano et.al.|[2505.10224](http://arxiv.org/abs/2505.10224)|null|
+|**2025-05-15**|**A User Study Evaluating Argumentative Explanations in Diagnostic Decision Support**|Felix Liedeker et.al.|[2505.10188](http://arxiv.org/abs/2505.10188)|null|
+|**2025-05-15**|**Financial Fraud Detection Using Explainable AI and Stacking Ensemble Methods**|Fahad Almalki et.al.|[2505.10050](http://arxiv.org/abs/2505.10050)|null|
+|**2025-05-15**|**Deep Learning and Explainable AI: New Pathways to Genetic Insights**|Chenyu Wang et.al.|[2505.09873](http://arxiv.org/abs/2505.09873)|null|
+|**2025-05-14**|**Rhetorical XAI: Explaining AI's Benefits as well as its Use via Rhetorical Design**|Houjiang Liu et.al.|[2505.09862](http://arxiv.org/abs/2505.09862)|null|
+|**2025-05-14**|**Explainability Through Human-Centric Design for XAI in Lung Cancer Detection**|Amy Rafferty et.al.|[2505.09755](http://arxiv.org/abs/2505.09755)|null|
 |**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
 |**2025-05-13**|**On the interplay of Explainability, Privacy and Predictive Performance with Explanation-assisted Model Extraction**|Fatima Ezzeddine et.al.|[2505.08847](http://arxiv.org/abs/2505.08847)|null|
 |**2025-05-12**|**Explainable Reinforcement Learning Agents Using World Models**|Madhuri Singh et.al.|[2505.08073](http://arxiv.org/abs/2505.08073)|null|
@@ -12129,6 +12168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**BoundarySeg:An Embarrassingly Simple Method To Boost Medical Image Segmentation Performance for Low Data Regimes**|Tushar Kataria et.al.|[2505.09829](http://arxiv.org/abs/2505.09829)|null|
 |**2025-05-12**|**Domain Regeneration: How well do LLMs match syntactic properties of text domains?**|Da Ju et.al.|[2505.07784](http://arxiv.org/abs/2505.07784)|null|
 |**2025-05-12**|**Spoken Language Understanding on Unseen Tasks With In-Context Learning**|Neeraj Agrawal et.al.|[2505.07731](http://arxiv.org/abs/2505.07731)|null|
 |**2025-05-12**|**Incomplete In-context Learning**|Wenqiang Wang et.al.|[2505.07251](http://arxiv.org/abs/2505.07251)|null|
